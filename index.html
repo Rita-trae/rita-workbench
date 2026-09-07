@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Rita · 生活管理工作台</title>
+  <meta name="theme-color" content="#e88a9a" />
+  <meta name="description" content="Rita 生活管理工作台 —— 让生活井井有条" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="Rita" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="apple-touch-icon" href="icon-192.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png" />
+  <link rel="icon" type="image/png" sizes="512x512" href="icon-512.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- 左侧导航 -->
+    <aside class="sidebar">
+      <div class="brand">
+        <span class="logo">🌸</span>
+        <div>
+          <h1>Rita 工作台</h1>
+          <p id="todayText" class="today-text">加载中...</p>
+        </div>
+      </div>
+      <div class="date-picker-wrap">
+        <label for="datePicker">记录日期</label>
+        <input type="date" id="datePicker" />
+      </div>
+      <nav class="tabs">
+        <button class="tab active" data-tab="daily">🌞 今日打卡</button>
+        <button class="tab" data-tab="baby">👶 小宝贝</button>
+        <button class="tab" data-tab="news">🔥 热点新闻</button>
+        <button class="tab" data-tab="stats">📊 完成情况</button>
+      </nav>
+    </aside>
+
+    <main class="content">
+      <!-- ============ 今日打卡 ============ -->
+      <section id="tab-daily" class="tab-panel active">
+        <div class="daily-grid">
+          <!-- 喝水 -->
+          <div class="card">
+            <div class="card-head">
+              <h3>💧 喝水</h3>
+              <span class="muted" id="waterHint">目标 8 杯</span>
+            </div>
+            <div class="water-box">
+              <button class="btn-circle" onclick="adjustWater(-1)">−</button>
+              <div class="water-display">
+                <span id="waterCount">0</span>
+                <small>杯 / 8</small>
+              </div>
+              <button class="btn-circle" onclick="adjustWater(1)">+</button>
+            </div>
+            <div class="water-dots" id="waterDots"></div>
+          </div>
+
+          <!-- 健身 -->
+          <div class="card">
+            <div class="card-head"><h3>🏃 健身</h3></div>
+            <input type="text" id="exercise" placeholder="今天做了什么运动？如：跑步 30 分钟" />
+          </div>
+
+          <!-- 体重 -->
+          <div class="card">
+            <div class="card-head"><h3>⚖️ 体重</h3></div>
+            <div class="weight-box">
+              <input type="number" step="0.1" id="weight" placeholder="kg" />
+              <span class="unit">kg</span>
+            </div>
+          </div>
+
+          <!-- 穿搭 -->
+          <div class="card">
+            <div class="card-head"><h3>👗 穿搭</h3></div>
+            <input type="text" id="outfit" placeholder="今天穿了什么？" />
+            <div class="inspo-box">
+              <div class="inspo-input-row">
+                <input type="text" id="outfitLink" placeholder="粘贴抖音/小红书穿搭灵感链接" />
+                <button class="btn-add" onclick="parseAndSaveInspo('daily','outfit')">解析</button>
+              </div>
+              <div class="inspo-list" id="outfitInspoList"></div>
+            </div>
+          </div>
+
+          <!-- 妆容 -->
+          <div class="card">
+            <div class="card-head"><h3>💄 妆容</h3></div>
+            <input type="text" id="makeup" placeholder="今天的妆容" />
+            <div class="inspo-box">
+              <div class="inspo-input-row">
+                <input type="text" id="makeupLink" placeholder="粘贴抖音/小红书妆容灵感链接" />
+                <button class="btn-add" onclick="parseAndSaveInspo('daily','makeup')">解析</button>
+              </div>
+              <div class="inspo-list" id="makeupInspoList"></div>
+            </div>
+          </div>
+
+          <!-- 英语 -->
+          <div class="card">
+            <div class="card-head"><h3>📚 英语学习</h3></div>
+            <textarea id="english" rows="3" placeholder="今天学了什么？如：背 20 个单词，看 1 集美剧"></textarea>
+            <div class="inspo-box">
+              <div class="inspo-input-row">
+                <input type="text" id="englishLink" placeholder="粘贴抖音/小红书英语学习视频链接" />
+                <button class="btn-add" onclick="parseAndSaveInspo('daily','english')">解析</button>
+              </div>
+              <div class="inspo-list" id="englishInspoList"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="save-row">
+          <button class="btn-primary" onclick="saveDaily()">💾 保存今日打卡</button>
+          <span id="dailySavedTip" class="saved-tip"></span>
+        </div>
+      </section>
+
+      <!-- ============ 小宝贝 ============ -->
+      <section id="tab-baby" class="tab-panel">
+        <div class="baby-grid">
+          <!-- 奶量 -->
+          <div class="card">
+            <div class="card-head">
+              <h3>🍼 奶量记录</h3>
+              <span class="muted">今日总量：<b id="milkTotal">0</b> ml</span>
+            </div>
+            <div class="record-form">
+              <input type="time" id="milkTime" />
+              <input type="number" id="milkAmount" placeholder="ml" min="0" />
+              <button class="btn-add" onclick="addMilk()">添加</button>
+            </div>
+            <ul class="record-list" id="milkList"></ul>
+          </div>
+
+          <!-- 辅食 -->
+          <div class="card">
+            <div class="card-head"><h3>🥣 辅食记录</h3></div>
+            <div class="record-form">
+              <input type="time" id="foodTime" />
+              <input type="text" id="foodContent" placeholder="吃了什么？" />
+              <button class="btn-add" onclick="addFood()">添加</button>
+            </div>
+            <ul class="record-list" id="foodList"></ul>
+          </div>
+
+          <!-- 睡眠 -->
+          <div class="card">
+            <div class="card-head">
+              <h3>😴 睡眠记录</h3>
+              <span class="muted">今日总睡：<b id="sleepTotal">0</b> 分钟</span>
+            </div>
+            <div class="record-form">
+              <input type="time" id="sleepStart" title="入睡" />
+              <span class="arrow">→</span>
+              <input type="time" id="sleepEnd" title="醒来" />
+              <button class="btn-add" onclick="addSleep()">添加</button>
+            </div>
+            <ul class="record-list" id="sleepList"></ul>
+          </div>
+
+          <!-- 大便 -->
+          <div class="card">
+            <div class="card-head">
+              <h3>💩 大便记录</h3>
+              <span class="muted">今日：<b id="poopCount">0</b> 次</span>
+            </div>
+            <div class="record-form poop-form">
+              <input type="time" id="poopTime" />
+              <select id="poopTexture">
+                <option value="正常">正常</option>
+                <option value="糊状">糊状</option>
+                <option value="稀便">稀便</option>
+                <option value="水样">水样</option>
+                <option value="干硬">干硬</option>
+                <option value="带泡沫">带泡沫</option>
+                <option value="带黏液">带黏液</option>
+              </select>
+              <select id="poopColor">
+                <option value="金黄">金黄</option>
+                <option value="黄">黄</option>
+                <option value="绿">绿</option>
+                <option value="墨绿">墨绿</option>
+                <option value="黑">黑</option>
+                <option value="白">白</option>
+                <option value="灰">灰</option>
+              </select>
+              <select id="poopAmount">
+                <option value="少量">少量</option>
+                <option value="中量">中量</option>
+                <option value="大量">大量</option>
+              </select>
+              <input type="text" id="poopNote" placeholder="备注（可选）" />
+              <button class="btn-add" onclick="addPoop()">添加</button>
+            </div>
+            <ul class="record-list" id="poopList"></ul>
+          </div>
+
+          <!-- 教育 -->
+          <div class="card">
+            <div class="card-head"><h3>🎓 教育内容</h3></div>
+            <textarea id="education" rows="4" placeholder="今天教了小宝贝什么？读了什么书？"></textarea>
+            <div class="inspo-box">
+              <div class="inspo-input-row">
+                <input type="text" id="educationLink" placeholder="粘贴抖音/小红书早教启蒙视频链接" />
+                <button class="btn-add" onclick="parseAndSaveInspo('baby','education')">解析</button>
+              </div>
+              <div class="inspo-list" id="educationInspoList"></div>
+            </div>
+            <div class="save-row">
+              <button class="btn-primary" onclick="saveEducation()">💾 保存教育记录</button>
+              <span id="eduSavedTip" class="saved-tip"></span>
+            </div>
+          </div>
+
+          <!-- 体格测量 -->
+          <div class="card">
+            <div class="card-head"><h3>📏 体格测量</h3></div>
+            <div class="record-form growth-measure-form">
+              <input type="date" id="mDate" />
+              <input type="number" step="0.1" id="mHeight" placeholder="身高 cm" min="0" />
+              <input type="number" step="0.1" id="mWeight" placeholder="体重 kg" min="0" />
+              <input type="number" step="0.1" id="mHead" placeholder="头围 cm" min="0" />
+              <button class="btn-add" onclick="addMeasurement()">记录</button>
+            </div>
+            <ul class="record-list" id="measureList"></ul>
+          </div>
+
+          <!-- 生长曲线 -->
+          <div class="card wide-card">
+            <div class="card-head"><h3>📈 生长曲线</h3></div>
+            <div class="growth-charts">
+              <div class="growth-chart-item">
+                <div class="chart-title">身高 (cm)</div>
+                <div class="line-chart" id="heightChart"></div>
+              </div>
+              <div class="growth-chart-item">
+                <div class="chart-title">体重 (kg)</div>
+                <div class="line-chart" id="babyWeightChart"></div>
+              </div>
+              <div class="growth-chart-item">
+                <div class="chart-title">头围 (cm)</div>
+                <div class="line-chart" id="headChart"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 发育里程碑 -->
+          <div class="card">
+            <div class="card-head"><h3>🌟 发育里程碑</h3></div>
+            <div class="record-form">
+              <input type="date" id="msDate" />
+              <select id="msCategory">
+                <option value="大动作">大动作</option>
+                <option value="精细动作">精细动作</option>
+                <option value="语言">语言</option>
+                <option value="认知">认知</option>
+                <option value="社交">社交</option>
+                <option value="其他">其他</option>
+              </select>
+              <input type="text" id="msContent" placeholder="如：第一次翻身、会叫妈妈" />
+              <button class="btn-add" onclick="addMilestone()">记录</button>
+            </div>
+            <ul class="record-list milestone-list" id="milestoneList"></ul>
+          </div>
+
+          <!-- 过敏记录 -->
+          <div class="card">
+            <div class="card-head"><h3>⚠️ 过敏记录</h3></div>
+            <div class="record-form growth-measure-form">
+              <input type="date" id="alDate" />
+              <input type="text" id="alAllergen" placeholder="过敏原，如：鸡蛋、花生" />
+              <select id="alSeverity">
+                <option value="轻微">轻微</option>
+                <option value="中度">中度</option>
+                <option value="严重">严重</option>
+              </select>
+              <input type="text" id="alReaction" placeholder="反应/症状" />
+              <button class="btn-add" onclick="addAllergy()">记录</button>
+            </div>
+            <ul class="record-list" id="allergyList"></ul>
+          </div>
+
+          <!-- 疫苗接种 -->
+          <div class="card">
+            <div class="card-head"><h3>💉 疫苗接种</h3></div>
+            <div class="record-form growth-measure-form">
+              <input type="date" id="vcDate" />
+              <input type="text" id="vcName" placeholder="疫苗名称，如：乙肝疫苗" />
+              <input type="text" id="vcDose" placeholder="剂次，如：第1针" style="min-width:80px;" />
+              <input type="text" id="vcSite" placeholder="接种部位" style="min-width:80px;" />
+              <input type="date" id="vcNext" title="下次接种日期" />
+              <button class="btn-add" onclick="addVaccine()">记录</button>
+            </div>
+            <ul class="record-list" id="vaccineList"></ul>
+          </div>
+
+          <!-- 成长相册 -->
+          <div class="card wide-card">
+            <div class="card-head"><h3>📷 成长相册</h3><span class="muted" id="photoCount">0 个</span></div>
+            <div class="album-upload">
+              <input type="date" id="photoDate" />
+              <input type="text" id="photoDesc" placeholder="这一刻的描述（可选）" />
+              <label class="btn-add file-label">
+                📁 选择照片/视频
+                <input type="file" id="photoFile" accept="image/*,video/*" multiple hidden onchange="onPhotoFiles(this)" />
+              </label>
+              <span id="uploadStatus" class="muted"></span>
+            </div>
+            <div class="album-grid" id="albumGrid"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============ 完成情况 ============ -->
+      <section id="tab-stats" class="tab-panel">
+        <div class="stats-grid">
+          <!-- 概览 -->
+          <div class="card stat-card">
+            <h3>📈 最近 7 天概览</h3>
+            <div class="stat-overview" id="statOverview"></div>
+          </div>
+
+          <!-- 喝水趋势 -->
+          <div class="card stat-card">
+            <h3>💧 近 7 天喝水（杯）</h3>
+            <div class="bar-chart" id="waterChart"></div>
+          </div>
+
+          <!-- 体重趋势 -->
+          <div class="card stat-card">
+            <h3>⚖️ 近 14 天体重（kg）</h3>
+            <div class="line-chart" id="weightChart"></div>
+          </div>
+
+          <!-- 打卡热力图 -->
+          <div class="card stat-card wide">
+            <h3>🔥 近 14 天打卡热力图</h3>
+            <div class="heatmap" id="heatmap"></div>
+            <div class="heat-legend">
+              <span>少</span>
+              <i class="lv0"></i><i class="lv1"></i><i class="lv2"></i><i class="lv3"></i><i class="lv4"></i>
+              <span>多</span>
+            </div>
+          </div>
+
+          <!-- 宝贝周报 -->
+          <div class="card stat-card wide">
+            <h3>👶 小宝贝近 7 天</h3>
+            <div class="baby-stats" id="babyStats"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============ 热点新闻 ============ -->
+      <section id="tab-news" class="tab-panel">
+        <div class="news-toolbar">
+          <button class="platform-btn active" data-platform="weibo">微博</button>
+          <button class="platform-btn" data-platform="zhihu">知乎</button>
+          <button class="platform-btn" data-platform="baidu">百度</button>
+          <button class="platform-btn" data-platform="douyin">抖音</button>
+          <button class="platform-btn" data-platform="toutiao">头条</button>
+          <button class="platform-btn" data-platform="rednote">小红书</button>
+          <button class="platform-btn" data-platform="all">全部汇总</button>
+          <button class="refresh-btn" onclick="loadNews(currentPlatform)">🔄 刷新</button>
+        </div>
+        <div class="news-meta" id="newsMeta"></div>
+        <div class="news-list" id="newsList">
+          <div class="loading">正在加载热点新闻...</div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>数据本地保存，可配置云端同步 · Rita 工作台</span>
+    </footer>
+  </div>
+
+  <!-- 视频播放弹窗 -->
+  <div class="modal" id="videoModal" onclick="closeVideoModal(event)">
+    <div class="modal-content" onclick="event.stopPropagation()">
+      <button class="modal-close" onclick="closeVideoModal()">✕</button>
+      <div class="modal-body" id="modalBody"></div>
+      <div class="modal-title" id="modalTitle"></div>
+      <a class="modal-origin" id="modalOrigin" href="#" target="_blank" rel="noopener">在原平台查看 ↗</a>
+    </div>
+  </div>
+
+  <!-- 云端同步：config → Supabase SDK → sync.js（顺序不可变） -->
+  <script src="config.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="sync.js"></script>
+  <script src="app.js"></script>
+
+  <!-- 相册查看弹窗 -->
+  <div class="modal" id="albumModal" onclick="closeAlbumModal(event)">
+    <div class="modal-content" onclick="event.stopPropagation()">
+      <button class="modal-close" onclick="closeAlbumModal()">✕</button>
+      <div class="modal-body" id="albumModalBody"></div>
+      <div class="modal-title" id="albumModalTitle"></div>
+    </div>
+  </div>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('service-worker.js').catch(function (err) {
+          console.warn('SW 注册失败:', err);
+        });
+      });
+    }
+  </script>
+</body>
+</html>
