@@ -17,6 +17,7 @@
       daily: {},
       baby: {},
       growth: { measurements: [], milestones: [], allergies: [], vaccines: [], photos: [] },
+      period: [], // 姨妈记录：[{ start: 'YYYY-MM-DD', end: 'YYYY-MM-DD'|'', note: '' }]
     };
   }
 
@@ -141,6 +142,7 @@
     if (!data.growth.allergies) data.growth.allergies = [];
     if (!data.growth.vaccines) data.growth.vaccines = [];
     if (!data.growth.photos) data.growth.photos = [];
+    if (!data.period) data.period = []; // 兼容旧数据：姨妈记录
     return data;
   }
 

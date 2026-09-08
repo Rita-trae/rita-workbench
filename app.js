@@ -48,6 +48,7 @@ function renderAll() {
   renderDaily();
   renderBaby();
   renderGrowth();
+  renderPeriod();
   renderStats();
 }
 
@@ -81,6 +82,7 @@ function init() {
   renderDaily();
   renderBaby();
   renderGrowth();
+  renderPeriod();
   renderStats();
   loadNews(currentPlatform);
 
@@ -441,6 +443,103 @@ function endSleep(i) {
   b.sleep[i].end = `${hh}:${mm}`;
   setBaby(b);
   renderBaby();
+}
+
+// ---------- 姨妈记录 ----------
+// store.period: [{ start: 'YYYY-MM-DD', end: 'YYYY-MM-DD'|'', note: '' }]
+function daysBetween(a, b) {
+  // 返回 a 到 b 的天数（b - a），可跨月
+  const da = new Date(a), db = new Date(b);
+  return Math.round((db - da) / 86400000);
+}
+function addPeriod() {
+  const start = document.getElementById('periodStart').value;
+  const end = document.getElementById('periodEnd').value;
+  if (!start) return; // 只需要开始日期
+  if (end && end < start) { alert('结束日期不能早于开始日期'); return; }
+  const period = store.period || [];
+  // 同一天避免重复
+  if (period.some(p => p.start === start)) { alert('该开始日期已有记录'); return; }
+  period.push({ start, end: end || '', note: '' });
+  store.period = period;
+  // 保持按开始日期升序
+  store.period.sort((a, b) => a.start < b.start ? -1 : 1);
+  RitaSync.saveStore(store);
+  document.getElementById('periodStart').value = '';
+  document.getElementById('periodEnd').value = '';
+  renderPeriod();
+}
+// 一键记录今天来姨妈（结束日期留空）
+function startPeriodNow() {
+  const period = store.period || [];
+  if (period.some(p => p.start === currentDate)) { alert('今天已有姨妈记录'); return; }
+  period.push({ start: currentDate, end: '', note: '' });
+  store.period = period;
+  store.period.sort((a, b) => a.start < b.start ? -1 : 1);
+  RitaSync.saveStore(store);
+  renderPeriod();
+}
+// 结束姨妈：给未结束记录补填结束日期
+function endPeriod(i) {
+  const period = store.period || [];
+  period[i].end = currentDate;
+  store.period = period;
+  RitaSync.saveStore(store);
+  renderPeriod();
+}
+function delPeriod(i) {
+  store.period.splice(i, 1);
+  RitaSync.saveStore(store);
+  renderPeriod();
+}
+function renderPeriod() {
+  const period = (store.period || []).slice().sort((a, b) => a.start < b.start ? 1 : -1); // 倒序显示
+  const list = document.getElementById('periodList');
+  const status = document.getElementById('periodStatus');
+  if (!period.length) {
+    list.innerHTML = '<li class="empty-tip">暂无姨妈记录</li>';
+    status.textContent = '尚无记录';
+    return;
+  }
+  list.innerHTML = period.map((p, i) => {
+    const durDays = p.end ? daysBetween(p.start, p.end) + 1 : null;
+    // 周期：与上一次（按时间顺序看是下一次）开始日期的差
+    const prev = period[i + 1]; // 因为倒序，i+1 是更早的记录
+    const cycleDays = prev ? daysBetween(prev.start, p.start) : null;
+    return `<li>
+      <span>
+        <span class="rec-time">${p.start} → ${p.end || '<span class="muted">进行中…</span>'}</span>
+        <b>${durDays ? durDays + '天' : (p.end ? '' : '进行中')}</b>
+        ${cycleDays ? `<span class="muted">｜周期${cycleDays}天</span>` : ''}
+      </span>
+      ${p.end ? '' : `<button class="btn-end" onclick="endPeriod(${i})">结束</button>`}
+      <button class="del-btn" onclick="delPeriod(${i})">✕</button>
+    </li>`;
+  }).join('');
+
+  // 状态提示：预测下次姨妈
+  const last = period[0]; // 最新一条（倒序后第一条）
+  if (last.end) {
+    // 已结束，预测下次
+    const cycles = [];
+    for (let i = 0; i < period.length - 1; i++) {
+      cycles.push(daysBetween(period[i + 1].start, period[i].start));
+    }
+    if (cycles.length) {
+      const avg = Math.round(cycles.reduce((a, b) => a + b, 0) / cycles.length);
+      const next = new Date(last.start);
+      next.setDate(next.getDate() + avg);
+      const nextStr = formatDate(next);
+      const remain = daysBetween(currentDate, nextStr);
+      status.textContent = `平均周期${avg}天｜预计下次 ${nextStr}（${remain > 0 ? '还有' + remain + '天' : '已到/已过'}）`;
+    } else {
+      status.textContent = `经期${daysBetween(last.start, last.end) + 1}天`;
+    }
+  } else {
+    // 进行中
+    const dur = daysBetween(last.start, currentDate) + 1;
+    status.textContent = `第${dur}天 · 进行中`;
+  }
 }
 
 function addPoop() {
