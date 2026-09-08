@@ -53,8 +53,9 @@ function renderAll() {
 }
 
 function init() {
+  currentDate = periodStr(); // 默认按 08:00~次日08:00 周期
   document.getElementById('datePicker').value = currentDate;
-  document.getElementById('todayText').textContent = `今天是 ${formatDateCN(currentDate)}`;
+  document.getElementById('todayText').textContent = `记录周期：${formatDateCN(currentDate)} 08:00 ~ 次日08:00`;
 
   // 标签切换
   document.querySelectorAll('.tab').forEach(tab => {
@@ -64,7 +65,7 @@ function init() {
   // 日期切换
   document.getElementById('datePicker').addEventListener('change', (e) => {
     currentDate = e.target.value;
-    document.getElementById('todayText').textContent = `记录日期：${formatDateCN(currentDate)}`;
+    document.getElementById('todayText').textContent = `记录周期：${formatDateCN(currentDate)} 08:00 ~ 次日08:00`;
     renderDaily();
     renderBaby();
   });
@@ -315,14 +316,47 @@ function closeVideoModal(e) {
 }
 
 // ---------- 小宝贝 ----------
-function getBaby() {
-  const b = store.baby[currentDate] || { milk: [], food: [], sleep: [], poop: [], education: '' };
+// 周期规则：当日 08:00 ~ 次日 08:00 算一个周期日
+function periodStr(d = new Date()) {
+  if (d.getHours() >= 8) return formatDate(d);
+  const prev = new Date(d);
+  prev.setDate(prev.getDate() - 1);
+  return formatDate(prev);
+}
+function periodOf(dateStr, timeStr) {
+  const h = parseInt((timeStr || '00:00').split(':')[0]);
+  if (h >= 8) return dateStr;
+  const d = new Date(dateStr);
+  d.setDate(d.getDate() - 1);
+  return formatDate(d);
+}
+function nextDay(dateStr) {
+  const d = new Date(dateStr);
+  d.setDate(d.getDate() + 1);
+  return formatDate(d);
+}
+function prevDay(dateStr) {
+  const d = new Date(dateStr);
+  d.setDate(d.getDate() - 1);
+  return formatDate(d);
+}
+// 切换到指定周期日并刷新 UI
+function switchToPeriod(date) {
+  currentDate = date;
+  document.getElementById('datePicker').value = date;
+  document.getElementById('todayText').textContent = `记录周期：${formatDateCN(date)} 08:00 ~ 次日08:00`;
+  renderDaily();
+  renderBaby();
+}
+
+function getBaby(date = currentDate) {
+  const b = store.baby[date] || { milk: [], food: [], sleep: [], poop: [], education: '' };
   if (!b.education_links) b.education_links = [];
   if (!b.poop) b.poop = [];
   return b;
 }
-function setBaby(b) {
-  store.baby[currentDate] = b;
+function setBaby(b, date = currentDate) {
+  store.baby[date] = b;
   RitaSync.saveStore(store);
 }
 
@@ -344,13 +378,20 @@ function renderBaby() {
 
   // 睡眠
   const sleepList = document.getElementById('sleepList');
-  sleepList.innerHTML = b.sleep.map((s, i) => {
+  // 检查前一周期是否有未结束睡眠（跨 08:00 醒来的情况）
+  const prevB = getBaby(prevDay(currentDate));
+  const prevOngoing = prevB.sleep.findIndex(s => !s.end);
+  let sleepHtml = '';
+  if (prevOngoing !== -1) {
+    sleepHtml += `<li><span><span class="rec-time">${prevB.sleep[prevOngoing].start} → <span class="muted">入睡中…（昨夜）</span></span><b class="muted">未结束</b></span><button class="btn-end" onclick="endSleep(-1)">结束</button></li>`;
+  }
+  sleepHtml += b.sleep.map((s, i) => {
     if (!s.end) {
-      // 未结束：显示"入睡中"并提供结束按钮
       return `<li><span><span class="rec-time">${s.start} → <span class="muted">入睡中…</span></span><b class="muted">未结束</b></span><button class="btn-end" onclick="endSleep(${i})">结束</button><button class="del-btn" onclick="delSleep(${i})">✕</button></li>`;
     }
     return `<li><span><span class="rec-time">${s.start} → ${s.end}</span><b>${sleepMin(s)} 分钟</b></span><button class="del-btn" onclick="delSleep(${i})">✕</button></li>`;
   }).join('');
+  sleepList.innerHTML = sleepHtml || '<li class="empty-tip">暂无睡眠记录</li>';
   const sleepTotal = b.sleep.reduce((s, sl) => s + sleepMin(sl), 0);
   document.getElementById('sleepTotal').textContent = sleepTotal;
 
@@ -391,11 +432,14 @@ function addMilk() {
   const time = document.getElementById('milkTime').value || nowTime();
   const amount = document.getElementById('milkAmount').value.trim();
   if (!amount) return;
-  const b = getBaby();
+  const recPeriod = periodOf(currentDate, time);
+  const b = getBaby(recPeriod);
   b.milk.push({ time, amount: parseInt(amount) });
-  setBaby(b);
+  setBaby(b, recPeriod);
   document.getElementById('milkAmount').value = '';
-  renderBaby();
+  document.getElementById('milkTime').value = '';
+  if (recPeriod !== currentDate) switchToPeriod(recPeriod);
+  else renderBaby();
 }
 function delMilk(i) {
   const b = getBaby();
@@ -408,11 +452,14 @@ function addFood() {
   const time = document.getElementById('foodTime').value || nowTime();
   const content = document.getElementById('foodContent').value.trim();
   if (!content) return;
-  const b = getBaby();
+  const recPeriod = periodOf(currentDate, time);
+  const b = getBaby(recPeriod);
   b.food.push({ time, content });
-  setBaby(b);
+  setBaby(b, recPeriod);
   document.getElementById('foodContent').value = '';
-  renderBaby();
+  document.getElementById('foodTime').value = '';
+  if (recPeriod !== currentDate) switchToPeriod(recPeriod);
+  else renderBaby();
 }
 function delFood(i) {
   const b = getBaby();
@@ -425,19 +472,24 @@ function addSleep() {
   const start = document.getElementById('sleepStart').value;
   const end = document.getElementById('sleepEnd').value;
   if (!start) return; // 只需要开始时间即可记录
-  const b = getBaby();
+  const recPeriod = periodOf(currentDate, start);
+  const b = getBaby(recPeriod);
   b.sleep.push({ start, end: end || '' });
-  setBaby(b);
+  setBaby(b, recPeriod);
   document.getElementById('sleepStart').value = '';
   document.getElementById('sleepEnd').value = '';
-  renderBaby();
+  if (recPeriod !== currentDate) switchToPeriod(recPeriod);
+  else renderBaby();
 }
 // 一键以当前时间记录入睡（醒来后再点"结束"补填）
 function startSleepNow() {
-  const b = getBaby();
-  b.sleep.push({ start: nowTime(), end: '' });
-  setBaby(b);
-  renderBaby();
+  const t = nowTime();
+  const recPeriod = periodOf(currentDate, t);
+  const b = getBaby(recPeriod);
+  b.sleep.push({ start: t, end: '' });
+  setBaby(b, recPeriod);
+  if (recPeriod !== currentDate) switchToPeriod(recPeriod);
+  else renderBaby();
 }
 function delSleep(i) {
   const b = getBaby();
@@ -446,11 +498,23 @@ function delSleep(i) {
   renderBaby();
 }
 // 结束睡眠：给已有记录补填醒来时间
+// i >= 0：结束当前周期第 i 条；i === -1：结束前一周期第一条未结束的（跨 08:00 醒来）
 function endSleep(i) {
-  const b = getBaby();
   const now = new Date();
   const hh = String(now.getHours()).padStart(2, '0');
   const mm = String(now.getMinutes()).padStart(2, '0');
+  if (i === -1) {
+    const prev = prevDay(currentDate);
+    const b = getBaby(prev);
+    const idx = b.sleep.findIndex(s => !s.end);
+    if (idx === -1) return;
+    b.sleep[idx].end = `${hh}:${mm}`;
+    setBaby(b, prev);
+    renderBaby();
+    return;
+  }
+  const b = getBaby();
+  if (!b.sleep[i] || b.sleep[i].end) return;
   b.sleep[i].end = `${hh}:${mm}`;
   setBaby(b);
   renderBaby();
@@ -556,7 +620,8 @@ function renderPeriod() {
 function addPoop() {
   const time = document.getElementById('poopTime').value;
   if (!time) return;
-  const b = getBaby();
+  const recPeriod = periodOf(currentDate, time);
+  const b = getBaby(recPeriod);
   b.poop.push({
     time,
     texture: document.getElementById('poopTexture').value,
@@ -564,9 +629,10 @@ function addPoop() {
     amount: document.getElementById('poopAmount').value,
     note: document.getElementById('poopNote').value.trim(),
   });
-  setBaby(b);
+  setBaby(b, recPeriod);
   document.getElementById('poopNote').value = '';
-  renderBaby();
+  if (recPeriod !== currentDate) switchToPeriod(recPeriod);
+  else renderBaby();
 }
 function delPoop(i) {
   const b = getBaby();
