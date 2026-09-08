@@ -102,7 +102,8 @@ function switchTab(name) {
 
 // ---------- 今日打卡 ----------
 function getDaily() {
-  const d = store.daily[currentDate] || { water: 0, exercise: '', weight: '', outfit: '', makeup: '', english: '' };
+  const d = store.daily[currentDate] || { water: 0, poop: 0, exercise: '', weight: '', outfit: '', makeup: '', english: '' };
+  if (d.poop == null) d.poop = 0; // 兼容旧数据
   if (!d.outfit_links) d.outfit_links = [];
   if (!d.makeup_links) d.makeup_links = [];
   if (!d.english_links) d.english_links = [];
@@ -117,6 +118,7 @@ function renderDaily() {
   const d = getDaily();
   document.getElementById('waterCount').textContent = d.water || 0;
   renderWaterDots(d.water || 0);
+  document.getElementById('dailyPoopCount').textContent = d.poop || 0;
   document.getElementById('exercise').value = d.exercise || '';
   document.getElementById('weight').value = d.weight || '';
   document.getElementById('outfit').value = d.outfit || '';
@@ -148,10 +150,19 @@ function adjustWater(delta) {
   showTip('dailySavedTip', '已保存');
 }
 
+function adjustPoop(delta) {
+  const d = getDaily();
+  d.poop = Math.max(0, (d.poop || 0) + delta);
+  setDaily(d);
+  renderDaily();
+  showTip('dailySavedTip', '已保存');
+}
+
 function saveDaily() {
   const old = getDaily();
   const d = {
     water: parseInt(document.getElementById('waterCount').textContent) || 0,
+    poop: parseInt(document.getElementById('dailyPoopCount').textContent) || 0,
     exercise: document.getElementById('exercise').value.trim(),
     weight: document.getElementById('weight').value.trim(),
     outfit: document.getElementById('outfit').value.trim(),

@@ -60,6 +60,22 @@
             <div class="water-dots" id="waterDots"></div>
           </div>
 
+          <!-- 拉屎次数 -->
+          <div class="card">
+            <div class="card-head">
+              <h3>💩 拉屎次数</h3>
+              <span class="muted" id="poopHint">今日已拉</span>
+            </div>
+            <div class="water-box">
+              <button class="btn-circle" onclick="adjustPoop(-1)">−</button>
+              <div class="water-display">
+                <span id="dailyPoopCount">0</span>
+                <small>次</small>
+              </div>
+              <button class="btn-circle" onclick="adjustPoop(1)">+</button>
+            </div>
+          </div>
+
           <!-- 健身 -->
           <div class="card">
             <div class="card-head"><h3>🏃 健身</h3></div>
