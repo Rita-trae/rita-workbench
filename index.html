@@ -158,8 +158,9 @@
             <div class="record-form">
               <input type="time" id="sleepStart" title="入睡" />
               <span class="arrow">→</span>
-              <input type="time" id="sleepEnd" title="醒来" />
+              <input type="time" id="sleepEnd" title="醒来（可留空，醒来后再补填）" />
               <button class="btn-add" onclick="addSleep()">添加</button>
+              <button class="btn-now" onclick="startSleepNow()">现在入睡</button>
             </div>
             <ul class="record-list" id="sleepList"></ul>
           </div>

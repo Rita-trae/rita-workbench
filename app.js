@@ -331,9 +331,13 @@ function renderBaby() {
 
   // 睡眠
   const sleepList = document.getElementById('sleepList');
-  sleepList.innerHTML = b.sleep.map((s, i) =>
-    `<li><span><span class="rec-time">${s.start} → ${s.end}</span><b>${sleepMin(s)} 分钟</b></span><button class="del-btn" onclick="delSleep(${i})">✕</button></li>`
-  ).join('');
+  sleepList.innerHTML = b.sleep.map((s, i) => {
+    if (!s.end) {
+      // 未结束：显示"入睡中"并提供结束按钮
+      return `<li><span><span class="rec-time">${s.start} → <span class="muted">入睡中…</span></span><b class="muted">未结束</b></span><button class="btn-end" onclick="endSleep(${i})">结束</button><button class="del-btn" onclick="delSleep(${i})">✕</button></li>`;
+    }
+    return `<li><span><span class="rec-time">${s.start} → ${s.end}</span><b>${sleepMin(s)} 分钟</b></span><button class="del-btn" onclick="delSleep(${i})">✕</button></li>`;
+  }).join('');
   const sleepTotal = b.sleep.reduce((s, sl) => s + sleepMin(sl), 0);
   document.getElementById('sleepTotal').textContent = sleepTotal;
 
@@ -407,17 +411,34 @@ function delFood(i) {
 function addSleep() {
   const start = document.getElementById('sleepStart').value;
   const end = document.getElementById('sleepEnd').value;
-  if (!start || !end) return;
+  if (!start) return; // 只需要开始时间即可记录
   const b = getBaby();
-  b.sleep.push({ start, end });
+  b.sleep.push({ start, end: end || '' });
   setBaby(b);
   document.getElementById('sleepStart').value = '';
   document.getElementById('sleepEnd').value = '';
   renderBaby();
 }
+// 一键以当前时间记录入睡（醒来后再点"结束"补填）
+function startSleepNow() {
+  const b = getBaby();
+  b.sleep.push({ start: nowTime(), end: '' });
+  setBaby(b);
+  renderBaby();
+}
 function delSleep(i) {
   const b = getBaby();
   b.sleep.splice(i, 1);
+  setBaby(b);
+  renderBaby();
+}
+// 结束睡眠：给已有记录补填醒来时间
+function endSleep(i) {
+  const b = getBaby();
+  const now = new Date();
+  const hh = String(now.getHours()).padStart(2, '0');
+  const mm = String(now.getMinutes()).padStart(2, '0');
+  b.sleep[i].end = `${hh}:${mm}`;
   setBaby(b);
   renderBaby();
 }

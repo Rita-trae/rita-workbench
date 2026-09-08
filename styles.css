@@ -257,6 +257,29 @@ textarea { resize: vertical; }
   white-space: nowrap;
 }
 .btn-add:hover { background: var(--primary-dark); }
+.btn-now {
+  background: var(--bg-soft);
+  color: var(--primary-dark);
+  border: 1px solid var(--primary);
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.btn-now:hover { background: var(--primary); color: #fff; }
+.btn-end {
+  background: var(--primary);
+  color: #fff;
+  border: none;
+  padding: 4px 12px;
+  border-radius: 6px;
+  font-size: 12px;
+  cursor: pointer;
+  margin-right: 6px;
+  white-space: nowrap;
+}
+.btn-end:hover { background: var(--primary-dark); }
 .arrow { display: flex; align-items: center; color: var(--muted); }
 
 .record-list { list-style: none; max-height: 220px; overflow-y: auto; }
