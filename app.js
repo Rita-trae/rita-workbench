@@ -367,10 +367,10 @@ function renderBaby() {
     if (!s.end) {
       return `<li><span><span class="rec-time">${s.start} → <span class="muted">入睡中…</span></span><b class="muted">未结束</b></span><button class="btn-end" onclick="endSleep(${i})">结束</button><button class="del-btn" onclick="delSleep(${i})">✕</button></li>`;
     }
-    return `<li><span><span class="rec-time">${s.start} → ${s.end}</span><b>${sleepMin(s)} 分钟</b></span><button class="del-btn" onclick="delSleep(${i})">✕</button></li>`;
+    return `<li><span><span class="rec-time">${s.start} → ${s.end}</span><b>${fmtHM(sleepMin(s))}</b></span><button class="del-btn" onclick="delSleep(${i})">✕</button></li>`;
   }).join('');
   const sleepTotal = b.sleep.reduce((s, sl) => s + sleepMin(sl), 0);
-  document.getElementById('sleepTotal').textContent = sleepTotal;
+  document.getElementById('sleepTotal').textContent = fmtHM(sleepTotal);
 
   // 大便
   const poopList = document.getElementById('poopList');
@@ -398,6 +398,15 @@ function sleepMin(s) {
   let mins = (eh * 60 + em) - (sh * 60 + sm);
   if (mins < 0) mins += 24 * 60; // 跨天
   return mins;
+}
+// 将分钟格式化为"X小时Y分钟"（小时为0时只显示分钟）
+function fmtHM(mins) {
+  if (!mins) return '0 分钟';
+  const h = Math.floor(mins / 60);
+  const m = mins % 60;
+  if (h && m) return `${h} 小时 ${m} 分钟`;
+  if (h) return `${h} 小时`;
+  return `${m} 分钟`;
 }
 
 function nowTime() {
