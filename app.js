@@ -340,6 +340,27 @@ function setBaby(b, date = currentDate) {
 
 function renderBaby() {
   const b = getBaby();
+
+  // 昨日汇总：仅当查看今天且当前时间 >= 09:00 时显示
+  const summary = document.getElementById('yesterdaySummary');
+  if (currentDate === todayStr() && new Date().getHours() >= 9) {
+    const yd = prevDay(currentDate);
+    const yB = getBaby(yd);
+    // 昨日奶量周期：昨日 08:00 之后 + 今天 08:00 之前
+    const yMilk = [
+      ...(yB.milk || []).filter(m => parseInt(m.time.split(':')[0]) >= 8),
+      ...(b.milk || []).filter(m => parseInt(m.time.split(':')[0]) < 8),
+    ].reduce((s, m) => s + (parseInt(m.amount) || 0), 0);
+    // 昨日睡眠总量（自然日）
+    const ySleep = (yB.sleep || []).reduce((s, sl) => s + sleepMin(sl), 0);
+    document.getElementById('yesterdayDate').textContent = yd.slice(5);
+    document.getElementById('yesterdayMilk').textContent = yMilk;
+    document.getElementById('yesterdaySleep').textContent = fmtHM(ySleep);
+    summary.style.display = '';
+  } else {
+    summary.style.display = 'none';
+  }
+
   // 奶量：按 08:00~次日08:00 周期统计
   // 当天 08:00 之后 + 次日 08:00 之前
   const nextB = getBaby(nextDay(currentDate));

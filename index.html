@@ -155,6 +155,17 @@
 
       <!-- ============ 小宝贝 ============ -->
       <section id="tab-baby" class="tab-panel">
+        <!-- 昨日汇总：当天 09:00 后显示前一天的奶量和睡眠总量 -->
+        <div class="card" id="yesterdaySummary" style="display:none;">
+          <div class="card-head">
+            <h3>📋 昨日汇总</h3>
+            <span class="muted" id="yesterdayDate"></span>
+          </div>
+          <div style="display:flex;gap:24px;flex-wrap:wrap;">
+            <div><b id="yesterdayMilk">0</b> <span class="muted">ml 奶量</span></div>
+            <div><b id="yesterdaySleep">0</b> <span class="muted">睡眠</span></div>
+          </div>
+        </div>
         <div class="baby-grid">
           <!-- 奶量 -->
           <div class="card">
