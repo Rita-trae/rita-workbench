@@ -1,0 +1,40 @@
+name: 更新热搜数据
+
+on:
+  schedule:
+    # 每 15 分钟运行一次
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出 gh-pages 分支
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          fetch-depth: 1
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 运行热搜抓取脚本
+        run: python3 scripts/fetch_news.py
+
+      - name: 提交并推送 JSON 数据
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add news/*.json
+          if git diff --cached --quiet; then
+            echo "无数据变更，跳过提交"
+          else
+            git commit -m "chore: 更新热搜数据 $(date '+%Y-%m-%d %H:%M')"
+            git push origin gh-pages
+          fi

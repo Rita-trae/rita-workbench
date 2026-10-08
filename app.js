@@ -48,6 +48,7 @@ function renderAll() {
   renderDaily();
   renderBaby();
   renderGrowth();
+  renderPeriod();
   renderStats();
 }
 
@@ -81,6 +82,7 @@ function init() {
   renderDaily();
   renderBaby();
   renderGrowth();
+  renderPeriod();
   renderStats();
   loadNews(currentPlatform);
 
@@ -100,7 +102,8 @@ function switchTab(name) {
 
 // ---------- 今日打卡 ----------
 function getDaily() {
-  const d = store.daily[currentDate] || { water: 0, exercise: '', weight: '', outfit: '', makeup: '', english: '' };
+  const d = store.daily[currentDate] || { water: 0, poop: 0, exercise: '', weight: '', outfit: '', makeup: '', english: '' };
+  if (d.poop == null) d.poop = 0; // 兼容旧数据
   if (!d.outfit_links) d.outfit_links = [];
   if (!d.makeup_links) d.makeup_links = [];
   if (!d.english_links) d.english_links = [];
@@ -115,6 +118,7 @@ function renderDaily() {
   const d = getDaily();
   document.getElementById('waterCount').textContent = d.water || 0;
   renderWaterDots(d.water || 0);
+  document.getElementById('dailyPoopCount').textContent = d.poop || 0;
   document.getElementById('exercise').value = d.exercise || '';
   document.getElementById('weight').value = d.weight || '';
   document.getElementById('outfit').value = d.outfit || '';
@@ -146,10 +150,19 @@ function adjustWater(delta) {
   showTip('dailySavedTip', '已保存');
 }
 
+function adjustPoop(delta) {
+  const d = getDaily();
+  d.poop = Math.max(0, (d.poop || 0) + delta);
+  setDaily(d);
+  renderDaily();
+  showTip('dailySavedTip', '已保存');
+}
+
 function saveDaily() {
   const old = getDaily();
   const d = {
     water: parseInt(document.getElementById('waterCount').textContent) || 0,
+    poop: parseInt(document.getElementById('dailyPoopCount').textContent) || 0,
     exercise: document.getElementById('exercise').value.trim(),
     weight: document.getElementById('weight').value.trim(),
     outfit: document.getElementById('outfit').value.trim(),
@@ -302,25 +315,65 @@ function closeVideoModal(e) {
 }
 
 // ---------- 小宝贝 ----------
-function getBaby() {
-  const b = store.baby[currentDate] || { milk: [], food: [], sleep: [], poop: [], education: '' };
+// 奶量统计周期：当日 08:00 ~ 次日 08:00
+function nextDay(dateStr) {
+  const d = new Date(dateStr);
+  d.setDate(d.getDate() + 1);
+  return formatDate(d);
+}
+function prevDay(dateStr) {
+  const d = new Date(dateStr);
+  d.setDate(d.getDate() - 1);
+  return formatDate(d);
+}
+
+function getBaby(date = currentDate) {
+  const b = store.baby[date] || { milk: [], food: [], sleep: [], poop: [], education: '' };
   if (!b.education_links) b.education_links = [];
   if (!b.poop) b.poop = [];
   return b;
 }
-function setBaby(b) {
-  store.baby[currentDate] = b;
+function setBaby(b, date = currentDate) {
+  store.baby[date] = b;
   RitaSync.saveStore(store);
 }
 
 function renderBaby() {
   const b = getBaby();
-  // 奶量
+
+  // 昨日汇总：仅当查看今天且当前时间 >= 09:00 时显示
+  const summary = document.getElementById('yesterdaySummary');
+  if (currentDate === todayStr() && new Date().getHours() >= 9) {
+    const yd = prevDay(currentDate);
+    const yB = getBaby(yd);
+    // 昨日奶量周期：昨日 08:00 之后 + 今天 08:00 之前
+    const yMilk = [
+      ...(yB.milk || []).filter(m => parseInt(m.time.split(':')[0]) >= 8),
+      ...(b.milk || []).filter(m => parseInt(m.time.split(':')[0]) < 8),
+    ].reduce((s, m) => s + (parseInt(m.amount) || 0), 0);
+    // 昨日睡眠总量（自然日）
+    const ySleep = (yB.sleep || []).reduce((s, sl) => s + sleepMin(sl), 0);
+    document.getElementById('yesterdayDate').textContent = yd.slice(5);
+    document.getElementById('yesterdayMilk').textContent = yMilk;
+    document.getElementById('yesterdaySleep').textContent = fmtHM(ySleep);
+    summary.style.display = '';
+  } else {
+    summary.style.display = 'none';
+  }
+
+  // 奶量：按 08:00~次日08:00 周期统计
+  // 当天 08:00 之后 + 次日 08:00 之前
+  const nextB = getBaby(nextDay(currentDate));
+  const todayMilks = (b.milk || []).filter(m => parseInt(m.time.split(':')[0]) >= 8);
+  const nextMilks = (nextB.milk || []).filter(m => parseInt(m.time.split(':')[0]) < 8);
+  const periodMilks = [...todayMilks, ...nextMilks];
   const milkList = document.getElementById('milkList');
-  milkList.innerHTML = b.milk.map((m, i) =>
-    `<li><span><span class="rec-time">${m.time}</span><b>${m.amount} ml</b></span><button class="del-btn" onclick="delMilk(${i})">✕</button></li>`
-  ).join('');
-  const milkTotal = b.milk.reduce((s, m) => s + (parseInt(m.amount) || 0), 0);
+  milkList.innerHTML = periodMilks.map((m, i) => {
+    const src = i < todayMilks.length ? 'today' : 'next';
+    const localIdx = src === 'today' ? (b.milk || []).indexOf(m) : (nextB.milk || []).indexOf(m);
+    return `<li><span><span class="rec-time">${m.time}${src === 'next' ? ' 次日' : ''}</span><b>${m.amount} ml</b></span><button class="del-btn" onclick="delMilk('${src}',${localIdx})">✕</button></li>`;
+  }).join('');
+  const milkTotal = periodMilks.reduce((s, m) => s + (parseInt(m.amount) || 0), 0);
   document.getElementById('milkTotal').textContent = milkTotal;
 
   // 辅食
@@ -333,13 +386,12 @@ function renderBaby() {
   const sleepList = document.getElementById('sleepList');
   sleepList.innerHTML = b.sleep.map((s, i) => {
     if (!s.end) {
-      // 未结束：显示"入睡中"并提供结束按钮
       return `<li><span><span class="rec-time">${s.start} → <span class="muted">入睡中…</span></span><b class="muted">未结束</b></span><button class="btn-end" onclick="endSleep(${i})">结束</button><button class="del-btn" onclick="delSleep(${i})">✕</button></li>`;
     }
-    return `<li><span><span class="rec-time">${s.start} → ${s.end}</span><b>${sleepMin(s)} 分钟</b></span><button class="del-btn" onclick="delSleep(${i})">✕</button></li>`;
+    return `<li><span><span class="rec-time">${s.start} → ${s.end}</span><b>${fmtHM(sleepMin(s))}</b></span><button class="del-btn" onclick="delSleep(${i})">✕</button></li>`;
   }).join('');
   const sleepTotal = b.sleep.reduce((s, sl) => s + sleepMin(sl), 0);
-  document.getElementById('sleepTotal').textContent = sleepTotal;
+  document.getElementById('sleepTotal').textContent = fmtHM(sleepTotal);
 
   // 大便
   const poopList = document.getElementById('poopList');
@@ -368,6 +420,15 @@ function sleepMin(s) {
   if (mins < 0) mins += 24 * 60; // 跨天
   return mins;
 }
+// 将分钟格式化为"X小时Y分钟"（小时为0时只显示分钟）
+function fmtHM(mins) {
+  if (!mins) return '0 分钟';
+  const h = Math.floor(mins / 60);
+  const m = mins % 60;
+  if (h && m) return `${h} 小时 ${m} 分钟`;
+  if (h) return `${h} 小时`;
+  return `${m} 分钟`;
+}
 
 function nowTime() {
   const d = new Date();
@@ -382,12 +443,23 @@ function addMilk() {
   b.milk.push({ time, amount: parseInt(amount) });
   setBaby(b);
   document.getElementById('milkAmount').value = '';
+  document.getElementById('milkTime').value = '';
+  // 若时间 < 08:00，该记录属于前一周期，自动切换视图以便用户看到
+  if (parseInt(time.split(':')[0]) < 8) {
+    const prev = prevDay(currentDate);
+    currentDate = prev;
+    document.getElementById('datePicker').value = prev;
+    document.getElementById('todayText').textContent = `记录日期：${formatDateCN(prev)}`;
+    renderDaily();
+  }
   renderBaby();
 }
-function delMilk(i) {
-  const b = getBaby();
-  b.milk.splice(i, 1);
-  setBaby(b);
+// delMilk: src='today' 删当天 milk[idx]，src='next' 删次日 milk[idx]
+function delMilk(src, idx) {
+  const date = src === 'next' ? nextDay(currentDate) : currentDate;
+  const b = getBaby(date);
+  b.milk.splice(idx, 1);
+  setBaby(b, date);
   renderBaby();
 }
 
@@ -399,6 +471,7 @@ function addFood() {
   b.food.push({ time, content });
   setBaby(b);
   document.getElementById('foodContent').value = '';
+  document.getElementById('foodTime').value = '';
   renderBaby();
 }
 function delFood(i) {
@@ -441,6 +514,103 @@ function endSleep(i) {
   b.sleep[i].end = `${hh}:${mm}`;
   setBaby(b);
   renderBaby();
+}
+
+// ---------- 姨妈记录 ----------
+// store.period: [{ start: 'YYYY-MM-DD', end: 'YYYY-MM-DD'|'', note: '' }]
+function daysBetween(a, b) {
+  // 返回 a 到 b 的天数（b - a），可跨月
+  const da = new Date(a), db = new Date(b);
+  return Math.round((db - da) / 86400000);
+}
+function addPeriod() {
+  const start = document.getElementById('periodStart').value;
+  const end = document.getElementById('periodEnd').value;
+  if (!start) return; // 只需要开始日期
+  if (end && end < start) { alert('结束日期不能早于开始日期'); return; }
+  const period = store.period || [];
+  // 同一天避免重复
+  if (period.some(p => p.start === start)) { alert('该开始日期已有记录'); return; }
+  period.push({ start, end: end || '', note: '' });
+  store.period = period;
+  // 保持按开始日期升序
+  store.period.sort((a, b) => a.start < b.start ? -1 : 1);
+  RitaSync.saveStore(store);
+  document.getElementById('periodStart').value = '';
+  document.getElementById('periodEnd').value = '';
+  renderPeriod();
+}
+// 一键记录今天来姨妈（结束日期留空）
+function startPeriodNow() {
+  const period = store.period || [];
+  if (period.some(p => p.start === currentDate)) { alert('今天已有姨妈记录'); return; }
+  period.push({ start: currentDate, end: '', note: '' });
+  store.period = period;
+  store.period.sort((a, b) => a.start < b.start ? -1 : 1);
+  RitaSync.saveStore(store);
+  renderPeriod();
+}
+// 结束姨妈：给未结束记录补填结束日期
+function endPeriod(i) {
+  const period = store.period || [];
+  period[i].end = currentDate;
+  store.period = period;
+  RitaSync.saveStore(store);
+  renderPeriod();
+}
+function delPeriod(i) {
+  store.period.splice(i, 1);
+  RitaSync.saveStore(store);
+  renderPeriod();
+}
+function renderPeriod() {
+  const period = (store.period || []).slice().sort((a, b) => a.start < b.start ? 1 : -1); // 倒序显示
+  const list = document.getElementById('periodList');
+  const status = document.getElementById('periodStatus');
+  if (!period.length) {
+    list.innerHTML = '<li class="empty-tip">暂无姨妈记录</li>';
+    status.textContent = '尚无记录';
+    return;
+  }
+  list.innerHTML = period.map((p, i) => {
+    const durDays = p.end ? daysBetween(p.start, p.end) + 1 : null;
+    // 周期：与上一次（按时间顺序看是下一次）开始日期的差
+    const prev = period[i + 1]; // 因为倒序，i+1 是更早的记录
+    const cycleDays = prev ? daysBetween(prev.start, p.start) : null;
+    return `<li>
+      <span>
+        <span class="rec-time">${p.start} → ${p.end || '<span class="muted">进行中…</span>'}</span>
+        <b>${durDays ? durDays + '天' : (p.end ? '' : '进行中')}</b>
+        ${cycleDays ? `<span class="muted">｜周期${cycleDays}天</span>` : ''}
+      </span>
+      ${p.end ? '' : `<button class="btn-end" onclick="endPeriod(${i})">结束</button>`}
+      <button class="del-btn" onclick="delPeriod(${i})">✕</button>
+    </li>`;
+  }).join('');
+
+  // 状态提示：预测下次姨妈
+  const last = period[0]; // 最新一条（倒序后第一条）
+  if (last.end) {
+    // 已结束，预测下次
+    const cycles = [];
+    for (let i = 0; i < period.length - 1; i++) {
+      cycles.push(daysBetween(period[i + 1].start, period[i].start));
+    }
+    if (cycles.length) {
+      const avg = Math.round(cycles.reduce((a, b) => a + b, 0) / cycles.length);
+      const next = new Date(last.start);
+      next.setDate(next.getDate() + avg);
+      const nextStr = formatDate(next);
+      const remain = daysBetween(currentDate, nextStr);
+      status.textContent = `平均周期${avg}天｜预计下次 ${nextStr}（${remain > 0 ? '还有' + remain + '天' : '已到/已过'}）`;
+    } else {
+      status.textContent = `经期${daysBetween(last.start, last.end) + 1}天`;
+    }
+  } else {
+    // 进行中
+    const dur = daysBetween(last.start, currentDate) + 1;
+    status.textContent = `第${dur}天 · 进行中`;
+  }
 }
 
 function addPoop() {
@@ -972,16 +1142,16 @@ function renderBabyStats(days) {
 }
 
 // ---------- 热点新闻 ----------
+// 数据由 GitHub Actions 每 15 分钟抓取一次，存为静态 JSON（同源，无 CORS 问题）
 const PLATFORMS = {
-  weibo: { name: '微博', url: 'https://60s.viki.moe/v2/weibo', emoji: '🦊' },
-  zhihu: { name: '知乎', url: 'https://60s.viki.moe/v2/zhihu', emoji: '❓' },
-  baidu: { name: '百度', url: 'https://60s.viki.moe/v2/baidu/hot', emoji: '🅱️' },
-  douyin: { name: '抖音', url: 'https://60s.viki.moe/v2/douyin', emoji: '🎵' },
-  toutiao: { name: '头条', url: 'https://60s.viki.moe/v2/toutiao', emoji: '📰' },
-  rednote: { name: '小红书', url: 'https://60s.viki.moe/v2/rednote', emoji: '📕' },
+  weibo:    { name: '微博', url: 'news/weibo.json',    emoji: '🦊' },
+  baidu:    { name: '百度', url: 'news/baidu.json',    emoji: '🅱️' },
+  toutiao:  { name: '头条', url: 'news/toutiao.json',  emoji: '📰' },
+  bilibili: { name: 'B站',  url: 'news/bilibili.json', emoji: '📺' },
+  thepaper: { name: '澎湃', url: 'news/thepaper.json', emoji: '📰' },
 };
 
-// 简易新闻缓存（按平台+日期）
+// 简易新闻缓存（按平台，10 分钟）
 function getNewsCacheKey(p) { return `rita_news_${p}_${todayStr()}`; }
 
 async function loadNews(platform) {
@@ -998,9 +1168,10 @@ async function loadNews(platform) {
   const p = PLATFORMS[platform];
   try {
     const data = await fetchNews(p.url);
-    if (!data || !data.data) throw new Error('无数据');
+    if (!data || !data.data || !data.data.length) throw new Error('暂无数据');
     renderNewsGroup(listEl, p, data.data, true);
-    metaEl.textContent = `${p.emoji} ${p.name}热搜 · 共 ${data.data.length} 条 · ${new Date().toLocaleTimeString('zh-CN')} 更新`;
+    const upd = data.updated_at ? new Date(data.updated_at).toLocaleString('zh-CN') : new Date().toLocaleTimeString('zh-CN');
+    metaEl.textContent = `${p.emoji} ${p.name}热搜 · 共 ${data.data.length} 条 · ${upd} 更新`;
   } catch (e) {
     listEl.innerHTML = `<div class="error-msg">⚠️ ${p.name}热点加载失败：${e.message}，请稍后刷新</div>`;
   }
@@ -1016,7 +1187,7 @@ async function loadAllNews() {
     const p = PLATFORMS[k];
     try {
       const data = await fetchNews(p.url);
-      if (data && data.data) {
+      if (data && data.data && data.data.length) {
         renderNewsGroup(listEl, p, data.data.slice(0, 10), false);
         ok++;
       }
@@ -1037,7 +1208,7 @@ function renderNewsGroup(container, p, items, single) {
   items.forEach((item, i) => {
     const div = document.createElement('div');
     div.className = 'news-item';
-    const hot = formatHot(item.hot_value || item.hot || item.score || item.desc);
+    const hot = formatHot(item.hot_value || item.hot || item.score);
     const link = item.link || item.url || '#';
     div.innerHTML = `
       <div class="news-rank">${i + 1}</div>
@@ -1065,17 +1236,17 @@ function escapeHtml(s) {
 }
 
 async function fetchNews(url) {
-  // 优先用缓存（当天），减少请求
+  // 优先用 sessionStorage 缓存（10 分钟）
   const cacheKey = 'rita_news_cache_' + url;
   const cached = sessionStorage.getItem(cacheKey);
   const now = Date.now();
   if (cached) {
     try {
       const c = JSON.parse(cached);
-      if (now - c.ts < 10 * 60 * 1000) return c.data; // 缓存10分钟
+      if (now - c.ts < 10 * 60 * 1000) return c.data;
     } catch (e) {}
   }
-  const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+  const res = await fetch(url, { cache: 'no-cache' });
   if (!res.ok) throw new Error('HTTP ' + res.status);
   const data = await res.json();
   sessionStorage.setItem(cacheKey, JSON.stringify({ ts: now, data }));

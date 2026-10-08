@@ -1,5 +1,5 @@
 // Rita 工作台 Service Worker - 离线缓存
-const CACHE = 'rita-cache-v1';
+const CACHE = 'rita-cache-v3';
 const ASSETS = [
   './',
   './index.html',
@@ -28,24 +28,21 @@ self.addEventListener('activate', (e) => {
   );
 });
 
-// 请求：缓存优先，网络请求的新内容也写入缓存
+// 请求：网络优先，失败时回退缓存（确保总是拿到最新代码）
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
   // 只缓存同源 GET 请求
   if (e.request.method !== 'GET' || url.origin !== location.origin) return;
   e.respondWith(
-    caches.match(e.request).then((cached) => {
-      const fetchPromise = fetch(e.request)
-        .then((res) => {
-          // 成功响应则更新缓存
-          if (res && res.status === 200 && res.type === 'basic') {
-            const clone = res.clone();
-            caches.open(CACHE).then((cache) => cache.put(e.request, clone));
-          }
-          return res;
-        })
-        .catch(() => cached);
-      return cached || fetchPromise;
-    })
+    fetch(e.request)
+      .then((res) => {
+        // 成功响应则更新缓存
+        if (res && res.status === 200 && res.type === 'basic') {
+          const clone = res.clone();
+          caches.open(CACHE).then((cache) => cache.put(e.request, clone));
+        }
+        return res;
+      })
+      .catch(() => caches.match(e.request).then((cached) => cached || new Response('离线', { status: 503 })))
   );
 });
