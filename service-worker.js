@@ -1,5 +1,5 @@
 // Rita 工作台 Service Worker - 离线缓存
-const CACHE = 'rita-cache-v3';
+const CACHE = 'rita-cache-v4';
 const ASSETS = [
   './',
   './index.html',

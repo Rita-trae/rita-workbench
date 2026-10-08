@@ -116,14 +116,16 @@ function setDaily(d) {
 
 function renderDaily() {
   const d = getDaily();
-  document.getElementById('waterCount').textContent = d.water || 0;
+  const setText = (id, val) => { const el = document.getElementById(id); if (el) el.textContent = val; };
+  const setVal = (id, val) => { const el = document.getElementById(id); if (el) el.value = val; };
+  setText('waterCount', d.water || 0);
   renderWaterDots(d.water || 0);
-  document.getElementById('dailyPoopCount').textContent = d.poop || 0;
-  document.getElementById('exercise').value = d.exercise || '';
-  document.getElementById('weight').value = d.weight || '';
-  document.getElementById('outfit').value = d.outfit || '';
-  document.getElementById('makeup').value = d.makeup || '';
-  document.getElementById('english').value = d.english || '';
+  setText('dailyPoopCount', d.poop || 0);
+  setVal('exercise', d.exercise || '');
+  setVal('weight', d.weight || '');
+  setVal('outfit', d.outfit || '');
+  setVal('makeup', d.makeup || '');
+  setVal('english', d.english || '');
   renderInspoList('daily', 'outfit');
   renderInspoList('daily', 'makeup');
   renderInspoList('daily', 'english');
@@ -162,7 +164,7 @@ function saveDaily() {
   const old = getDaily();
   const d = {
     water: parseInt(document.getElementById('waterCount').textContent) || 0,
-    poop: parseInt(document.getElementById('dailyPoopCount').textContent) || 0,
+    poop: parseInt(document.getElementById('dailyPoopCount')?.textContent) || 0,
     exercise: document.getElementById('exercise').value.trim(),
     weight: document.getElementById('weight').value.trim(),
     outfit: document.getElementById('outfit').value.trim(),
@@ -343,22 +345,27 @@ function renderBaby() {
 
   // 昨日汇总：仅当查看今天且当前时间 >= 09:00 时显示
   const summary = document.getElementById('yesterdaySummary');
-  if (currentDate === todayStr() && new Date().getHours() >= 9) {
-    const yd = prevDay(currentDate);
-    const yB = getBaby(yd);
-    // 昨日奶量周期：昨日 08:00 之后 + 今天 08:00 之前
-    const yMilk = [
-      ...(yB.milk || []).filter(m => parseInt(m.time.split(':')[0]) >= 8),
-      ...(b.milk || []).filter(m => parseInt(m.time.split(':')[0]) < 8),
-    ].reduce((s, m) => s + (parseInt(m.amount) || 0), 0);
-    // 昨日睡眠总量（自然日）
-    const ySleep = (yB.sleep || []).reduce((s, sl) => s + sleepMin(sl), 0);
-    document.getElementById('yesterdayDate').textContent = yd.slice(5);
-    document.getElementById('yesterdayMilk').textContent = yMilk;
-    document.getElementById('yesterdaySleep').textContent = fmtHM(ySleep);
-    summary.style.display = '';
-  } else {
-    summary.style.display = 'none';
+  if (summary) {
+    if (currentDate === todayStr() && new Date().getHours() >= 9) {
+      const yd = prevDay(currentDate);
+      const yB = getBaby(yd);
+      // 昨日奶量周期：昨日 08:00 之后 + 今天 08:00 之前
+      const yMilk = [
+        ...(yB.milk || []).filter(m => parseInt(m.time.split(':')[0]) >= 8),
+        ...(b.milk || []).filter(m => parseInt(m.time.split(':')[0]) < 8),
+      ].reduce((s, m) => s + (parseInt(m.amount) || 0), 0);
+      // 昨日睡眠总量（自然日）
+      const ySleep = (yB.sleep || []).reduce((s, sl) => s + sleepMin(sl), 0);
+      const dateEl = document.getElementById('yesterdayDate');
+      if (dateEl) dateEl.textContent = yd.slice(5);
+      const milkEl = document.getElementById('yesterdayMilk');
+      if (milkEl) milkEl.textContent = yMilk;
+      const sleepEl = document.getElementById('yesterdaySleep');
+      if (sleepEl) sleepEl.textContent = fmtHM(ySleep);
+      summary.style.display = '';
+    } else {
+      summary.style.display = 'none';
+    }
   }
 
   // 奶量：按 08:00~次日08:00 周期统计
@@ -564,9 +571,10 @@ function delPeriod(i) {
   renderPeriod();
 }
 function renderPeriod() {
-  const period = (store.period || []).slice().sort((a, b) => a.start < b.start ? 1 : -1); // 倒序显示
   const list = document.getElementById('periodList');
   const status = document.getElementById('periodStatus');
+  if (!list || !status) return; // HTML 中无姨妈记录部分时不执行
+  const period = (store.period || []).slice().sort((a, b) => a.start < b.start ? 1 : -1); // 倒序显示
   if (!period.length) {
     list.innerHTML = '<li class="empty-tip">暂无姨妈记录</li>';
     status.textContent = '尚无记录';

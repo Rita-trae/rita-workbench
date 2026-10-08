@@ -520,6 +520,8 @@ textarea { resize: vertical; }
   gap: 16px;
 }
 .wide-card { grid-column: 1 / -1; }
+.summary-row { display: flex; gap: 24px; font-size: 1rem; padding: 8px 0; }
+.summary-row b { font-size: 1.2rem; color: var(--primary, #e91e63); }
 .growth-measure-form input[type="number"] { min-width: 90px; }
 .record-form select {
   border: 1px solid var(--border);

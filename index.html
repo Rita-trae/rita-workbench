@@ -32,8 +32,8 @@
         <input type="date" id="datePicker" />
       </div>
       <nav class="tabs">
-        <button class="tab active" data-tab="daily">🌞 今日打卡</button>
-        <button class="tab" data-tab="baby">👶 小宝贝</button>
+        <button class="tab active" data-tab="baby">👶 小宝贝</button>
+        <button class="tab" data-tab="daily">🌞 今日打卡</button>
         <button class="tab" data-tab="news">🔥 热点新闻</button>
         <button class="tab" data-tab="stats">📊 完成情况</button>
       </nav>
@@ -41,7 +41,7 @@
 
     <main class="content">
       <!-- ============ 今日打卡 ============ -->
-      <section id="tab-daily" class="tab-panel active">
+      <section id="tab-daily" class="tab-panel">
         <div class="daily-grid">
           <!-- 喝水 -->
           <div class="card">
@@ -113,6 +113,21 @@
               <div class="inspo-list" id="englishInspoList"></div>
             </div>
           </div>
+
+          <!-- 大便计数 -->
+          <div class="card">
+            <div class="card-head">
+              <h3>💩 大便次数</h3>
+            </div>
+            <div class="water-box">
+              <button class="btn-circle" onclick="adjustPoop(-1)">−</button>
+              <div class="water-display">
+                <span id="dailyPoopCount">0</span>
+                <small>次</small>
+              </div>
+              <button class="btn-circle" onclick="adjustPoop(1)">+</button>
+            </div>
+          </div>
         </div>
 
         <div class="save-row">
@@ -122,8 +137,19 @@
       </section>
 
       <!-- ============ 小宝贝 ============ -->
-      <section id="tab-baby" class="tab-panel">
+      <section id="tab-baby" class="tab-panel active">
         <div class="baby-grid">
+          <!-- 昨日汇总 -->
+          <div class="card wide-card" id="yesterdaySummary" style="display:none;">
+            <div class="card-head">
+              <h3>📋 昨日汇总（<span id="yesterdayDate"></span>）</h3>
+            </div>
+            <div class="summary-row">
+              <span>🍼 奶量：<b id="yesterdayMilk">0</b> ml</span>
+              <span>😴 睡眠：<b id="yesterdaySleep">0</b></span>
+            </div>
+          </div>
+
           <!-- 奶量 -->
           <div class="card">
             <div class="card-head">
