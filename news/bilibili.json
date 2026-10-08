@@ -2,42 +2,12 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-10-08T21:38:00+08:00",
+  "updated_at": "2026-10-09T03:30:04+08:00",
   "data": [
     {
-      "title": "NAVI JDG",
-      "link": "https://search.bilibili.com/all?keyword=NAVI%20JDG",
-      "hot_value": 276128
-    },
-    {
-      "title": "带班主任体验黄毛的一天",
-      "link": "https://search.bilibili.com/all?keyword=%E5%B8%A6%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%BD%93%E9%AA%8C%E9%BB%84%E6%AF%9B%E7%9A%84%E4%B8%80%E5%A4%A9",
-      "hot_value": 276134
-    },
-    {
-      "title": "五分钟认识美国中期选举",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BA%94%E5%88%86%E9%92%9F%E8%AE%A4%E8%AF%86%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE",
-      "hot_value": 276139
-    },
-    {
-      "title": "VIT NS",
-      "link": "https://search.bilibili.com/all?keyword=VIT%20NS",
-      "hot_value": 275372
-    },
-    {
-      "title": "中国航天事业创建70周年",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BA%8B%E4%B8%9A%E5%88%9B%E5%BB%BA70%E5%91%A8%E5%B9%B4",
-      "hot_value": 276129
-    },
-    {
-      "title": "盘点花少2六次神反转",
-      "link": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E8%8A%B1%E5%B0%912%E5%85%AD%E6%AC%A1%E7%A5%9E%E5%8F%8D%E8%BD%AC",
-      "hot_value": 276154
-    },
-    {
-      "title": "V社破例允许BC.G加入亚洲赛区",
-      "link": "https://search.bilibili.com/all?keyword=V%E7%A4%BE%E7%A0%B4%E4%BE%8B%E5%85%81%E8%AE%B8BC.G%E5%8A%A0%E5%85%A5%E4%BA%9A%E6%B4%B2%E8%B5%9B%E5%8C%BA",
-      "hot_value": 276151
+      "title": "世卫敦促俄方披露更多病例信息",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%96%E5%8D%AB%E6%95%A6%E4%BF%83%E4%BF%84%E6%96%B9%E6%8A%AB%E9%9C%B2%E6%9B%B4%E5%A4%9A%E7%97%85%E4%BE%8B%E4%BF%A1%E6%81%AF",
+      "hot_value": 276107
     },
     {
       "title": "杜兰特徐静雨B站世纪会面",
@@ -45,9 +15,9 @@
       "hot_value": 276122
     },
     {
-      "title": "世卫敦促俄方披露更多病例信息",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%96%E5%8D%AB%E6%95%A6%E4%BF%83%E4%BF%84%E6%96%B9%E6%8A%AB%E9%9C%B2%E6%9B%B4%E5%A4%9A%E7%97%85%E4%BE%8B%E4%BF%A1%E6%81%AF",
-      "hot_value": 276107
+      "title": "NAVI JDG",
+      "link": "https://search.bilibili.com/all?keyword=NAVI%20JDG",
+      "hot_value": 276128
     },
     {
       "title": "100T G2",
@@ -55,74 +25,19 @@
       "hot_value": 275373
     },
     {
-      "title": "潜伏吴站长世界巡演",
-      "link": "https://search.bilibili.com/all?keyword=%E6%BD%9C%E4%BC%8F%E5%90%B4%E7%AB%99%E9%95%BF%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94",
-      "hot_value": 276041
+      "title": "RTX 5070登顶Steam显卡榜",
+      "link": "https://search.bilibili.com/all?keyword=RTX%205070%E7%99%BB%E9%A1%B6Steam%E6%98%BE%E5%8D%A1%E6%A6%9C",
+      "hot_value": 276159
     },
     {
-      "title": "巴西大选如何影响南美走向",
-      "link": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%80%89%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%8D%97%E7%BE%8E%E8%B5%B0%E5%90%91",
-      "hot_value": 276143
+      "title": "未成年人触网将有强制保护",
+      "link": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E8%A7%A6%E7%BD%91%E5%B0%86%E6%9C%89%E5%BC%BA%E5%88%B6%E4%BF%9D%E6%8A%A4",
+      "hot_value": 276160
     },
     {
-      "title": "程小时",
-      "link": "https://search.bilibili.com/all?keyword=%E7%A8%8B%E5%B0%8F%E6%97%B6",
-      "hot_value": 276121
-    },
-    {
-      "title": "吃了不烧心是啥梗",
-      "link": "https://search.bilibili.com/all?keyword=%E5%90%83%E4%BA%86%E4%B8%8D%E7%83%A7%E5%BF%83%E6%98%AF%E5%95%A5%E6%A2%97",
-      "hot_value": 276146
-    },
-    {
-      "title": "我的三角洲固排要卖号怎么办",
-      "link": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9B%BA%E6%8E%92%E8%A6%81%E5%8D%96%E5%8F%B7%E6%80%8E%E4%B9%88%E5%8A%9E",
-      "hot_value": 276141
-    },
-    {
-      "title": "FLY RED",
-      "link": "https://search.bilibili.com/all?keyword=FLY%20RED",
-      "hot_value": 276100
-    },
-    {
-      "title": "不烧心的国庆作业我不写",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%83%A7%E5%BF%83%E7%9A%84%E5%9B%BD%E5%BA%86%E4%BD%9C%E4%B8%9A%E6%88%91%E4%B8%8D%E5%86%99",
-      "hot_value": 275952
-    },
-    {
-      "title": "小鬼lucy水边live好治愈",
-      "link": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E9%AC%BClucy%E6%B0%B4%E8%BE%B9live%E5%A5%BD%E6%B2%BB%E6%84%88",
-      "hot_value": 276145
-    },
-    {
-      "title": "如来三界巡演",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E6%9D%A5%E4%B8%89%E7%95%8C%E5%B7%A1%E6%BC%94",
-      "hot_value": 275941
-    },
-    {
-      "title": "以醉之名",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E9%86%89%E4%B9%8B%E5%90%8D",
-      "hot_value": 275944
-    },
-    {
-      "title": "尊界V800刹车踏板支架断裂",
-      "link": "https://search.bilibili.com/all?keyword=%E5%B0%8A%E7%95%8CV800%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82",
-      "hot_value": 276065
-    },
-    {
-      "title": "国庆热梗大盘点",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E7%83%AD%E6%A2%97%E5%A4%A7%E7%9B%98%E7%82%B9",
-      "hot_value": 276030
-    },
-    {
-      "title": "非洲二手市场找到中国高中校服",
-      "link": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E6%B4%B2%E4%BA%8C%E6%89%8B%E5%B8%82%E5%9C%BA%E6%89%BE%E5%88%B0%E4%B8%AD%E5%9B%BD%E9%AB%98%E4%B8%AD%E6%A0%A1%E6%9C%8D",
-      "hot_value": 275934
-    },
-    {
-      "title": "摇滚老炮于谦入坑电音",
-      "link": "https://search.bilibili.com/all?keyword=%E6%91%87%E6%BB%9A%E8%80%81%E7%82%AE%E4%BA%8E%E8%B0%A6%E5%85%A5%E5%9D%91%E7%94%B5%E9%9F%B3",
-      "hot_value": 276117
+      "title": "五分钟认识美国中期选举",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BA%94%E5%88%86%E9%92%9F%E8%AE%A4%E8%AF%86%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE",
+      "hot_value": 276139
     },
     {
       "title": "生化危机电影怪物原型盘点",
@@ -130,14 +45,34 @@
       "hot_value": 276116
     },
     {
-      "title": "高启强世界巡演",
-      "link": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%90%AF%E5%BC%BA%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94",
-      "hot_value": 276079
+      "title": "生化危机爆发夜值得看吗",
+      "link": "https://search.bilibili.com/all?keyword=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
+      "hot_value": 276156
     },
     {
-      "title": "AI手搓开心麻花版火影忍者",
-      "link": "https://search.bilibili.com/all?keyword=AI%E6%89%8B%E6%90%93%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%E7%89%88%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85",
-      "hot_value": 276112
+      "title": "中国如何破解历史周期率",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E5%8E%86%E5%8F%B2%E5%91%A8%E6%9C%9F%E7%8E%87",
+      "hot_value": 276113
+    },
+    {
+      "title": "历史最高价170HX涨幅近10倍",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98%E4%BB%B7170HX%E6%B6%A8%E5%B9%85%E8%BF%9110%E5%80%8D",
+      "hot_value": 276172
+    },
+    {
+      "title": "以醉之名",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E9%86%89%E4%B9%8B%E5%90%8D",
+      "hot_value": 275944
+    },
+    {
+      "title": "巴图姆的纯实力有多强",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9B%BE%E5%A7%86%E7%9A%84%E7%BA%AF%E5%AE%9E%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA",
+      "hot_value": 276158
+    },
+    {
+      "title": "潜伏吴站长世界巡演",
+      "link": "https://search.bilibili.com/all?keyword=%E6%BD%9C%E4%BC%8F%E5%90%B4%E7%AB%99%E9%95%BF%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94",
+      "hot_value": 276041
     },
     {
       "title": "宋雨琦主打曲MV",
@@ -145,14 +80,79 @@
       "hot_value": 276075
     },
     {
+      "title": "VIT NS",
+      "link": "https://search.bilibili.com/all?keyword=VIT%20NS",
+      "hot_value": 275372
+    },
+    {
+      "title": "曾打上韩服第一的Bo现状如何",
+      "link": "https://search.bilibili.com/all?keyword=%E6%9B%BE%E6%89%93%E4%B8%8A%E9%9F%A9%E6%9C%8D%E7%AC%AC%E4%B8%80%E7%9A%84Bo%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
+      "hot_value": 276140
+    },
+    {
+      "title": "从U23开始重新看中国男足",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BB%8EU23%E5%BC%80%E5%A7%8B%E9%87%8D%E6%96%B0%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3",
+      "hot_value": 276157
+    },
+    {
+      "title": "程小时",
+      "link": "https://search.bilibili.com/all?keyword=%E7%A8%8B%E5%B0%8F%E6%97%B6",
+      "hot_value": 276121
+    },
+    {
+      "title": "高启强世界巡演",
+      "link": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%90%AF%E5%BC%BA%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94",
+      "hot_value": 276079
+    },
+    {
+      "title": "CS2教练登场EPL表演赛",
+      "link": "https://search.bilibili.com/all?keyword=CS2%E6%95%99%E7%BB%83%E7%99%BB%E5%9C%BAEPL%E8%A1%A8%E6%BC%94%E8%B5%9B",
+      "hot_value": 276052
+    },
+    {
+      "title": "AI手搓开心麻花版火影忍者",
+      "link": "https://search.bilibili.com/all?keyword=AI%E6%89%8B%E6%90%93%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%E7%89%88%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85",
+      "hot_value": 276112
+    },
+    {
       "title": "终末地汤汤EP一诺为家",
       "link": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E6%B1%A4%E6%B1%A4EP%E4%B8%80%E8%AF%BA%E4%B8%BA%E5%AE%B6",
       "hot_value": 275922
     },
     {
-      "title": "S16战队巡礼LCK篇",
-      "link": "https://search.bilibili.com/all?keyword=S16%E6%88%98%E9%98%9F%E5%B7%A1%E7%A4%BCLCK%E7%AF%87",
-      "hot_value": 276124
+      "title": "非洲二手市场找到中国高中校服",
+      "link": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E6%B4%B2%E4%BA%8C%E6%89%8B%E5%B8%82%E5%9C%BA%E6%89%BE%E5%88%B0%E4%B8%AD%E5%9B%BD%E9%AB%98%E4%B8%AD%E6%A0%A1%E6%9C%8D",
+      "hot_value": 275934
+    },
+    {
+      "title": "UP主亲历美国乡下川普集会",
+      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BA%B2%E5%8E%86%E7%BE%8E%E5%9B%BD%E4%B9%A1%E4%B8%8B%E5%B7%9D%E6%99%AE%E9%9B%86%E4%BC%9A",
+      "hot_value": 276155
+    },
+    {
+      "title": "盘点花少2六次神反转",
+      "link": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E8%8A%B1%E5%B0%912%E5%85%AD%E6%AC%A1%E7%A5%9E%E5%8F%8D%E8%BD%AC",
+      "hot_value": 276154
+    },
+    {
+      "title": "我的三角洲固排要卖号怎么办",
+      "link": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9B%BA%E6%8E%92%E8%A6%81%E5%8D%96%E5%8F%B7%E6%80%8E%E4%B9%88%E5%8A%9E",
+      "hot_value": 276141
+    },
+    {
+      "title": "吃了不烧心是啥梗",
+      "link": "https://search.bilibili.com/all?keyword=%E5%90%83%E4%BA%86%E4%B8%8D%E7%83%A7%E5%BF%83%E6%98%AF%E5%95%A5%E6%A2%97",
+      "hot_value": 276146
+    },
+    {
+      "title": "杨瀚森首战数据之外的东西",
+      "link": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%A6%96%E6%88%98%E6%95%B0%E6%8D%AE%E4%B9%8B%E5%A4%96%E7%9A%84%E4%B8%9C%E8%A5%BF",
+      "hot_value": 276127
+    },
+    {
+      "title": "梳理华纳被收购完整始末",
+      "link": "https://search.bilibili.com/all?keyword=%E6%A2%B3%E7%90%86%E5%8D%8E%E7%BA%B3%E8%A2%AB%E6%94%B6%E8%B4%AD%E5%AE%8C%E6%95%B4%E5%A7%8B%E6%9C%AB",
+      "hot_value": 276169
     }
   ]
 }
