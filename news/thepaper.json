@@ -2,21 +2,11 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-10-14T13:28:30+08:00",
+  "updated_at": "2026-10-14T18:33:02+08:00",
   "data": [
     {
       "title": "马上评｜1.9元汽水引发举报，无端耗费社会资源",
       "link": "https://www.thepaper.cn/newsDetail_forward_34244532",
-      "hot_value": 0
-    },
-    {
-      "title": "重庆市委原副书记、市政府原市长黄奇帆被查",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34243299",
-      "hot_value": 0
-    },
-    {
-      "title": "佛山一医生收患者1.9元汽水遭举报，律师：无利益交换且价值极低，不应追责",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34243289",
       "hot_value": 0
     },
     {
@@ -25,13 +15,13 @@
       "hot_value": 0
     },
     {
-      "title": "官方通报男子在悬空寺做引体向上：公安机关已正式立案调查",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34243095",
+      "title": "佛山一医生收患者1.9元汽水遭举报，律师：无利益交换且价值极低，不应追责",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34243289",
       "hot_value": 0
     },
     {
-      "title": "辽宁鞍山一用户发现十年疑被多收五千多元燃气费，讨要余额被报警敲诈",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34240851",
+      "title": "44亿港元资产被限制！茶百道遭香港证监会停牌：IPO涉嫌人为操纵，募资款或暗中回流至承配人",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34243282",
       "hot_value": 0
     },
     {
@@ -40,23 +30,13 @@
       "hot_value": 0
     },
     {
-      "title": "7起涉导向违法广告典型案例公布：滴露物化女性广告两公司被罚共超100万",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34242646",
-      "hot_value": 0
-    },
-    {
-      "title": "人工智能该加速还是踩刹车？读懂AI安全争论背后的“六大派”立场",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34242092",
-      "hot_value": 0
-    },
-    {
-      "title": "印尼总统称将如家人般保护中方投资者，外交部答澎湃：愿持续深化相关利益互利合作",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34241933",
-      "hot_value": 0
-    },
-    {
       "title": "蔡康永现身沈伯洋竞选活动，国台办：在大是大非问题上，没有任何模糊空间",
       "link": "https://www.thepaper.cn/newsDetail_forward_34247472",
+      "hot_value": 0
+    },
+    {
+      "title": "女子丢身份证后疑遭盗用现“吸毒记录”和异地社保卡流水近590万元，相关案件正在查",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34247433",
       "hot_value": 0
     },
     {
@@ -70,8 +50,18 @@
       "hot_value": 0
     },
     {
-      "title": "领克汽车回应“车辆坠崖”：车主轻微擦伤及局部骨裂，事故原因正调查\n",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34241809",
+      "title": "马上评｜“女摊主被差评后轻生”的网络发言警示",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34248612",
+      "hot_value": 0
+    },
+    {
+      "title": "马上评｜高铁上免提通话扰邻，只能靠劝来解决吗",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34248943",
+      "hot_value": 0
+    },
+    {
+      "title": "媒体：在悬空寺做引体向上“悬空”，不是秀肌肉而是秀无知",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34246600",
       "hot_value": 0
     },
     {
@@ -85,8 +75,13 @@
       "hot_value": 0
     },
     {
-      "title": "媒体：在悬空寺做引体向上“悬空”，不是秀肌肉而是秀无知",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34246600",
+      "title": "媒体评男子同日与不同女子办婚宴和百日宴：以“进步”为幌子行封建之实",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34247173",
+      "hot_value": 0
+    },
+    {
+      "title": "澎湃回声｜河北深州多地农田架设捕鸟网被曝光后，涉事点位鸟网拆除",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34243641",
       "hot_value": 0
     },
     {
@@ -100,8 +95,13 @@
       "hot_value": 0
     },
     {
-      "title": "44亿港元资产被限制！茶百道遭香港证监会停牌：IPO涉嫌人为操纵，募资款或暗中回流至承配人",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34243282",
+      "title": "“烹饪大师”退场后首次中国厨师节将举办，相应技术性称号已列入计划",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34244251",
+      "hot_value": 0
+    },
+    {
+      "title": "中朝新鸭绿江大桥明日将正式开通",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34247327",
       "hot_value": 0
     }
   ]
