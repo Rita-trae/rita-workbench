@@ -2,11 +2,16 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-10-14T05:30:24+08:00",
+  "updated_at": "2026-10-14T08:38:25+08:00",
   "data": [
     {
       "title": "重庆市委原副书记、市政府原市长黄奇帆被查",
       "link": "https://www.thepaper.cn/newsDetail_forward_34243299",
+      "hot_value": 0
+    },
+    {
+      "title": "佛山一医生收患者1.9元汽水遭举报，律师：无利益交换且价值极低，不应追责",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34243289",
       "hot_value": 0
     },
     {
@@ -20,18 +25,13 @@
       "hot_value": 0
     },
     {
-      "title": "佛山一医生收患者1.9元汽水遭举报，律师：无利益交换且价值极低，不应追责",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34243289",
+      "title": "马上评｜加拿大鹅就扔垃圾道歉，环保不该只在口头",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34244104",
       "hot_value": 0
     },
     {
       "title": "辽宁鞍山一用户发现十年疑被多收五千多元燃气费，讨要余额被报警敲诈",
       "link": "https://www.thepaper.cn/newsDetail_forward_34240851",
-      "hot_value": 0
-    },
-    {
-      "title": "上台“检讨”的教师们：“羞辱式”问责背后的教育困局",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34236591",
       "hot_value": 0
     },
     {
@@ -45,23 +45,13 @@
       "hot_value": 0
     },
     {
-      "title": "言短意长｜校园仪容仪表管理为何频引争议",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34238162",
-      "hot_value": 0
-    },
-    {
-      "title": "印尼总统称将如家人般保护中方投资者，外交部答澎湃：愿持续深化相关利益互利合作",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34241933",
-      "hot_value": 0
-    },
-    {
       "title": "人工智能该加速还是踩刹车？读懂AI安全争论背后的“六大派”立场",
       "link": "https://www.thepaper.cn/newsDetail_forward_34242092",
       "hot_value": 0
     },
     {
-      "title": "70亩私立学校被伪造签名过户给商业公司？盐城市不动产登记中心：如果伪造须承担法律责任\n",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34226378",
+      "title": "印尼总统称将如家人般保护中方投资者，外交部答澎湃：愿持续深化相关利益互利合作",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34241933",
       "hot_value": 0
     },
     {
@@ -85,11 +75,6 @@
       "hot_value": 0
     },
     {
-      "title": "人民日报：中国消费增长“慢”下来了吗？还有挖潜空间吗？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34239799",
-      "hot_value": 0
-    },
-    {
       "title": "领克汽车回应“车辆坠崖”：车主轻微擦伤及局部骨裂，事故原因正调查\n",
       "link": "https://www.thepaper.cn/newsDetail_forward_34241809",
       "hot_value": 0
@@ -102,6 +87,21 @@
     {
       "title": "财晓得丨研究点什么，更有机会拿诺贝尔经济学奖",
       "link": "https://www.thepaper.cn/newsDetail_forward_34224985",
+      "hot_value": 0
+    },
+    {
+      "title": "记者手记｜王选辉：对冰川科学家来说，“失联”本身就是工作的一部分",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34243816",
+      "hot_value": 0
+    },
+    {
+      "title": "44亿港元资产被限制！茶百道遭香港证监会停牌：IPO涉嫌人为操纵，募资款或暗中回流至承配人",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34243282",
+      "hot_value": 0
+    },
+    {
+      "title": "“烹饪大师”退场后首次中国厨师节将举办，相应技术性称号已列入计划",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34244251",
       "hot_value": 0
     }
   ]
