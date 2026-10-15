@@ -2,52 +2,12 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-10-16T03:28:16+08:00",
+  "updated_at": "2026-10-16T06:39:16+08:00",
   "data": [
     {
-      "title": "C9 KC",
-      "link": "https://search.bilibili.com/all?keyword=C9%20KC",
-      "hot_value": 277256
-    },
-    {
-      "title": "S16谁是夺冠热门",
-      "link": "https://search.bilibili.com/all?keyword=S16%E8%B0%81%E6%98%AF%E5%A4%BA%E5%86%A0%E7%83%AD%E9%97%A8",
-      "hot_value": 277217
-    },
-    {
-      "title": "高群书来B站了这瓜保熟",
-      "link": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%BE%A4%E4%B9%A6%E6%9D%A5B%E7%AB%99%E4%BA%86%E8%BF%99%E7%93%9C%E4%BF%9D%E7%86%9F",
-      "hot_value": 277196
-    },
-    {
-      "title": "WE BRO",
-      "link": "https://search.bilibili.com/all?keyword=WE%20BRO",
-      "hot_value": 277195
-    },
-    {
-      "title": "DeepSeek宣布故障补偿方案",
-      "link": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88",
-      "hot_value": 277222
-    },
-    {
-      "title": "怎么看日网痛批小学午餐",
-      "link": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E6%97%A5%E7%BD%91%E7%97%9B%E6%89%B9%E5%B0%8F%E5%AD%A6%E5%8D%88%E9%A4%90",
-      "hot_value": 277229
-    },
-    {
-      "title": "成都AG超玩会 上海EDG.M",
-      "link": "https://search.bilibili.com/all?keyword=%E6%88%90%E9%83%BDAG%E8%B6%85%E7%8E%A9%E4%BC%9A%20%E4%B8%8A%E6%B5%B7EDG.M",
-      "hot_value": 277203
-    },
-    {
-      "title": "AI为何会欺骗人类",
-      "link": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB",
-      "hot_value": 277261
-    },
-    {
-      "title": "9岁男孩的神级改编",
-      "link": "https://search.bilibili.com/all?keyword=9%E5%B2%81%E7%94%B7%E5%AD%A9%E7%9A%84%E7%A5%9E%E7%BA%A7%E6%94%B9%E7%BC%96",
-      "hot_value": 277159
+      "title": "S16入围赛",
+      "link": "https://search.bilibili.com/all?keyword=S16%E5%85%A5%E5%9B%B4%E8%B5%9B",
+      "hot_value": 277257
     },
     {
       "title": "英伟达RTX Spark性能分析",
@@ -55,14 +15,39 @@
       "hot_value": 277238
     },
     {
-      "title": "EDG.M战胜AG超玩会赛后数据",
-      "link": "https://search.bilibili.com/all?keyword=EDG.M%E6%88%98%E8%83%9CAG%E8%B6%85%E7%8E%A9%E4%BC%9A%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-      "hot_value": 277240
+      "title": "S16谁是夺冠热门",
+      "link": "https://search.bilibili.com/all?keyword=S16%E8%B0%81%E6%98%AF%E5%A4%BA%E5%86%A0%E7%83%AD%E9%97%A8",
+      "hot_value": 277217
+    },
+    {
+      "title": "WE BRO",
+      "link": "https://search.bilibili.com/all?keyword=WE%20BRO",
+      "hot_value": 277195
+    },
+    {
+      "title": "高群书来B站了这瓜保熟",
+      "link": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%BE%A4%E4%B9%A6%E6%9D%A5B%E7%AB%99%E4%BA%86%E8%BF%99%E7%93%9C%E4%BF%9D%E7%86%9F",
+      "hot_value": 277196
+    },
+    {
+      "title": "怎么看日网痛批小学午餐",
+      "link": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E6%97%A5%E7%BD%91%E7%97%9B%E6%89%B9%E5%B0%8F%E5%AD%A6%E5%8D%88%E9%A4%90",
+      "hot_value": 277229
+    },
+    {
+      "title": "AI消失前的最后一天",
+      "link": "https://search.bilibili.com/all?keyword=AI%E6%B6%88%E5%A4%B1%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9",
+      "hot_value": 277239
     },
     {
       "title": "广州TTG 长沙TES.A",
       "link": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E5%B7%9ETTG%20%E9%95%BF%E6%B2%99TES.A",
       "hot_value": 277237
+    },
+    {
+      "title": "DeepSeek宣布故障补偿方案",
+      "link": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88",
+      "hot_value": 277222
     },
     {
       "title": "GTA6最新预告解析",
@@ -75,14 +60,19 @@
       "hot_value": 277124
     },
     {
+      "title": "天安门小猫是这样认识武警的",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B0%8F%E7%8C%AB%E6%98%AF%E8%BF%99%E6%A0%B7%E8%AE%A4%E8%AF%86%E6%AD%A6%E8%AD%A6%E7%9A%84",
+      "hot_value": 277213
+    },
+    {
       "title": "永琪回村变身手机医生",
       "link": "https://search.bilibili.com/all?keyword=%E6%B0%B8%E7%90%AA%E5%9B%9E%E6%9D%91%E5%8F%98%E8%BA%AB%E6%89%8B%E6%9C%BA%E5%8C%BB%E7%94%9F",
       "hot_value": 277065
     },
     {
-      "title": "胡塞武装与沙特冲突如何影响中东",
-      "link": "https://search.bilibili.com/all?keyword=%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E4%B8%8E%E6%B2%99%E7%89%B9%E5%86%B2%E7%AA%81%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B8%AD%E4%B8%9C",
-      "hot_value": 277175
+      "title": "韩国人评李秀满新女团A2OLITE",
+      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%AF%84%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%A5%B3%E5%9B%A2A2OLITE",
+      "hot_value": 276945
     },
     {
       "title": "网络黑话如何影响现代语言系统",
@@ -90,14 +80,19 @@
       "hot_value": 277149
     },
     {
+      "title": "韩国为啥要求乌克兰道歉",
+      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%B8%BA%E5%95%A5%E8%A6%81%E6%B1%82%E4%B9%8C%E5%85%8B%E5%85%B0%E9%81%93%E6%AD%89",
+      "hot_value": 277214
+    },
+    {
+      "title": "胡塞武装与沙特冲突如何影响中东",
+      "link": "https://search.bilibili.com/all?keyword=%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E4%B8%8E%E6%B2%99%E7%89%B9%E5%86%B2%E7%AA%81%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B8%AD%E4%B8%9C",
+      "hot_value": 277175
+    },
+    {
       "title": "锐评李秀满新团A2OLITE",
       "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%9B%A2A2OLITE",
       "hot_value": 277036
-    },
-    {
-      "title": "通关全部陷阱拿走100万美金",
-      "link": "https://search.bilibili.com/all?keyword=%E9%80%9A%E5%85%B3%E5%85%A8%E9%83%A8%E9%99%B7%E9%98%B1%E6%8B%BF%E8%B5%B0100%E4%B8%87%E7%BE%8E%E9%87%91",
-      "hot_value": 277223
     },
     {
       "title": "赵露思监制新剧讲了什么事",
@@ -105,14 +100,19 @@
       "hot_value": 277053
     },
     {
-      "title": "天安门小猫是这样认识武警的",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B0%8F%E7%8C%AB%E6%98%AF%E8%BF%99%E6%A0%B7%E8%AE%A4%E8%AF%86%E6%AD%A6%E8%AD%A6%E7%9A%84",
-      "hot_value": 277213
+      "title": "通关全部陷阱拿走100万美金",
+      "link": "https://search.bilibili.com/all?keyword=%E9%80%9A%E5%85%B3%E5%85%A8%E9%83%A8%E9%99%B7%E9%98%B1%E6%8B%BF%E8%B5%B0100%E4%B8%87%E7%BE%8E%E9%87%91",
+      "hot_value": 277223
     },
     {
-      "title": "韩国为啥要求乌克兰道歉",
-      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%B8%BA%E5%95%A5%E8%A6%81%E6%B1%82%E4%B9%8C%E5%85%8B%E5%85%B0%E9%81%93%E6%AD%89",
-      "hot_value": 277214
+      "title": "成都AG超玩会 上海EDG.M",
+      "link": "https://search.bilibili.com/all?keyword=%E6%88%90%E9%83%BDAG%E8%B6%85%E7%8E%A9%E4%BC%9A%20%E4%B8%8A%E6%B5%B7EDG.M",
+      "hot_value": 277203
+    },
+    {
+      "title": "希林娜依高水乡绝美Live",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E6%B0%B4%E4%B9%A1%E7%BB%9D%E7%BE%8ELive",
+      "hot_value": 277236
     },
     {
       "title": "WE战胜BRO赛后数据",
@@ -120,34 +120,34 @@
       "hot_value": 277251
     },
     {
-      "title": "祖峰入驻B站",
-      "link": "https://search.bilibili.com/all?keyword=%E7%A5%96%E5%B3%B0%E5%85%A5%E9%A9%BBB%E7%AB%99",
-      "hot_value": 277191
-    },
-    {
-      "title": "终末地新干员祀",
-      "link": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E6%96%B0%E5%B9%B2%E5%91%98%E7%A5%80",
-      "hot_value": 277125
-    },
-    {
       "title": "程小时",
       "link": "https://search.bilibili.com/all?keyword=%E7%A8%8B%E5%B0%8F%E6%97%B6",
       "hot_value": 277215
     },
     {
-      "title": "AI消失前的最后一天",
-      "link": "https://search.bilibili.com/all?keyword=AI%E6%B6%88%E5%A4%B1%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9",
-      "hot_value": 277239
+      "title": "韩国就股市召开紧急会议",
+      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E5%B0%B1%E8%82%A1%E5%B8%82%E5%8F%AC%E5%BC%80%E7%B4%A7%E6%80%A5%E4%BC%9A%E8%AE%AE",
+      "hot_value": 277265
     },
     {
-      "title": "异环联动凉宫春日God knows PV",
-      "link": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E8%81%94%E5%8A%A8%E5%87%89%E5%AE%AB%E6%98%A5%E6%97%A5God%20knows%20PV",
-      "hot_value": 277141
+      "title": "祖峰入驻B站",
+      "link": "https://search.bilibili.com/all?keyword=%E7%A5%96%E5%B3%B0%E5%85%A5%E9%A9%BBB%E7%AB%99",
+      "hot_value": 277191
     },
     {
-      "title": "ZUIAN第三次面签没过",
-      "link": "https://search.bilibili.com/all?keyword=ZUIAN%E7%AC%AC%E4%B8%89%E6%AC%A1%E9%9D%A2%E7%AD%BE%E6%B2%A1%E8%BF%87",
-      "hot_value": 277161
+      "title": "AI为何会欺骗人类",
+      "link": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB",
+      "hot_value": 277261
+    },
+    {
+      "title": "GTA6发售预告片",
+      "link": "https://search.bilibili.com/all?keyword=GTA6%E5%8F%91%E5%94%AE%E9%A2%84%E5%91%8A%E7%89%87",
+      "hot_value": 277249
+    },
+    {
+      "title": "papi酱热烈欢迎袁咏仪",
+      "link": "https://search.bilibili.com/all?keyword=papi%E9%85%B1%E7%83%AD%E7%83%88%E6%AC%A2%E8%BF%8E%E8%A2%81%E5%92%8F%E4%BB%AA",
+      "hot_value": 277201
     },
     {
       "title": "LPL出征片 风起今朝",
