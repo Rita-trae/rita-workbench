@@ -2,13 +2,8 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-10-15T06:42:51+08:00",
+  "updated_at": "2026-10-15T08:58:24+08:00",
   "data": [
-    {
-      "title": "马上评｜1.9元汽水引发举报，无端耗费社会资源",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34244532",
-      "hot_value": 0
-    },
     {
       "title": "医务人员收1.9元汽水被举报，涉事医院：不违反医德医风，当事人已报警",
       "link": "https://www.thepaper.cn/newsDetail_forward_34247162",
@@ -20,13 +15,23 @@
       "hot_value": 0
     },
     {
+      "title": "村干部成立公司2年中标本村14个工程？扬州市朴席镇：将了解清楚情况后回复",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34247682",
+      "hot_value": 0
+    },
+    {
       "title": "澎湃漫评｜检测时间都是“8点整”，形式主义最害人",
       "link": "https://www.thepaper.cn/newsDetail_forward_34248756",
       "hot_value": 0
     },
     {
-      "title": "村干部成立公司2年中标本村14个工程？扬州市朴席镇：将了解清楚情况后回复",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34247682",
+      "title": "言短意长｜国旗规范回收循环复用，“厉行节约”不只是一句口号",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34249984",
+      "hot_value": 0
+    },
+    {
+      "title": "沙特24小时内对也门发动119次袭击，胡塞武装称将以“升级还升级”",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34249321",
       "hot_value": 0
     },
     {
@@ -45,38 +50,13 @@
       "hot_value": 0
     },
     {
-      "title": "套路拆｜月售20万瓶的Healthyard健雅德：疑“套用”银蕨认证，“五个9”纯度机器都测不出",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34225747",
-      "hot_value": 0
-    },
-    {
-      "title": "中国学者在尼泊尔灾区考察见闻：超认知灾害过后，重建与预警如何破题？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34173490",
-      "hot_value": 0
-    },
-    {
       "title": "马上评｜高铁上免提通话扰邻，只能靠劝来解决吗",
       "link": "https://www.thepaper.cn/newsDetail_forward_34248943",
       "hot_value": 0
     },
     {
-      "title": "沙特机场接连遇袭背后：耗资巨大的预警系统为何沉默？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34243110",
-      "hot_value": 0
-    },
-    {
       "title": "马上评｜“女摊主被差评后轻生”的网络发言警示",
       "link": "https://www.thepaper.cn/newsDetail_forward_34248612",
-      "hot_value": 0
-    },
-    {
-      "title": "预告丨《大方之谈》对话丘成桐：数学之外，一个永不无聊的人生",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34240668",
-      "hot_value": 0
-    },
-    {
-      "title": "媒体：在悬空寺做引体向上“悬空”，不是秀肌肉而是秀无知",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34246600",
       "hot_value": 0
     },
     {
@@ -90,18 +70,38 @@
       "hot_value": 0
     },
     {
-      "title": "一图世界｜胡塞盯着沙特打，双方什么仇？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34243825",
-      "hot_value": 0
-    },
-    {
       "title": "弦外｜“耻辱合影”事件后，如何守住教师尊严",
       "link": "https://www.thepaper.cn/newsDetail_forward_34249687",
       "hot_value": 0
     },
     {
-      "title": "央媒曝光大棚撂荒仍领补贴，工人日报：关口前移，确保惠农项目精准落地",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34246540",
+      "title": "杭州一套独栋别墅2.88亿元拍卖成交：溢价率71%，单价45.7万元/平米",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34248995",
+      "hot_value": 0
+    },
+    {
+      "title": "初中生跑步时撞上横穿跑道的老师摔成多处骨折，法院判老师赔偿3万元",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34248641",
+      "hot_value": 0
+    },
+    {
+      "title": "肖战演唱会明日开票：390元看台票黄牛已喊价5000元",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34248619",
+      "hot_value": 0
+    },
+    {
+      "title": "全球马拉松赛事接连出现猝死悲剧，挑战自我前请正视这些问题",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34248703",
+      "hot_value": 0
+    },
+    {
+      "title": "警方介入调查“摊主遭顾客差评后轻生”，律师解读：顾客是否担责要看因果关系，平台责任不能缺位",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34249298",
+      "hot_value": 0
+    },
+    {
+      "title": "肖战个唱开票在即，代拍“五位数难包进”，开售总票数不明",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34248285",
       "hot_value": 0
     }
   ]
