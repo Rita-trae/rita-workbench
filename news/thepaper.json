@@ -2,7 +2,7 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-10-16T06:39:19+08:00",
+  "updated_at": "2026-10-16T08:48:58+08:00",
   "data": [
     {
       "title": "独家｜库克：首批苹果智能核心功能已在华获批，10月底推测试版",
@@ -12,16 +12,6 @@
     {
       "title": "长实集团辟谣：绝无此事",
       "link": "https://www.thepaper.cn/newsDetail_forward_34254962",
-      "hot_value": 0
-    },
-    {
-      "title": "“绿泡泡”对决“红果果”：微信杀入短剧市场，行业将迎来哪些新变化？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34250927",
-      "hot_value": 0
-    },
-    {
-      "title": "马上测｜十个号码六个假，搜出来的“400”官方客服电话靠谱吗？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34241263",
       "hot_value": 0
     },
     {
@@ -35,11 +25,6 @@
       "hot_value": 0
     },
     {
-      "title": "网传明星演唱会门票被炒至25万一张，天价黄牛票为何屡禁不止？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34253242",
-      "hot_value": 0
-    },
-    {
       "title": "马上评丨倒立单车不是“网络挑战”，是教唆违法",
       "link": "https://www.thepaper.cn/newsDetail_forward_34256386",
       "hot_value": 0
@@ -47,11 +32,6 @@
     {
       "title": "旁白｜搜出来的“官方客服”十个里有六个假，被透支的信任谁来买单",
       "link": "https://www.thepaper.cn/newsDetail_forward_34254903",
-      "hot_value": 0
-    },
-    {
-      "title": "长风公园焕新归来，唱歌跳舞伴奏“声浪”扰民有何解？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34225433",
       "hot_value": 0
     },
     {
@@ -70,8 +50,18 @@
       "hot_value": 0
     },
     {
+      "title": "美国八州联手起诉OpenAI，称ChatGPT危害儿童和老年人",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34254005",
+      "hot_value": 0
+    },
+    {
       "title": "浙江湖州一医院2名员工赴泰旅游在酒店泳池溺亡，院方通报：“遭谋杀、器官被摘除”等为谣言",
       "link": "https://www.thepaper.cn/newsDetail_forward_34256979",
+      "hot_value": 0
+    },
+    {
+      "title": "言短意长｜教师不愿当班主任，困局从何处破解",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34258033",
       "hot_value": 0
     },
     {
@@ -80,13 +70,13 @@
       "hot_value": 0
     },
     {
-      "title": "为何霍尔木兹海峡袭船事件骤增？伊朗官员称要影响美国中期选举",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34257391",
+      "title": "一次超强厄尔尼诺已形成，为什么说真正考验在明年春夏\n",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34255850",
       "hot_value": 0
     },
     {
-      "title": "一次超强厄尔尼诺已形成，为什么说真正考验在明年春夏\n",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34255850",
+      "title": "为何霍尔木兹海峡袭船事件骤增？伊朗官员称要影响美国中期选举",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34257391",
       "hot_value": 0
     },
     {
@@ -102,6 +92,16 @@
     {
       "title": "美中关系全国委员会新老会长一同访华，“中国通”贝莎兰将于11月接任",
       "link": "https://www.thepaper.cn/newsDetail_forward_34257130",
+      "hot_value": 0
+    },
+    {
+      "title": "杭州楼市新政：现房销售定金不超过总房款的5%，鼓励出台购房补贴等政策",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34254723",
+      "hot_value": 0
+    },
+    {
+      "title": "DeepSeek宕机5小时：一上新就崩？影响有多大？",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34257535",
       "hot_value": 0
     }
   ]
