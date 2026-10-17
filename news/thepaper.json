@@ -2,11 +2,16 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-10-18T00:19:28+08:00",
+  "updated_at": "2026-10-18T02:44:42+08:00",
   "data": [
     {
       "title": "马上评｜欣赏特斯拉的想象力，更要读懂中国新能源汽车硬实力",
       "link": "https://www.thepaper.cn/newsDetail_forward_34270632",
+      "hot_value": 0
+    },
+    {
+      "title": "观察丨“战犯神社”的“和平包装”骗不了世界",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34271196",
       "hot_value": 0
     },
     {
@@ -55,23 +60,33 @@
       "hot_value": 0
     },
     {
-      "title": "爱因斯坦曾到访过的上海住宅：梓园今昔",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34240677",
-      "hot_value": 0
-    },
-    {
       "title": "姚飞履新中国驻基里巴斯大使，曾被誉为“跑得最快的副市长”",
       "link": "https://www.thepaper.cn/newsDetail_forward_34270784",
       "hot_value": 0
     },
     {
-      "title": "闫盼盼、李羽洁担任第五届亚残运会开幕式中国体育代表团旗手",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34270443",
+      "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34271084",
+      "hot_value": 0
+    },
+    {
+      "title": "爱因斯坦曾到访过的上海住宅：梓园今昔",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34240677",
+      "hot_value": 0
+    },
+    {
+      "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34268856",
       "hot_value": 0
     },
     {
       "title": "重阳节银发族开启错峰游：“县城康养”搜索热度同比增长203%",
       "link": "https://www.thepaper.cn/newsDetail_forward_34269748",
+      "hot_value": 0
+    },
+    {
+      "title": "闫盼盼、李羽洁担任第五届亚残运会开幕式中国体育代表团旗手",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34270443",
       "hot_value": 0
     },
     {
@@ -85,23 +100,8 @@
       "hot_value": 0
     },
     {
-      "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34271084",
-      "hot_value": 0
-    },
-    {
-      "title": "上海国际艺术节每日一聊｜上海大歌剧院开幕演出的亮点来了",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34263273",
-      "hot_value": 0
-    },
-    {
-      "title": "观察丨“战犯神社”的“和平包装”骗不了世界",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34271196",
-      "hot_value": 0
-    },
-    {
-      "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34268856",
+      "title": "中央气象台最新预报：12省份迎大到暴雨，北方多地气温创新低",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34271529",
       "hot_value": 0
     }
   ]
