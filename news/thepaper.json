@@ -2,16 +2,16 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-10-18T02:44:42+08:00",
+  "updated_at": "2026-10-18T05:03:08+08:00",
   "data": [
-    {
-      "title": "马上评｜欣赏特斯拉的想象力，更要读懂中国新能源汽车硬实力",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34270632",
-      "hot_value": 0
-    },
     {
       "title": "观察丨“战犯神社”的“和平包装”骗不了世界",
       "link": "https://www.thepaper.cn/newsDetail_forward_34271196",
+      "hot_value": 0
+    },
+    {
+      "title": "马上评｜欣赏特斯拉的想象力，更要读懂中国新能源汽车硬实力",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34270632",
       "hot_value": 0
     },
     {
@@ -85,6 +85,11 @@
       "hot_value": 0
     },
     {
+      "title": "中央气象台最新预报：12省份迎大到暴雨，北方多地气温创新低",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34271529",
+      "hot_value": 0
+    },
+    {
       "title": "闫盼盼、李羽洁担任第五届亚残运会开幕式中国体育代表团旗手",
       "link": "https://www.thepaper.cn/newsDetail_forward_34270443",
       "hot_value": 0
@@ -97,11 +102,6 @@
     {
       "title": "特朗普签署行政令豁免对俄多项制裁",
       "link": "https://www.thepaper.cn/newsDetail_forward_34269052",
-      "hot_value": 0
-    },
-    {
-      "title": "中央气象台最新预报：12省份迎大到暴雨，北方多地气温创新低",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34271529",
       "hot_value": 0
     }
   ]
