@@ -2,37 +2,37 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-10-19T18:39:13+08:00",
+  "updated_at": "2026-10-20T01:11:23+08:00",
   "data": [
     {
-      "title": "VCTCN八支合作席位是怎么确定的",
-      "link": "https://search.bilibili.com/all?keyword=VCTCN%E5%85%AB%E6%94%AF%E5%90%88%E4%BD%9C%E5%B8%AD%E4%BD%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%A1%AE%E5%AE%9A%E7%9A%84",
-      "hot_value": 277873
+      "title": "英伟达称消费级GPU短缺已失控",
+      "link": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0%E6%B6%88%E8%B4%B9%E7%BA%A7GPU%E7%9F%AD%E7%BC%BA%E5%B7%B2%E5%A4%B1%E6%8E%A7",
+      "hot_value": 277933
     },
     {
-      "title": "皇萨迎德比 维尼修斯陷迷局",
-      "link": "https://search.bilibili.com/all?keyword=%E7%9A%87%E8%90%A8%E8%BF%8E%E5%BE%B7%E6%AF%94%20%E7%BB%B4%E5%B0%BC%E4%BF%AE%E6%96%AF%E9%99%B7%E8%BF%B7%E5%B1%80",
-      "hot_value": 277878
+      "title": "锐评S16瑞士轮抽签结果",
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9E%9C",
+      "hot_value": 277899
     },
     {
-      "title": "黄子韬徐艺洋孩子风波梳理",
-      "link": "https://search.bilibili.com/all?keyword=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AD%A9%E5%AD%90%E9%A3%8E%E6%B3%A2%E6%A2%B3%E7%90%86",
-      "hot_value": 277831
+      "title": "UP主和NBA球星比投篮",
+      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%92%8CNBA%E7%90%83%E6%98%9F%E6%AF%94%E6%8A%95%E7%AF%AE",
+      "hot_value": 277905
     },
     {
-      "title": "汇源集团不再生产汇源果汁",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B1%87%E6%BA%90%E9%9B%86%E5%9B%A2%E4%B8%8D%E5%86%8D%E7%94%9F%E4%BA%A7%E6%B1%87%E6%BA%90%E6%9E%9C%E6%B1%81",
-      "hot_value": 277853
+      "title": "前三季度我国GDP同比增长4.6% ​",
+      "link": "https://search.bilibili.com/all?keyword=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%88%91%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF4.6%25%20%E2%80%8B",
+      "hot_value": 277881
     },
     {
-      "title": "鲁豫对话王凯回应消失的两年",
-      "link": "https://search.bilibili.com/all?keyword=%E9%B2%81%E8%B1%AB%E5%AF%B9%E8%AF%9D%E7%8E%8B%E5%87%AF%E5%9B%9E%E5%BA%94%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B8%A4%E5%B9%B4",
-      "hot_value": 277806
+      "title": "解说东北悬疑新剧醉梦",
+      "link": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E4%B8%9C%E5%8C%97%E6%82%AC%E7%96%91%E6%96%B0%E5%89%A7%E9%86%89%E6%A2%A6",
+      "hot_value": 277901
     },
     {
-      "title": "NMIXX新歌MV",
-      "link": "https://search.bilibili.com/all?keyword=NMIXX%E6%96%B0%E6%AD%8CMV",
-      "hot_value": 277869
+      "title": "中年人的重阳节摇滚单曲",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%B9%B4%E4%BA%BA%E7%9A%84%E9%87%8D%E9%98%B3%E8%8A%82%E6%91%87%E6%BB%9A%E5%8D%95%E6%9B%B2",
+      "hot_value": 277923
     },
     {
       "title": "真人版弹丸论破开庭",
@@ -40,99 +40,14 @@
       "hot_value": 277807
     },
     {
-      "title": "曝Diable要来LPL",
-      "link": "https://search.bilibili.com/all?keyword=%E6%9B%9DDiable%E8%A6%81%E6%9D%A5LPL",
-      "hot_value": 277854
+      "title": "VCTCN八支合作席位是怎么确定的",
+      "link": "https://search.bilibili.com/all?keyword=VCTCN%E5%85%AB%E6%94%AF%E5%90%88%E4%BD%9C%E5%B8%AD%E4%BD%8D%E6%98%AF%E6%80%8E%E4%B9%88%E7%A1%AE%E5%AE%9A%E7%9A%84",
+      "hot_value": 277873
     },
     {
-      "title": "如何评价S16瑞士轮抽签",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E6%8A%BD%E7%AD%BE",
-      "hot_value": 277843
-    },
-    {
-      "title": "DeepSeek V4.1最新前端实测",
-      "link": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%E6%9C%80%E6%96%B0%E5%89%8D%E7%AB%AF%E5%AE%9E%E6%B5%8B",
-      "hot_value": 277782
-    },
-    {
-      "title": "宁波网球公开赛",
-      "link": "https://search.bilibili.com/all?keyword=%E5%AE%81%E6%B3%A2%E7%BD%91%E7%90%83%E5%85%AC%E5%BC%80%E8%B5%9B",
-      "hot_value": 277813
-    },
-    {
-      "title": "伊拉克老王给山区孩子做徐福烩饭",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%8B%89%E5%85%8B%E8%80%81%E7%8E%8B%E7%BB%99%E5%B1%B1%E5%8C%BA%E5%AD%A9%E5%AD%90%E5%81%9A%E5%BE%90%E7%A6%8F%E7%83%A9%E9%A5%AD",
-      "hot_value": 277791
-    },
-    {
-      "title": "K/DA女团新歌MV",
-      "link": "https://search.bilibili.com/all?keyword=K/DA%E5%A5%B3%E5%9B%A2%E6%96%B0%E6%AD%8CMV",
-      "hot_value": 277777
-    },
-    {
-      "title": "使命召唤23全剧情流程通关攻略",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A423%E5%85%A8%E5%89%A7%E6%83%85%E6%B5%81%E7%A8%8B%E9%80%9A%E5%85%B3%E6%94%BB%E7%95%A5",
-      "hot_value": 277612
-    },
-    {
-      "title": "科学家们用物理智斗爱因斯坦",
-      "link": "https://search.bilibili.com/all?keyword=%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%BB%AC%E7%94%A8%E7%89%A9%E7%90%86%E6%99%BA%E6%96%97%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6",
-      "hot_value": 277614
-    },
-    {
-      "title": "秦牧",
-      "link": "https://search.bilibili.com/all?keyword=%E7%A7%A6%E7%89%A7",
-      "hot_value": 277624
-    },
-    {
-      "title": "UP主用洗衣机演奏雨爱",
-      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%BC%94%E5%A5%8F%E9%9B%A8%E7%88%B1",
-      "hot_value": 277649
-    },
-    {
-      "title": "一口气看完东野圭吾冷门新剧",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE%E5%86%B7%E9%97%A8%E6%96%B0%E5%89%A7",
-      "hot_value": 277804
-    },
-    {
-      "title": "手搓版迪迦奥特曼",
-      "link": "https://search.bilibili.com/all?keyword=%E6%89%8B%E6%90%93%E7%89%88%E8%BF%AA%E8%BF%A6%E5%A5%A5%E7%89%B9%E6%9B%BC",
-      "hot_value": 277736
-    },
-    {
-      "title": "歌剧老师锐评大湾区晚会",
-      "link": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E5%A4%A7%E6%B9%BE%E5%8C%BA%E6%99%9A%E4%BC%9A",
-      "hot_value": 277730
-    },
-    {
-      "title": "终末地过场动画但求本心",
-      "link": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E4%BD%86%E6%B1%82%E6%9C%AC%E5%BF%83",
-      "hot_value": 277786
-    },
-    {
-      "title": "部分研究生不用写传统学位论文",
-      "link": "https://search.bilibili.com/all?keyword=%E9%83%A8%E5%88%86%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%8D%E7%94%A8%E5%86%99%E4%BC%A0%E7%BB%9F%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87",
-      "hot_value": 277842
-    },
-    {
-      "title": "AI逆向工具会引发软件盗版潮吗",
-      "link": "https://search.bilibili.com/all?keyword=AI%E9%80%86%E5%90%91%E5%B7%A5%E5%85%B7%E4%BC%9A%E5%BC%95%E5%8F%91%E8%BD%AF%E4%BB%B6%E7%9B%97%E7%89%88%E6%BD%AE%E5%90%97",
-      "hot_value": 277771
-    },
-    {
-      "title": "1000只猫vs1000只狗",
-      "link": "https://search.bilibili.com/all?keyword=1000%E5%8F%AA%E7%8C%ABvs1000%E5%8F%AA%E7%8B%97",
-      "hot_value": 277660
-    },
-    {
-      "title": "S16全赛区数据一览",
-      "link": "https://search.bilibili.com/all?keyword=S16%E5%85%A8%E8%B5%9B%E5%8C%BA%E6%95%B0%E6%8D%AE%E4%B8%80%E8%A7%88",
-      "hot_value": 277846
-    },
-    {
-      "title": "UP主自制短片九幽定谳录凉烟火",
-      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9F%AD%E7%89%87%E4%B9%9D%E5%B9%BD%E5%AE%9A%E8%B0%B3%E5%BD%95%E5%87%89%E7%83%9F%E7%81%AB",
-      "hot_value": 277740
+      "title": "UP主自制动画 科学修仙",
+      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%8A%A8%E7%94%BB%20%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99",
+      "hot_value": 277929
     },
     {
       "title": "KDA回归新歌有多燃",
@@ -140,19 +55,104 @@
       "hot_value": 277855
     },
     {
+      "title": "NMIXX新歌MV",
+      "link": "https://search.bilibili.com/all?keyword=NMIXX%E6%96%B0%E6%AD%8CMV",
+      "hot_value": 277869
+    },
+    {
+      "title": "得知抽签打TES的Zeus",
+      "link": "https://search.bilibili.com/all?keyword=%E5%BE%97%E7%9F%A5%E6%8A%BD%E7%AD%BE%E6%89%93TES%E7%9A%84Zeus",
+      "hot_value": 277914
+    },
+    {
+      "title": "K/DA女团新歌MV",
+      "link": "https://search.bilibili.com/all?keyword=K/DA%E5%A5%B3%E5%9B%A2%E6%96%B0%E6%AD%8CMV",
+      "hot_value": 277777
+    },
+    {
+      "title": "小孩SCS总决赛卫冕之路",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9SCS%E6%80%BB%E5%86%B3%E8%B5%9B%E5%8D%AB%E5%86%95%E4%B9%8B%E8%B7%AF",
+      "hot_value": 277879
+    },
+    {
+      "title": "用Opus 5.5制作千本樱MV",
+      "link": "https://search.bilibili.com/all?keyword=%E7%94%A8Opus%205.5%E5%88%B6%E4%BD%9C%E5%8D%83%E6%9C%AC%E6%A8%B1MV",
+      "hot_value": 277826
+    },
+    {
       "title": "不用AI特效的中国功夫什么样",
       "link": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7",
       "hot_value": 277707
     },
     {
-      "title": "无畏契约新英雄遐思技能介绍",
-      "link": "https://search.bilibili.com/all?keyword=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E6%96%B0%E8%8B%B1%E9%9B%84%E9%81%90%E6%80%9D%E6%8A%80%E8%83%BD%E4%BB%8B%E7%BB%8D",
-      "hot_value": 277767
-    },
-    {
       "title": "TES发布S16出征大名单",
       "link": "https://search.bilibili.com/all?keyword=TES%E5%8F%91%E5%B8%83S16%E5%87%BA%E5%BE%81%E5%A4%A7%E5%90%8D%E5%8D%95",
       "hot_value": 277803
+    },
+    {
+      "title": "三角洲S12前瞻爆料",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2S12%E5%89%8D%E7%9E%BB%E7%88%86%E6%96%99",
+      "hot_value": 277932
+    },
+    {
+      "title": "三角洲S12新赛季超前爆料",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2S12%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%B6%85%E5%89%8D%E7%88%86%E6%96%99",
+      "hot_value": 277908
+    },
+    {
+      "title": "三角洲新赛季内容前瞻",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%86%85%E5%AE%B9%E5%89%8D%E7%9E%BB",
+      "hot_value": 277911
+    },
+    {
+      "title": "UP主自制盲人无障碍电影",
+      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9B%B2%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%94%B5%E5%BD%B1",
+      "hot_value": 277769
+    },
+    {
+      "title": "鲁豫对话王凯回应消失的两年",
+      "link": "https://search.bilibili.com/all?keyword=%E9%B2%81%E8%B1%AB%E5%AF%B9%E8%AF%9D%E7%8E%8B%E5%87%AF%E5%9B%9E%E5%BA%94%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B8%A4%E5%B9%B4",
+      "hot_value": 277806
+    },
+    {
+      "title": "一口气看完故宫角楼建造全过程",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C%E6%95%85%E5%AE%AB%E8%A7%92%E6%A5%BC%E5%BB%BA%E9%80%A0%E5%85%A8%E8%BF%87%E7%A8%8B",
+      "hot_value": 277742
+    },
+    {
+      "title": "影视飓风评测RTX Spark笔记本",
+      "link": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%AF%84%E6%B5%8BRTX%20Spark%E7%AC%94%E8%AE%B0%E6%9C%AC",
+      "hot_value": 277644
+    },
+    {
+      "title": "UP主用洗衣机演奏雨爱",
+      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%BC%94%E5%A5%8F%E9%9B%A8%E7%88%B1",
+      "hot_value": 277649
+    },
+    {
+      "title": "终末地过场动画但求本心",
+      "link": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E4%BD%86%E6%B1%82%E6%9C%AC%E5%BF%83",
+      "hot_value": 277786
+    },
+    {
+      "title": "汇源集团不再生产汇源果汁",
+      "link": "https://search.bilibili.com/all?keyword=%E6%B1%87%E6%BA%90%E9%9B%86%E5%9B%A2%E4%B8%8D%E5%86%8D%E7%94%9F%E4%BA%A7%E6%B1%87%E6%BA%90%E6%9E%9C%E6%B1%81",
+      "hot_value": 277853
+    },
+    {
+      "title": "科学家们用物理智斗爱因斯坦",
+      "link": "https://search.bilibili.com/all?keyword=%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%BB%AC%E7%94%A8%E7%89%A9%E7%90%86%E6%99%BA%E6%96%97%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6",
+      "hot_value": 277614
+    },
+    {
+      "title": "如何评价S16瑞士轮抽签",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E6%8A%BD%E7%AD%BE",
+      "hot_value": 277843
+    },
+    {
+      "title": "伊拉克老王给山区孩子做徐福烩饭",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%8B%89%E5%85%8B%E8%80%81%E7%8E%8B%E7%BB%99%E5%B1%B1%E5%8C%BA%E5%AD%A9%E5%AD%90%E5%81%9A%E5%BE%90%E7%A6%8F%E7%83%A9%E9%A5%AD",
+      "hot_value": 277791
     }
   ]
 }

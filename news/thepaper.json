@@ -2,35 +2,10 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-10-19T18:39:16+08:00",
+  "updated_at": "2026-10-20T01:11:26+08:00",
   "data": [
     {
-      "title": "马上评｜中国留学生竟身披旭日旗，民族尊严岂容冒犯？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34276344",
-      "hot_value": 0
-    },
-    {
-      "title": "观察｜全国大闸蟹产地争相打造IP，靠什么吸引消费者？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34276001",
-      "hot_value": 0
-    },
-    {
-      "title": "“张雪机车”车手德比斯以年度车手亚军收官",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34276497",
-      "hot_value": 0
-    },
-    {
-      "title": "多家期刊拒绝人工智能参与撰写稿件，润色也不行",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34276234",
-      "hot_value": 0
-    },
-    {
-      "title": "50元进货700元售出！只收老年游客的药厂“溯源游”实为新型会销",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34276364",
-      "hot_value": 0
-    },
-    {
-      "title": "山东一“仙人跳”团伙被诉：女局长被敲诈19万，三受害人曾被采取刑事措施",
+      "title": "山东一“仙人跳”团伙被诉：女局长被敲诈19万，另三名受害人曾被采取刑事措施",
       "link": "https://www.thepaper.cn/newsDetail_forward_34276793",
       "hot_value": 0
     },
@@ -55,6 +30,11 @@
       "hot_value": 0
     },
     {
+      "title": "马上评｜孙颖莎“四不”声明是给饭圈的一味清醒剂",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34280699",
+      "hot_value": 0
+    },
+    {
       "title": "五亿多元预售款被挪用后，河南平顶山“美好生活家园”待重启",
       "link": "https://www.thepaper.cn/newsDetail_forward_34275663",
       "hot_value": 0
@@ -65,13 +45,23 @@
       "hot_value": 0
     },
     {
+      "title": "人民锐评：对“精日”言行零容忍",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34281614",
+      "hot_value": 0
+    },
+    {
+      "title": "众声丨以实践成果申请专业学位，让评价标尺更适配应用型人才成长",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34282716",
+      "hot_value": 0
+    },
+    {
       "title": "鲁迅逝世90周年｜鲁迅真的爱好骂人吗？",
       "link": "https://www.thepaper.cn/newsDetail_forward_34276885",
       "hot_value": 0
     },
     {
-      "title": "“重庆男童坠亡案”妻子控告丈夫“过失致人死亡”：已委托曾代理“姐弟坠楼案”的律师",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34275997",
+      "title": "一记来自星链的警钟：乌克兰之后，轮到谁担心被“卡脖子”？",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34279646",
       "hot_value": 0
     },
     {
@@ -80,28 +70,38 @@
       "hot_value": 0
     },
     {
-      "title": "成立上海演艺集团、发布“戏剧振兴三年行动计划”，上海演艺全新启航",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34274957",
-      "hot_value": 0
-    },
-    {
-      "title": "上海大师赛收官：现场观众约24.8万人，票房收入创新高",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34276874",
-      "hot_value": 0
-    },
-    {
-      "title": "村民称百年古树被扣押后遭转赠，官方通报权属问题、涉事人员处理情况",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34276971",
-      "hot_value": 0
-    },
-    {
-      "title": "明查｜利雅得机场接连遭袭，但这些画面是AI生成和旧视频",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34274965",
-      "hot_value": 0
-    },
-    {
       "title": "央视曝光近视防控镜相关问题后，江苏丹阳连夜通报：立案调查",
       "link": "https://www.thepaper.cn/newsDetail_forward_34278954",
+      "hot_value": 0
+    },
+    {
+      "title": "国家统计局：前三季度GDP同比增长4.6%，经济运行总体平稳",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34278967",
+      "hot_value": 0
+    },
+    {
+      "title": "一线城市二手房价格连续7个月环比上涨，全国新建商品房库存持续下降",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34280880",
+      "hot_value": 0
+    },
+    {
+      "title": "全国今日起正式进入省级党代会时间",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34278931",
+      "hot_value": 0
+    },
+    {
+      "title": "一路丰碑｜铁索寒光里，迸发一往无前勇气",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34224692",
+      "hot_value": 0
+    },
+    {
+      "title": "上海9月二手房价同比上涨0.8%，成为全国第一个同比转涨城市",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34279437",
+      "hot_value": 0
+    },
+    {
+      "title": "汇源集团宣布与 “汇源” 品牌切割：推新品牌 “咱家果源” ，重整投资人股权被冻结，诉讼仍在推进",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34279769",
       "hot_value": 0
     }
   ]
