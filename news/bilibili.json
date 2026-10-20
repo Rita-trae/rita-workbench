@@ -2,22 +2,67 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-10-20T08:42:27+08:00",
+  "updated_at": "2026-10-20T13:24:08+08:00",
   "data": [
     {
-      "title": "C罗国家队停赛30天罚款255欧",
-      "link": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%81%9C%E8%B5%9B30%E5%A4%A9%E7%BD%9A%E6%AC%BE255%E6%AC%A7",
-      "hot_value": 277939
+      "title": "IG出征单曲 仁川共鸣",
+      "link": "https://search.bilibili.com/all?keyword=IG%E5%87%BA%E5%BE%81%E5%8D%95%E6%9B%B2%20%E4%BB%81%E5%B7%9D%E5%85%B1%E9%B8%A3",
+      "hot_value": 277996
     },
     {
-      "title": "超强台风蔷琵预计逼近我国",
-      "link": "https://search.bilibili.com/all?keyword=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E9%A2%84%E8%AE%A1%E9%80%BC%E8%BF%91%E6%88%91%E5%9B%BD",
-      "hot_value": 277938
+      "title": "S16瑞士轮首战前瞻",
+      "link": "https://search.bilibili.com/all?keyword=S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E6%88%98%E5%89%8D%E7%9E%BB",
+      "hot_value": 277971
     },
     {
-      "title": "英伟达称消费级GPU短缺已失控",
-      "link": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0%E6%B6%88%E8%B4%B9%E7%BA%A7GPU%E7%9F%AD%E7%BC%BA%E5%B7%B2%E5%A4%B1%E6%8E%A7",
-      "hot_value": 277933
+      "title": "Key社核心作者麻枝准罹患咽喉癌",
+      "link": "https://search.bilibili.com/all?keyword=Key%E7%A4%BE%E6%A0%B8%E5%BF%83%E4%BD%9C%E8%80%85%E9%BA%BB%E6%9E%9D%E5%87%86%E7%BD%B9%E6%82%A3%E5%92%BD%E5%96%89%E7%99%8C",
+      "hot_value": 278001
+    },
+    {
+      "title": "董明珠称格力技工学校禁止谈恋爱",
+      "link": "https://search.bilibili.com/all?keyword=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1",
+      "hot_value": 277982
+    },
+    {
+      "title": "菲奖得主谈AI能否取代数学家",
+      "link": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%A5%96%E5%BE%97%E4%B8%BB%E8%B0%88AI%E8%83%BD%E5%90%A6%E5%8F%96%E4%BB%A3%E6%95%B0%E5%AD%A6%E5%AE%B6",
+      "hot_value": 277991
+    },
+    {
+      "title": "日本火星卫星探测任务解析",
+      "link": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%81%AB%E6%98%9F%E5%8D%AB%E6%98%9F%E6%8E%A2%E6%B5%8B%E4%BB%BB%E5%8A%A1%E8%A7%A3%E6%9E%90",
+      "hot_value": 277969
+    },
+    {
+      "title": "央视新闻纪念长征胜利90周年MV",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB%E7%BA%AA%E5%BF%B5%E9%95%BF%E5%BE%81%E8%83%9C%E5%88%A990%E5%91%A8%E5%B9%B4MV",
+      "hot_value": 277963
+    },
+    {
+      "title": "NBA新赛季西部之王会是谁",
+      "link": "https://search.bilibili.com/all?keyword=NBA%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%A5%BF%E9%83%A8%E4%B9%8B%E7%8E%8B%E4%BC%9A%E6%98%AF%E8%B0%81",
+      "hot_value": 278000
+    },
+    {
+      "title": "马斯克为何要送SpaceX股票",
+      "link": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%BA%E4%BD%95%E8%A6%81%E9%80%81SpaceX%E8%82%A1%E7%A5%A8",
+      "hot_value": 278002
+    },
+    {
+      "title": "美国把登月交给了谁",
+      "link": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%8A%8A%E7%99%BB%E6%9C%88%E4%BA%A4%E7%BB%99%E4%BA%86%E8%B0%81",
+      "hot_value": 277989
+    },
+    {
+      "title": "绝区零菲欧妮EP",
+      "link": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E8%8F%B2%E6%AC%A7%E5%A6%AEEP",
+      "hot_value": 277993
+    },
+    {
+      "title": "鸣潮锁暝PV",
+      "link": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E9%94%81%E6%9A%9DPV",
+      "hot_value": 277977
     },
     {
       "title": "前三季度我国GDP同比增长4.6% ​",
@@ -25,99 +70,9 @@
       "hot_value": 277881
     },
     {
-      "title": "Shams称湖人裁掉克内克特",
-      "link": "https://search.bilibili.com/all?keyword=Shams%E7%A7%B0%E6%B9%96%E4%BA%BA%E8%A3%81%E6%8E%89%E5%85%8B%E5%86%85%E5%85%8B%E7%89%B9",
-      "hot_value": 277944
-    },
-    {
-      "title": "怎么看王扁街头遇袭事件",
-      "link": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E7%8E%8B%E6%89%81%E8%A1%97%E5%A4%B4%E9%81%87%E8%A2%AD%E4%BA%8B%E4%BB%B6",
-      "hot_value": 277946
-    },
-    {
-      "title": "首届智能机器人应用技能大展",
-      "link": "https://search.bilibili.com/all?keyword=%E9%A6%96%E5%B1%8A%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BA%94%E7%94%A8%E6%8A%80%E8%83%BD%E5%A4%A7%E5%B1%95",
-      "hot_value": 277947
-    },
-    {
-      "title": "得知抽签打TES的Zeus",
-      "link": "https://search.bilibili.com/all?keyword=%E5%BE%97%E7%9F%A5%E6%8A%BD%E7%AD%BE%E6%89%93TES%E7%9A%84Zeus",
-      "hot_value": 277914
-    },
-    {
       "title": "UP主自制动画 科学修仙",
       "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%8A%A8%E7%94%BB%20%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99",
       "hot_value": 277929
-    },
-    {
-      "title": "中年人的重阳节摇滚单曲",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%B9%B4%E4%BA%BA%E7%9A%84%E9%87%8D%E9%98%B3%E8%8A%82%E6%91%87%E6%BB%9A%E5%8D%95%E6%9B%B2",
-      "hot_value": 277923
-    },
-    {
-      "title": "三角洲新干员代号野火",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E5%B9%B2%E5%91%98%E4%BB%A3%E5%8F%B7%E9%87%8E%E7%81%AB",
-      "hot_value": 277948
-    },
-    {
-      "title": "UP主和NBA球星比投篮",
-      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%92%8CNBA%E7%90%83%E6%98%9F%E6%AF%94%E6%8A%95%E7%AF%AE",
-      "hot_value": 277905
-    },
-    {
-      "title": "解说东北悬疑新剧醉梦",
-      "link": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E4%B8%9C%E5%8C%97%E6%82%AC%E7%96%91%E6%96%B0%E5%89%A7%E9%86%89%E6%A2%A6",
-      "hot_value": 277901
-    },
-    {
-      "title": "NMIXX新歌MV",
-      "link": "https://search.bilibili.com/all?keyword=NMIXX%E6%96%B0%E6%AD%8CMV",
-      "hot_value": 277869
-    },
-    {
-      "title": "三角洲S12前瞻爆料",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2S12%E5%89%8D%E7%9E%BB%E7%88%86%E6%96%99",
-      "hot_value": 277932
-    },
-    {
-      "title": "三角洲新赛季内容前瞻",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%86%85%E5%AE%B9%E5%89%8D%E7%9E%BB",
-      "hot_value": 277911
-    },
-    {
-      "title": "K/DA女团新歌MV",
-      "link": "https://search.bilibili.com/all?keyword=K/DA%E5%A5%B3%E5%9B%A2%E6%96%B0%E6%AD%8CMV",
-      "hot_value": 277777
-    },
-    {
-      "title": "TES发布S16出征大名单",
-      "link": "https://search.bilibili.com/all?keyword=TES%E5%8F%91%E5%B8%83S16%E5%87%BA%E5%BE%81%E5%A4%A7%E5%90%8D%E5%8D%95",
-      "hot_value": 277803
-    },
-    {
-      "title": "KDA回归新歌有多燃",
-      "link": "https://search.bilibili.com/all?keyword=KDA%E5%9B%9E%E5%BD%92%E6%96%B0%E6%AD%8C%E6%9C%89%E5%A4%9A%E7%87%83",
-      "hot_value": 277855
-    },
-    {
-      "title": "UP主自制盲人无障碍电影",
-      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9B%B2%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%94%B5%E5%BD%B1",
-      "hot_value": 277769
-    },
-    {
-      "title": "不用AI特效的中国功夫什么样",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7",
-      "hot_value": 277707
-    },
-    {
-      "title": "影视飓风评测RTX Spark笔记本",
-      "link": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%AF%84%E6%B5%8BRTX%20Spark%E7%AC%94%E8%AE%B0%E6%9C%AC",
-      "hot_value": 277644
-    },
-    {
-      "title": "探访成语泾渭分明的发生地",
-      "link": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E6%88%90%E8%AF%AD%E6%B3%BE%E6%B8%AD%E5%88%86%E6%98%8E%E7%9A%84%E5%8F%91%E7%94%9F%E5%9C%B0",
-      "hot_value": 277920
     },
     {
       "title": "三角洲S12新赛季超前爆料",
@@ -125,19 +80,29 @@
       "hot_value": 277908
     },
     {
-      "title": "鲁豫对话王凯回应消失的两年",
-      "link": "https://search.bilibili.com/all?keyword=%E9%B2%81%E8%B1%AB%E5%AF%B9%E8%AF%9D%E7%8E%8B%E5%87%AF%E5%9B%9E%E5%BA%94%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B8%A4%E5%B9%B4",
-      "hot_value": 277806
+      "title": "三角洲新赛季内容前瞻",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%86%85%E5%AE%B9%E5%89%8D%E7%9E%BB",
+      "hot_value": 277911
     },
     {
-      "title": "一口气看完故宫角楼建造全过程",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C%E6%95%85%E5%AE%AB%E8%A7%92%E6%A5%BC%E5%BB%BA%E9%80%A0%E5%85%A8%E8%BF%87%E7%A8%8B",
-      "hot_value": 277742
+      "title": "三角洲S12前瞻爆料",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2S12%E5%89%8D%E7%9E%BB%E7%88%86%E6%96%99",
+      "hot_value": 277932
     },
     {
-      "title": "科学家们用物理智斗爱因斯坦",
-      "link": "https://search.bilibili.com/all?keyword=%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%BB%AC%E7%94%A8%E7%89%A9%E7%90%86%E6%99%BA%E6%96%97%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6",
-      "hot_value": 277614
+      "title": "三角洲新干员代号野火",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E5%B9%B2%E5%91%98%E4%BB%A3%E5%8F%B7%E9%87%8E%E7%81%AB",
+      "hot_value": 277948
+    },
+    {
+      "title": "怎么看王扁街头遇袭事件",
+      "link": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E7%8E%8B%E6%89%81%E8%A1%97%E5%A4%B4%E9%81%87%E8%A2%AD%E4%BA%8B%E4%BB%B6",
+      "hot_value": 277946
+    },
+    {
+      "title": "UP主自制盲人无障碍电影",
+      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9B%B2%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%94%B5%E5%BD%B1",
+      "hot_value": 277769
     },
     {
       "title": "汇源集团不再生产汇源果汁",
@@ -145,14 +110,49 @@
       "hot_value": 277853
     },
     {
-      "title": "终末地过场动画但求本心",
-      "link": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E4%BD%86%E6%B1%82%E6%9C%AC%E5%BF%83",
-      "hot_value": 277786
+      "title": "三角洲短管MDR改法教学",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E7%9F%AD%E7%AE%A1MDR%E6%94%B9%E6%B3%95%E6%95%99%E5%AD%A6",
+      "hot_value": 277966
     },
     {
-      "title": "真人版弹丸论破开庭",
-      "link": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E4%BA%BA%E7%89%88%E5%BC%B9%E4%B8%B8%E8%AE%BA%E7%A0%B4%E5%BC%80%E5%BA%AD",
-      "hot_value": 277807
+      "title": "解说东北悬疑新剧醉梦",
+      "link": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E4%B8%9C%E5%8C%97%E6%82%AC%E7%96%91%E6%96%B0%E5%89%A7%E9%86%89%E6%A2%A6",
+      "hot_value": 277901
+    },
+    {
+      "title": "不用AI特效的中国功夫什么样",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7",
+      "hot_value": 277707
+    },
+    {
+      "title": "Viper生日Vlog",
+      "link": "https://search.bilibili.com/all?keyword=Viper%E7%94%9F%E6%97%A5Vlog",
+      "hot_value": 277849
+    },
+    {
+      "title": "一口气看完故宫角楼建造全过程",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C%E6%95%85%E5%AE%AB%E8%A7%92%E6%A5%BC%E5%BB%BA%E9%80%A0%E5%85%A8%E8%BF%87%E7%A8%8B",
+      "hot_value": 277742
+    },
+    {
+      "title": "用Opus 5.5制作千本樱MV",
+      "link": "https://search.bilibili.com/all?keyword=%E7%94%A8Opus%205.5%E5%88%B6%E4%BD%9C%E5%8D%83%E6%9C%AC%E6%A8%B1MV",
+      "hot_value": 277826
+    },
+    {
+      "title": "终末地1.6剧情藏了多少隐喻",
+      "link": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B01.6%E5%89%A7%E6%83%85%E8%97%8F%E4%BA%86%E5%A4%9A%E5%B0%91%E9%9A%90%E5%96%BB",
+      "hot_value": 277961
+    },
+    {
+      "title": "王者荣耀2026周年庆CG",
+      "link": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%802026%E5%91%A8%E5%B9%B4%E5%BA%86CG",
+      "hot_value": 277967
+    },
+    {
+      "title": "三角洲冷门瞄具盘点",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%86%B7%E9%97%A8%E7%9E%84%E5%85%B7%E7%9B%98%E7%82%B9",
+      "hot_value": 277968
     }
   ]
 }
