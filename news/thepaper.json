@@ -2,7 +2,7 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-10-23T02:01:08+08:00",
+  "updated_at": "2026-10-23T05:40:21+08:00",
   "data": [
     {
       "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话",
@@ -20,13 +20,13 @@
       "hot_value": 0
     },
     {
-      "title": "马上评｜浮夸的医学真人秀：生命的考场不该是秀场",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34306298",
+      "title": "菲律宾非法“坐滩”船只周边海域出现大量垃圾，中国海警组织打捞",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34310385",
       "hot_value": 0
     },
     {
-      "title": "菲律宾非法“坐滩”船只周边海域出现大量垃圾，中国海警组织打捞",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34310385",
+      "title": "马上评｜浮夸的医学真人秀：生命的考场不该是秀场",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34306298",
       "hot_value": 0
     },
     {
@@ -45,6 +45,11 @@
       "hot_value": 0
     },
     {
+      "title": "言短意长｜一纸承诺之外，报刊防抄袭还能做什么",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34308648",
+      "hot_value": 0
+    },
+    {
       "title": "“女童被泳池排水口吸入不幸身亡”事故调查报告发布：回水管口安全防护罩缺失",
       "link": "https://www.thepaper.cn/newsDetail_forward_34305763",
       "hot_value": 0
@@ -52,11 +57,6 @@
     {
       "title": "新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击",
       "link": "https://www.thepaper.cn/newsDetail_forward_34306120",
-      "hot_value": 0
-    },
-    {
-      "title": "言短意长｜一纸承诺之外，报刊防抄袭还能做什么",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34308648",
       "hot_value": 0
     },
     {
@@ -80,28 +80,28 @@
       "hot_value": 0
     },
     {
-      "title": "纪念中国工农红军长征胜利90周年｜信仰之路：两万五千里",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34281768",
-      "hot_value": 0
-    },
-    {
       "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
       "link": "https://www.thepaper.cn/newsDetail_forward_34309586",
       "hot_value": 0
     },
     {
+      "title": "纪念中国工农红军长征胜利90周年｜信仰之路：两万五千里",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34281768",
+      "hot_value": 0
+    },
+    {
+      "title": "今年以来30个台风生成、7个登陆我国，台风真的专挑周末来吗？",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34310810",
+      "hot_value": 0
+    },
+    {
+      "title": "IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34308431",
+      "hot_value": 0
+    },
+    {
       "title": "王兴兴：物理AI已看到被击穿的苗头，竞争会非常惨烈，需要共同努力",
       "link": "https://www.thepaper.cn/newsDetail_forward_34306053",
-      "hot_value": 0
-    },
-    {
-      "title": "5.5%增速背后，上海经济动能向新、结构向优",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34303365",
-      "hot_value": 0
-    },
-    {
-      "title": "孙伟谈长征中的情报较量：电文背后的战局与抉择",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34287940",
       "hot_value": 0
     }
   ]
