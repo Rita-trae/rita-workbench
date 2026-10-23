@@ -2,7 +2,7 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-10-24T03:18:06+08:00",
+  "updated_at": "2026-10-24T06:32:58+08:00",
   "data": [
     {
       "title": "西藏地震已致16死76伤",
@@ -10,9 +10,9 @@
       "hot_value": 278532
     },
     {
-      "title": "GEN IG",
-      "link": "https://search.bilibili.com/all?keyword=GEN%20IG",
-      "hot_value": 278629
+      "title": "AL KC",
+      "link": "https://search.bilibili.com/all?keyword=AL%20KC",
+      "hot_value": 278633
     },
     {
       "title": "50系中端显卡价格上涨",
@@ -20,24 +20,14 @@
       "hot_value": 278628
     },
     {
-      "title": "HLE TES",
-      "link": "https://search.bilibili.com/all?keyword=HLE%20TES",
-      "hot_value": 278630
+      "title": "BLG MKOI",
+      "link": "https://search.bilibili.com/all?keyword=BLG%20MKOI",
+      "hot_value": 278632
     },
     {
-      "title": "印度的申奥和登月梦能实现吗",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%9A%84%E7%94%B3%E5%A5%A5%E5%92%8C%E7%99%BB%E6%9C%88%E6%A2%A6%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%90%97",
-      "hot_value": 278604
-    },
-    {
-      "title": "刘晓艳 从四六级到科切拉",
-      "link": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%20%E4%BB%8E%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%88%B0%E7%A7%91%E5%88%87%E6%8B%89",
-      "hot_value": 278585
-    },
-    {
-      "title": "GEN战胜IG数据雷达图",
-      "link": "https://search.bilibili.com/all?keyword=GEN%E6%88%98%E8%83%9CIG%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
-      "hot_value": 278631
+      "title": "76人为何能创造29分大逆转",
+      "link": "https://search.bilibili.com/all?keyword=76%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%83%BD%E5%88%9B%E9%80%A029%E5%88%86%E5%A4%A7%E9%80%86%E8%BD%AC",
+      "hot_value": 278634
     },
     {
       "title": "复刻海绵宝宝里最好吃的汉堡",
@@ -45,14 +35,19 @@
       "hot_value": 278592
     },
     {
+      "title": "HLE战胜TES数据雷达图",
+      "link": "https://search.bilibili.com/all?keyword=HLE%E6%88%98%E8%83%9CTES%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
+      "hot_value": 278635
+    },
+    {
       "title": "北极荒野简直是天然自助餐",
       "link": "https://search.bilibili.com/all?keyword=%E5%8C%97%E6%9E%81%E8%8D%92%E9%87%8E%E7%AE%80%E7%9B%B4%E6%98%AF%E5%A4%A9%E7%84%B6%E8%87%AA%E5%8A%A9%E9%A4%90",
       "hot_value": 278584
     },
     {
-      "title": "韩国总统为何提出迁都设想",
-      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%B8%BA%E4%BD%95%E6%8F%90%E5%87%BA%E8%BF%81%E9%83%BD%E8%AE%BE%E6%83%B3",
-      "hot_value": 278594
+      "title": "印度的申奥和登月梦能实现吗",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%9A%84%E7%94%B3%E5%A5%A5%E5%92%8C%E7%99%BB%E6%9C%88%E6%A2%A6%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%90%97",
+      "hot_value": 278604
     },
     {
       "title": "戴佩妮歌里的故事都是真的",
@@ -60,9 +55,24 @@
       "hot_value": 278591
     },
     {
-      "title": "BLG MKOI",
-      "link": "https://search.bilibili.com/all?keyword=BLG%20MKOI",
-      "hot_value": 278632
+      "title": "刘晓艳 从四六级到科切拉",
+      "link": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%20%E4%BB%8E%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%88%B0%E7%A7%91%E5%88%87%E6%8B%89",
+      "hot_value": 278585
+    },
+    {
+      "title": "GEN IG",
+      "link": "https://search.bilibili.com/all?keyword=GEN%20IG",
+      "hot_value": 278629
+    },
+    {
+      "title": "韩国总统为何提出迁都设想",
+      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%B8%BA%E4%BD%95%E6%8F%90%E5%87%BA%E8%BF%81%E9%83%BD%E8%AE%BE%E6%83%B3",
+      "hot_value": 278594
+    },
+    {
+      "title": "TLAW CFO",
+      "link": "https://search.bilibili.com/all?keyword=TLAW%20CFO",
+      "hot_value": 278637
     },
     {
       "title": "原神7.2版本PV",
@@ -70,9 +80,19 @@
       "hot_value": 278610
     },
     {
-      "title": "UP主花1000万反对滥用食品添加剂",
-      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%8A%B11000%E4%B8%87%E5%8F%8D%E5%AF%B9%E6%BB%A5%E7%94%A8%E9%A3%9F%E5%93%81%E6%B7%BB%E5%8A%A0%E5%89%82",
-      "hot_value": 278613
+      "title": "G2 DK",
+      "link": "https://search.bilibili.com/all?keyword=G2%20DK",
+      "hot_value": 278636
+    },
+    {
+      "title": "GEN战胜IG数据雷达图",
+      "link": "https://search.bilibili.com/all?keyword=GEN%E6%88%98%E8%83%9CIG%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
+      "hot_value": 278631
+    },
+    {
+      "title": "HLE TES",
+      "link": "https://search.bilibili.com/all?keyword=HLE%20TES",
+      "hot_value": 278630
     },
     {
       "title": "S赛各队都在练什么英雄",
@@ -80,19 +100,19 @@
       "hot_value": 278554
     },
     {
+      "title": "UP主花1000万反对滥用食品添加剂",
+      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%8A%B11000%E4%B8%87%E5%8F%8D%E5%AF%B9%E6%BB%A5%E7%94%A8%E9%A3%9F%E5%93%81%E6%B7%BB%E5%8A%A0%E5%89%82",
+      "hot_value": 278613
+    },
+    {
       "title": "LPL出征前的默契挑战",
       "link": "https://search.bilibili.com/all?keyword=LPL%E5%87%BA%E5%BE%81%E5%89%8D%E7%9A%84%E9%BB%98%E5%A5%91%E6%8C%91%E6%88%98",
       "hot_value": 278376
     },
     {
-      "title": "三代鹿人深扒盛艾敬父母3.0",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E4%BB%A3%E9%B9%BF%E4%BA%BA%E6%B7%B1%E6%89%92%E7%9B%9B%E8%89%BE%E6%95%AC%E7%88%B6%E6%AF%8D3.0",
-      "hot_value": 278534
-    },
-    {
-      "title": "S16应援曲 以风之名",
-      "link": "https://search.bilibili.com/all?keyword=S16%E5%BA%94%E6%8F%B4%E6%9B%B2%20%E4%BB%A5%E9%A3%8E%E4%B9%8B%E5%90%8D",
-      "hot_value": 278437
+      "title": "用寂静岭画风打开周处除三害",
+      "link": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%AF%82%E9%9D%99%E5%B2%AD%E7%94%BB%E9%A3%8E%E6%89%93%E5%BC%80%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3",
+      "hot_value": 278406
     },
     {
       "title": "第五人格女团出道MV首曝",
@@ -100,14 +120,29 @@
       "hot_value": 278582
     },
     {
-      "title": "黄子韬徐艺洋为何这个节点官宣生子",
-      "link": "https://search.bilibili.com/all?keyword=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B8%AA%E8%8A%82%E7%82%B9%E5%AE%98%E5%AE%A3%E7%94%9F%E5%AD%90",
-      "hot_value": 278445
+      "title": "LPL战队不能输的理由",
+      "link": "https://search.bilibili.com/all?keyword=LPL%E6%88%98%E9%98%9F%E4%B8%8D%E8%83%BD%E8%BE%93%E7%9A%84%E7%90%86%E7%94%B1",
+      "hot_value": 278515
+    },
+    {
+      "title": "S16应援曲 以风之名",
+      "link": "https://search.bilibili.com/all?keyword=S16%E5%BA%94%E6%8F%B4%E6%9B%B2%20%E4%BB%A5%E9%A3%8E%E4%B9%8B%E5%90%8D",
+      "hot_value": 278437
     },
     {
       "title": "中国女团2-3日本女团",
       "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
       "hot_value": 278452
+    },
+    {
+      "title": "三代鹿人深扒盛艾敬父母3.0",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E4%BB%A3%E9%B9%BF%E4%BA%BA%E6%B7%B1%E6%89%92%E7%9B%9B%E8%89%BE%E6%95%AC%E7%88%B6%E6%AF%8D3.0",
+      "hot_value": 278534
+    },
+    {
+      "title": "影之刃零最终预告",
+      "link": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E6%9C%80%E7%BB%88%E9%A2%84%E5%91%8A",
+      "hot_value": 278289
     },
     {
       "title": "不减136斤不结婚挑战",
@@ -118,41 +153,6 @@
       "title": "第五人格加页手记S1赛季爆料",
       "link": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%8A%A0%E9%A1%B5%E6%89%8B%E8%AE%B0S1%E8%B5%9B%E5%AD%A3%E7%88%86%E6%96%99",
       "hot_value": 278588
-    },
-    {
-      "title": "时光代理人",
-      "link": "https://search.bilibili.com/all?keyword=%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA",
-      "hot_value": 278396
-    },
-    {
-      "title": "赛博朋克边缘行者2口碑崩了吗",
-      "link": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%852%E5%8F%A3%E7%A2%91%E5%B4%A9%E4%BA%86%E5%90%97",
-      "hot_value": 278470
-    },
-    {
-      "title": "用寂静岭画风打开周处除三害",
-      "link": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%AF%82%E9%9D%99%E5%B2%AD%E7%94%BB%E9%A3%8E%E6%89%93%E5%BC%80%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3",
-      "hot_value": 278406
-    },
-    {
-      "title": "起底对LCK胜场最多的上单",
-      "link": "https://search.bilibili.com/all?keyword=%E8%B5%B7%E5%BA%95%E5%AF%B9LCK%E8%83%9C%E5%9C%BA%E6%9C%80%E5%A4%9A%E7%9A%84%E4%B8%8A%E5%8D%95",
-      "hot_value": 278545
-    },
-    {
-      "title": "影之刃零最终预告",
-      "link": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E6%9C%80%E7%BB%88%E9%A2%84%E5%91%8A",
-      "hot_value": 278289
-    },
-    {
-      "title": "LPL战队不能输的理由",
-      "link": "https://search.bilibili.com/all?keyword=LPL%E6%88%98%E9%98%9F%E4%B8%8D%E8%83%BD%E8%BE%93%E7%9A%84%E7%90%86%E7%94%B1",
-      "hot_value": 278515
-    },
-    {
-      "title": "抽到TES以后",
-      "link": "https://search.bilibili.com/all?keyword=%E6%8A%BD%E5%88%B0TES%E4%BB%A5%E5%90%8E",
-      "hot_value": 278616
     }
   ]
 }
