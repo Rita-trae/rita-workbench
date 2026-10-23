@@ -2,7 +2,7 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-10-23T05:40:21+08:00",
+  "updated_at": "2026-10-23T08:12:02+08:00",
   "data": [
     {
       "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话",
@@ -10,18 +10,28 @@
       "hot_value": 0
     },
     {
-      "title": "澎湃读报丨纪念长征胜利90周年，各大报集中刊发社论、特别报道",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34305436",
+      "title": "人民日报评论员：在新的长征路上奋力创造新的辉煌",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34312308",
       "hot_value": 0
     },
     {
-      "title": "北京市委常委、副市长夏林茂被查",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34308652",
+      "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34309586",
       "hot_value": 0
     },
     {
       "title": "菲律宾非法“坐滩”船只周边海域出现大量垃圾，中国海警组织打捞",
       "link": "https://www.thepaper.cn/newsDetail_forward_34310385",
+      "hot_value": 0
+    },
+    {
+      "title": "今年以来30个台风生成、7个登陆我国，台风真的专挑周末来吗？",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34310810",
+      "hot_value": 0
+    },
+    {
+      "title": "北京市委常委、副市长夏林茂被查",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34308652",
       "hot_value": 0
     },
     {
@@ -32,11 +42,6 @@
     {
       "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
       "link": "https://www.thepaper.cn/newsDetail_forward_34306536",
-      "hot_value": 0
-    },
-    {
-      "title": "中国体操队时隔20年再夺世锦赛女团金牌",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34305177",
       "hot_value": 0
     },
     {
@@ -75,23 +80,13 @@
       "hot_value": 0
     },
     {
+      "title": "站在上海大歌剧院，推开巴黎歌剧院的大门",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34304248",
+      "hot_value": 0
+    },
+    {
       "title": "夏林茂被查，北京市委：坚决拥护党中央决定",
       "link": "https://www.thepaper.cn/newsDetail_forward_34310547",
-      "hot_value": 0
-    },
-    {
-      "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34309586",
-      "hot_value": 0
-    },
-    {
-      "title": "纪念中国工农红军长征胜利90周年｜信仰之路：两万五千里",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34281768",
-      "hot_value": 0
-    },
-    {
-      "title": "今年以来30个台风生成、7个登陆我国，台风真的专挑周末来吗？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34310810",
       "hot_value": 0
     },
     {
@@ -100,8 +95,13 @@
       "hot_value": 0
     },
     {
-      "title": "王兴兴：物理AI已看到被击穿的苗头，竞争会非常惨烈，需要共同努力",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34306053",
+      "title": "解读｜俄乌释放重启三方会谈信号背后：立场未变，美国中期选举成关键变量？\n",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34310099",
+      "hot_value": 0
+    },
+    {
+      "title": "澎湃读报丨纪念长征胜利90周年，各大报集中刊发社论、特别报道",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34305436",
       "hot_value": 0
     }
   ]
