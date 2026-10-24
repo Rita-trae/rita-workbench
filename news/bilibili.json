@@ -2,17 +2,17 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-10-24T13:56:54+08:00",
+  "updated_at": "2026-10-24T18:47:01+08:00",
   "data": [
     {
-      "title": "西藏地震已致16死76伤",
-      "link": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB76%E4%BC%A4",
-      "hot_value": 278532
+      "title": "柴西探索现实版夜之城",
+      "link": "https://search.bilibili.com/all?keyword=%E6%9F%B4%E8%A5%BF%E6%8E%A2%E7%B4%A2%E7%8E%B0%E5%AE%9E%E7%89%88%E5%A4%9C%E4%B9%8B%E5%9F%8E",
+      "hot_value": 278716
     },
     {
-      "title": "韩立",
-      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B",
-      "hot_value": 278664
+      "title": "大肥鱼为什么突然火了",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86",
+      "hot_value": 278689
     },
     {
       "title": "绝区零挽昼实机首曝",
@@ -20,69 +20,19 @@
       "hot_value": 278676
     },
     {
-      "title": "锐评S16瑞士轮LPL首轮全败",
-      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84S16%E7%91%9E%E5%A3%AB%E8%BD%AELPL%E9%A6%96%E8%BD%AE%E5%85%A8%E8%B4%A5",
-      "hot_value": 278677
+      "title": "IVL",
+      "link": "https://search.bilibili.com/all?keyword=IVL",
+      "hot_value": 278711
     },
     {
-      "title": "徐静雨解读火箭战胜马刺",
-      "link": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%A7%A3%E8%AF%BB%E7%81%AB%E7%AE%AD%E6%88%98%E8%83%9C%E9%A9%AC%E5%88%BA",
-      "hot_value": 278687
+      "title": "中超成都蓉城0-1大连英博",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E8%B6%85%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E0-1%E5%A4%A7%E8%BF%9E%E8%8B%B1%E5%8D%9A",
+      "hot_value": 278718
     },
     {
-      "title": "解说费萨里1-3利雅得胜利",
-      "link": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E8%B4%B9%E8%90%A8%E9%87%8C1-3%E5%88%A9%E9%9B%85%E5%BE%97%E8%83%9C%E5%88%A9",
-      "hot_value": 278666
-    },
-    {
-      "title": "LOS T1",
-      "link": "https://search.bilibili.com/all?keyword=LOS%20T1",
-      "hot_value": 278638
-    },
-    {
-      "title": "TLAW CFO",
-      "link": "https://search.bilibili.com/all?keyword=TLAW%20CFO",
-      "hot_value": 278637
-    },
-    {
-      "title": "卢旺达为何被称为非洲新加坡",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8D%A2%E6%97%BA%E8%BE%BE%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E4%B8%BA%E9%9D%9E%E6%B4%B2%E6%96%B0%E5%8A%A0%E5%9D%A1",
-      "hot_value": 278659
-    },
-    {
-      "title": "锐评IG和TES首轮表现",
-      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E5%92%8CTES%E9%A6%96%E8%BD%AE%E8%A1%A8%E7%8E%B0",
-      "hot_value": 278670
-    },
-    {
-      "title": "369与Zeus交手表现如何",
-      "link": "https://search.bilibili.com/all?keyword=369%E4%B8%8EZeus%E4%BA%A4%E6%89%8B%E8%A1%A8%E7%8E%B0%E5%A6%82%E4%BD%95",
-      "hot_value": 278654
-    },
-    {
-      "title": "BLG MKOI",
-      "link": "https://search.bilibili.com/all?keyword=BLG%20MKOI",
-      "hot_value": 278632
-    },
-    {
-      "title": "深度复盘GEN战胜IG",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98GEN%E6%88%98%E8%83%9CIG",
-      "hot_value": 278645
-    },
-    {
-      "title": "如何评价Bin打法变化",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7Bin%E6%89%93%E6%B3%95%E5%8F%98%E5%8C%96",
-      "hot_value": 278682
-    },
-    {
-      "title": "锐评LPL瑞士轮首轮选手表现",
-      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84LPL%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E8%BD%AE%E9%80%89%E6%89%8B%E8%A1%A8%E7%8E%B0",
-      "hot_value": 278646
-    },
-    {
-      "title": "AL KC",
-      "link": "https://search.bilibili.com/all?keyword=AL%20KC",
-      "hot_value": 278633
+      "title": "住手你们不要再做眼保健操了",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BD%8F%E6%89%8B%E4%BD%A0%E4%BB%AC%E4%B8%8D%E8%A6%81%E5%86%8D%E5%81%9A%E7%9C%BC%E4%BF%9D%E5%81%A5%E6%93%8D%E4%BA%86",
+      "hot_value": 278717
     },
     {
       "title": "GEN IG",
@@ -90,24 +40,39 @@
       "hot_value": 278629
     },
     {
-      "title": "北极荒野简直是天然自助餐",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8C%97%E6%9E%81%E8%8D%92%E9%87%8E%E7%AE%80%E7%9B%B4%E6%98%AF%E5%A4%A9%E7%84%B6%E8%87%AA%E5%8A%A9%E9%A4%90",
-      "hot_value": 278584
+      "title": "URKL机器人格斗16强入围赛",
+      "link": "https://search.bilibili.com/all?keyword=URKL%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%9716%E5%BC%BA%E5%85%A5%E5%9B%B4%E8%B5%9B",
+      "hot_value": 278723
     },
     {
-      "title": "TSW LYON",
-      "link": "https://search.bilibili.com/all?keyword=TSW%20LYON",
-      "hot_value": 278639
+      "title": "逆天复仇者联盟",
+      "link": "https://search.bilibili.com/all?keyword=%E9%80%86%E5%A4%A9%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F",
+      "hot_value": 278715
     },
     {
-      "title": "台风蔷琵来袭",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%9D%A5%E8%A2%AD",
-      "hot_value": 278531
+      "title": "宁波网球公开赛",
+      "link": "https://search.bilibili.com/all?keyword=%E5%AE%81%E6%B3%A2%E7%BD%91%E7%90%83%E5%85%AC%E5%BC%80%E8%B5%9B",
+      "hot_value": 278721
     },
     {
-      "title": "Kimi K3.1 Pro发布",
-      "link": "https://search.bilibili.com/all?keyword=Kimi%20K3.1%20Pro%E5%8F%91%E5%B8%83",
-      "hot_value": 278647
+      "title": "韩立",
+      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B",
+      "hot_value": 278664
+    },
+    {
+      "title": "解析LPL四支战队失利原因",
+      "link": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90LPL%E5%9B%9B%E6%94%AF%E6%88%98%E9%98%9F%E5%A4%B1%E5%88%A9%E5%8E%9F%E5%9B%A0",
+      "hot_value": 278713
+    },
+    {
+      "title": "如何评价Bin打法变化",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7Bin%E6%89%93%E6%B3%95%E5%8F%98%E5%8C%96",
+      "hot_value": 278682
+    },
+    {
+      "title": "LPL首轮全败是实力问题吗",
+      "link": "https://search.bilibili.com/all?keyword=LPL%E9%A6%96%E8%BD%AE%E5%85%A8%E8%B4%A5%E6%98%AF%E5%AE%9E%E5%8A%9B%E9%97%AE%E9%A2%98%E5%90%97",
+      "hot_value": 278690
     },
     {
       "title": "S赛各队都在练什么英雄",
@@ -115,29 +80,49 @@
       "hot_value": 278554
     },
     {
-      "title": "三代鹿人深扒盛艾敬父母3.0",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E4%BB%A3%E9%B9%BF%E4%BA%BA%E6%B7%B1%E6%89%92%E7%9B%9B%E8%89%BE%E6%95%AC%E7%88%B6%E6%AF%8D3.0",
-      "hot_value": 278534
+      "title": "BLG MKOI",
+      "link": "https://search.bilibili.com/all?keyword=BLG%20MKOI",
+      "hot_value": 278632
     },
     {
-      "title": "S16应援曲 以风之名",
-      "link": "https://search.bilibili.com/all?keyword=S16%E5%BA%94%E6%8F%B4%E6%9B%B2%20%E4%BB%A5%E9%A3%8E%E4%B9%8B%E5%90%8D",
-      "hot_value": 278437
+      "title": "TSW LYON",
+      "link": "https://search.bilibili.com/all?keyword=TSW%20LYON",
+      "hot_value": 278639
     },
     {
-      "title": "HLE TES",
-      "link": "https://search.bilibili.com/all?keyword=HLE%20TES",
-      "hot_value": 278630
+      "title": "LOS T1",
+      "link": "https://search.bilibili.com/all?keyword=LOS%20T1",
+      "hot_value": 278638
     },
     {
-      "title": "锐评S16瑞士轮首日LPL全败",
-      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E6%97%A5LPL%E5%85%A8%E8%B4%A5",
-      "hot_value": 278640
+      "title": "369与Zeus交手表现如何",
+      "link": "https://search.bilibili.com/all?keyword=369%E4%B8%8EZeus%E4%BA%A4%E6%89%8B%E8%A1%A8%E7%8E%B0%E5%A6%82%E4%BD%95",
+      "hot_value": 278654
     },
     {
-      "title": "LPL出征前的默契挑战",
-      "link": "https://search.bilibili.com/all?keyword=LPL%E5%87%BA%E5%BE%81%E5%89%8D%E7%9A%84%E9%BB%98%E5%A5%91%E6%8C%91%E6%88%98",
-      "hot_value": 278376
+      "title": "AL KC",
+      "link": "https://search.bilibili.com/all?keyword=AL%20KC",
+      "hot_value": 278633
+    },
+    {
+      "title": "卢旺达为何被称为非洲新加坡",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8D%A2%E6%97%BA%E8%BE%BE%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E4%B8%BA%E9%9D%9E%E6%B4%B2%E6%96%B0%E5%8A%A0%E5%9D%A1",
+      "hot_value": 278659
+    },
+    {
+      "title": "台风蔷琵来袭",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%9D%A5%E8%A2%AD",
+      "hot_value": 278531
+    },
+    {
+      "title": "锐评S16瑞士轮LPL首轮全败",
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84S16%E7%91%9E%E5%A3%AB%E8%BD%AELPL%E9%A6%96%E8%BD%AE%E5%85%A8%E8%B4%A5",
+      "hot_value": 278677
+    },
+    {
+      "title": "刘晓艳版晚安大小姐",
+      "link": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%E7%89%88%E6%99%9A%E5%AE%89%E5%A4%A7%E5%B0%8F%E5%A7%90",
+      "hot_value": 278693
     },
     {
       "title": "G2 DK",
@@ -145,14 +130,29 @@
       "hot_value": 278636
     },
     {
-      "title": "第五人格女团出道MV首曝",
-      "link": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%A5%B3%E5%9B%A2%E5%87%BA%E9%81%93MV%E9%A6%96%E6%9B%9D",
-      "hot_value": 278582
+      "title": "三代鹿人深扒盛艾敬父母3.0",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E4%BB%A3%E9%B9%BF%E4%BA%BA%E6%B7%B1%E6%89%92%E7%9B%9B%E8%89%BE%E6%95%AC%E7%88%B6%E6%AF%8D3.0",
+      "hot_value": 278534
     },
     {
-      "title": "中国女团2-3日本女团",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
-      "hot_value": 278452
+      "title": "深度复盘GEN战胜IG",
+      "link": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98GEN%E6%88%98%E8%83%9CIG",
+      "hot_value": 278645
+    },
+    {
+      "title": "锐评S16瑞士轮首日LPL全败",
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E6%97%A5LPL%E5%85%A8%E8%B4%A5",
+      "hot_value": 278640
+    },
+    {
+      "title": "S16 开门红温",
+      "link": "https://search.bilibili.com/all?keyword=S16%20%E5%BC%80%E9%97%A8%E7%BA%A2%E6%B8%A9",
+      "hot_value": 278707
+    },
+    {
+      "title": "S16第二轮哪场最值得看",
+      "link": "https://search.bilibili.com/all?keyword=S16%E7%AC%AC%E4%BA%8C%E8%BD%AE%E5%93%AA%E5%9C%BA%E6%9C%80%E5%80%BC%E5%BE%97%E7%9C%8B",
+      "hot_value": 278694
     }
   ]
 }
