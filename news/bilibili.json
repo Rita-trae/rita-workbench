@@ -2,12 +2,12 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-10-25T01:32:34+08:00",
+  "updated_at": "2026-10-25T03:50:16+08:00",
   "data": [
     {
-      "title": "LOS T1",
-      "link": "https://search.bilibili.com/all?keyword=LOS%20T1",
-      "hot_value": 278638
+      "title": "LOS G2",
+      "link": "https://search.bilibili.com/all?keyword=LOS%20G2",
+      "hot_value": 278788
     },
     {
       "title": "黄仁勋称内存近期不会供应过剩",
@@ -20,69 +20,9 @@
       "hot_value": 278743
     },
     {
-      "title": "TES AL",
-      "link": "https://search.bilibili.com/all?keyword=TES%20AL",
-      "hot_value": 278782
-    },
-    {
-      "title": "柴西探索现实版夜之城",
-      "link": "https://search.bilibili.com/all?keyword=%E6%9F%B4%E8%A5%BF%E6%8E%A2%E7%B4%A2%E7%8E%B0%E5%AE%9E%E7%89%88%E5%A4%9C%E4%B9%8B%E5%9F%8E",
-      "hot_value": 278716
-    },
-    {
-      "title": "凡人魏无涯为何选择弃城",
-      "link": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E9%AD%8F%E6%97%A0%E6%B6%AF%E4%B8%BA%E4%BD%95%E9%80%89%E6%8B%A9%E5%BC%83%E5%9F%8E",
-      "hot_value": 278740
-    },
-    {
-      "title": "绝区零挽昼实机首曝",
-      "link": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E6%8C%BD%E6%98%BC%E5%AE%9E%E6%9C%BA%E9%A6%96%E6%9B%9D",
-      "hot_value": 278676
-    },
-    {
-      "title": "速通中土网友对线大战",
-      "link": "https://search.bilibili.com/all?keyword=%E9%80%9F%E9%80%9A%E4%B8%AD%E5%9C%9F%E7%BD%91%E5%8F%8B%E5%AF%B9%E7%BA%BF%E5%A4%A7%E6%88%98",
-      "hot_value": 278762
-    },
-    {
-      "title": "LPL四支队伍各自的问题在哪",
-      "link": "https://search.bilibili.com/all?keyword=LPL%E5%9B%9B%E6%94%AF%E9%98%9F%E4%BC%8D%E5%90%84%E8%87%AA%E7%9A%84%E9%97%AE%E9%A2%98%E5%9C%A8%E5%93%AA",
-      "hot_value": 278753
-    },
-    {
-      "title": "S16举办场馆有哪些故事",
-      "link": "https://search.bilibili.com/all?keyword=S16%E4%B8%BE%E5%8A%9E%E5%9C%BA%E9%A6%86%E6%9C%89%E5%93%AA%E4%BA%9B%E6%95%85%E4%BA%8B",
-      "hot_value": 278714
-    },
-    {
-      "title": "剖析南宫婉的纠结与挣扎",
-      "link": "https://search.bilibili.com/all?keyword=%E5%89%96%E6%9E%90%E5%8D%97%E5%AE%AB%E5%A9%89%E7%9A%84%E7%BA%A0%E7%BB%93%E4%B8%8E%E6%8C%A3%E6%89%8E",
-      "hot_value": 278761
-    },
-    {
-      "title": "HLE TES",
-      "link": "https://search.bilibili.com/all?keyword=HLE%20TES",
-      "hot_value": 278630
-    },
-    {
-      "title": "BLG MKOI",
-      "link": "https://search.bilibili.com/all?keyword=BLG%20MKOI",
-      "hot_value": 278632
-    },
-    {
-      "title": "TLAW CFO",
-      "link": "https://search.bilibili.com/all?keyword=TLAW%20CFO",
-      "hot_value": 278637
-    },
-    {
-      "title": "阿门汤普森封盖成就两连胜",
-      "link": "https://search.bilibili.com/all?keyword=%E9%98%BF%E9%97%A8%E6%B1%A4%E6%99%AE%E6%A3%AE%E5%B0%81%E7%9B%96%E6%88%90%E5%B0%B1%E4%B8%A4%E8%BF%9E%E8%83%9C",
-      "hot_value": 278777
-    },
-    {
-      "title": "G2 DK",
-      "link": "https://search.bilibili.com/all?keyword=G2%20DK",
-      "hot_value": 278636
+      "title": "MKOI CFO",
+      "link": "https://search.bilibili.com/all?keyword=MKOI%20CFO",
+      "hot_value": 278786
     },
     {
       "title": "UP主起底20多年的传销头目",
@@ -90,24 +30,74 @@
       "hot_value": 278779
     },
     {
-      "title": "GEN IG",
-      "link": "https://search.bilibili.com/all?keyword=GEN%20IG",
-      "hot_value": 278629
+      "title": "凡人魏无涯为何选择弃城",
+      "link": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E9%AD%8F%E6%97%A0%E6%B6%AF%E4%B8%BA%E4%BD%95%E9%80%89%E6%8B%A9%E5%BC%83%E5%9F%8E",
+      "hot_value": 278740
     },
     {
-      "title": "AL KC",
-      "link": "https://search.bilibili.com/all?keyword=AL%20KC",
-      "hot_value": 278633
+      "title": "TES AL",
+      "link": "https://search.bilibili.com/all?keyword=TES%20AL",
+      "hot_value": 278782
     },
     {
-      "title": "逆天复仇者联盟",
-      "link": "https://search.bilibili.com/all?keyword=%E9%80%86%E5%A4%A9%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F",
-      "hot_value": 278715
+      "title": "速通中土网友对线大战",
+      "link": "https://search.bilibili.com/all?keyword=%E9%80%9F%E9%80%9A%E4%B8%AD%E5%9C%9F%E7%BD%91%E5%8F%8B%E5%AF%B9%E7%BA%BF%E5%A4%A7%E6%88%98",
+      "hot_value": 278762
+    },
+    {
+      "title": "热火连败问题到底出在谁",
+      "link": "https://search.bilibili.com/all?keyword=%E7%83%AD%E7%81%AB%E8%BF%9E%E8%B4%A5%E9%97%AE%E9%A2%98%E5%88%B0%E5%BA%95%E5%87%BA%E5%9C%A8%E8%B0%81",
+      "hot_value": 278768
+    },
+    {
+      "title": "柴西探索现实版夜之城",
+      "link": "https://search.bilibili.com/all?keyword=%E6%9F%B4%E8%A5%BF%E6%8E%A2%E7%B4%A2%E7%8E%B0%E5%AE%9E%E7%89%88%E5%A4%9C%E4%B9%8B%E5%9F%8E",
+      "hot_value": 278716
     },
     {
       "title": "明日方舟感谢庆典活动PV",
       "link": "https://search.bilibili.com/all?keyword=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E6%84%9F%E8%B0%A2%E5%BA%86%E5%85%B8%E6%B4%BB%E5%8A%A8PV",
       "hot_value": 278775
+    },
+    {
+      "title": "S16举办场馆有哪些故事",
+      "link": "https://search.bilibili.com/all?keyword=S16%E4%B8%BE%E5%8A%9E%E5%9C%BA%E9%A6%86%E6%9C%89%E5%93%AA%E4%BA%9B%E6%95%85%E4%BA%8B",
+      "hot_value": 278714
+    },
+    {
+      "title": "LPL四支队伍各自的问题在哪",
+      "link": "https://search.bilibili.com/all?keyword=LPL%E5%9B%9B%E6%94%AF%E9%98%9F%E4%BC%8D%E5%90%84%E8%87%AA%E7%9A%84%E9%97%AE%E9%A2%98%E5%9C%A8%E5%93%AA",
+      "hot_value": 278753
+    },
+    {
+      "title": "阿门汤普森封盖成就两连胜",
+      "link": "https://search.bilibili.com/all?keyword=%E9%98%BF%E9%97%A8%E6%B1%A4%E6%99%AE%E6%A3%AE%E5%B0%81%E7%9B%96%E6%88%90%E5%B0%B1%E4%B8%A4%E8%BF%9E%E8%83%9C",
+      "hot_value": 278777
+    },
+    {
+      "title": "曼城本赛季英超首败",
+      "link": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E%E6%9C%AC%E8%B5%9B%E5%AD%A3%E8%8B%B1%E8%B6%85%E9%A6%96%E8%B4%A5",
+      "hot_value": 278770
+    },
+    {
+      "title": "绝区零挽昼实机首曝",
+      "link": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E6%8C%BD%E6%98%BC%E5%AE%9E%E6%9C%BA%E9%A6%96%E6%9B%9D",
+      "hot_value": 278676
+    },
+    {
+      "title": "台风蔷琵来袭",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%9D%A5%E8%A2%AD",
+      "hot_value": 278531
+    },
+    {
+      "title": "S赛各队都在练什么英雄",
+      "link": "https://search.bilibili.com/all?keyword=S%E8%B5%9B%E5%90%84%E9%98%9F%E9%83%BD%E5%9C%A8%E7%BB%83%E4%BB%80%E4%B9%88%E8%8B%B1%E9%9B%84",
+      "hot_value": 278554
+    },
+    {
+      "title": "卢旺达为何被称为非洲新加坡",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8D%A2%E6%97%BA%E8%BE%BE%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E4%B8%BA%E9%9D%9E%E6%B4%B2%E6%96%B0%E5%8A%A0%E5%9D%A1",
+      "hot_value": 278659
     },
     {
       "title": "大肥鱼为什么突然火了",
@@ -120,29 +110,9 @@
       "hot_value": 278664
     },
     {
-      "title": "卢旺达为何被称为非洲新加坡",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8D%A2%E6%97%BA%E8%BE%BE%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E4%B8%BA%E9%9D%9E%E6%B4%B2%E6%96%B0%E5%8A%A0%E5%9D%A1",
-      "hot_value": 278659
-    },
-    {
-      "title": "热火连败问题到底出在谁",
-      "link": "https://search.bilibili.com/all?keyword=%E7%83%AD%E7%81%AB%E8%BF%9E%E8%B4%A5%E9%97%AE%E9%A2%98%E5%88%B0%E5%BA%95%E5%87%BA%E5%9C%A8%E8%B0%81",
-      "hot_value": 278768
-    },
-    {
-      "title": "原神7.2版本PV",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E7.2%E7%89%88%E6%9C%ACPV",
-      "hot_value": 278610
-    },
-    {
-      "title": "S赛各队都在练什么英雄",
-      "link": "https://search.bilibili.com/all?keyword=S%E8%B5%9B%E5%90%84%E9%98%9F%E9%83%BD%E5%9C%A8%E7%BB%83%E4%BB%80%E4%B9%88%E8%8B%B1%E9%9B%84",
-      "hot_value": 278554
-    },
-    {
-      "title": "台风蔷琵来袭",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%9D%A5%E8%A2%AD",
-      "hot_value": 278531
+      "title": "三代鹿人深扒盛艾敬父母3.0",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E4%BB%A3%E9%B9%BF%E4%BA%BA%E6%B7%B1%E6%89%92%E7%9B%9B%E8%89%BE%E6%95%AC%E7%88%B6%E6%AF%8D3.0",
+      "hot_value": 278534
     },
     {
       "title": "七旬大爷用手回收火箭",
@@ -150,9 +120,39 @@
       "hot_value": 278726
     },
     {
-      "title": "变形金刚版华强买瓜2.0",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A%E7%89%88%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C2.0",
-      "hot_value": 278648
+      "title": "剖析南宫婉的纠结与挣扎",
+      "link": "https://search.bilibili.com/all?keyword=%E5%89%96%E6%9E%90%E5%8D%97%E5%AE%AB%E5%A9%89%E7%9A%84%E7%BA%A0%E7%BB%93%E4%B8%8E%E6%8C%A3%E6%89%8E",
+      "hot_value": 278761
+    },
+    {
+      "title": "逆天复仇者联盟",
+      "link": "https://search.bilibili.com/all?keyword=%E9%80%86%E5%A4%A9%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F",
+      "hot_value": 278715
+    },
+    {
+      "title": "原神7.2版本PV",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E7.2%E7%89%88%E6%9C%ACPV",
+      "hot_value": 278610
+    },
+    {
+      "title": "锐评S16瑞士轮LPL首轮全败",
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84S16%E7%91%9E%E5%A3%AB%E8%BD%AELPL%E9%A6%96%E8%BD%AE%E5%85%A8%E8%B4%A5",
+      "hot_value": 278677
+    },
+    {
+      "title": "Creme洛克团战狂砍四杀",
+      "link": "https://search.bilibili.com/all?keyword=Creme%E6%B4%9B%E5%85%8B%E5%9B%A2%E6%88%98%E7%8B%82%E7%A0%8D%E5%9B%9B%E6%9D%80",
+      "hot_value": 278787
+    },
+    {
+      "title": "俄乌冲突大结局要来了吗",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E5%A4%A7%E7%BB%93%E5%B1%80%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
+      "hot_value": 278744
+    },
+    {
+      "title": "解析LPL四支战队失利原因",
+      "link": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90LPL%E5%9B%9B%E6%94%AF%E6%88%98%E9%98%9F%E5%A4%B1%E5%88%A9%E5%8E%9F%E5%9B%A0",
+      "hot_value": 278713
     }
   ]
 }
