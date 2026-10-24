@@ -2,7 +2,7 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-10-24T09:10:05+08:00",
+  "updated_at": "2026-10-24T13:56:54+08:00",
   "data": [
     {
       "title": "西藏地震已致16死76伤",
@@ -10,74 +10,29 @@
       "hot_value": 278532
     },
     {
-      "title": "BLG MKOI",
-      "link": "https://search.bilibili.com/all?keyword=BLG%20MKOI",
-      "hot_value": 278632
+      "title": "韩立",
+      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B",
+      "hot_value": 278664
     },
     {
-      "title": "Kimi K3.1 Pro发布",
-      "link": "https://search.bilibili.com/all?keyword=Kimi%20K3.1%20Pro%E5%8F%91%E5%B8%83",
-      "hot_value": 278647
+      "title": "绝区零挽昼实机首曝",
+      "link": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E6%8C%BD%E6%98%BC%E5%AE%9E%E6%9C%BA%E9%A6%96%E6%9B%9D",
+      "hot_value": 278676
     },
     {
-      "title": "GEN IG",
-      "link": "https://search.bilibili.com/all?keyword=GEN%20IG",
-      "hot_value": 278629
+      "title": "锐评S16瑞士轮LPL首轮全败",
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84S16%E7%91%9E%E5%A3%AB%E8%BD%AELPL%E9%A6%96%E8%BD%AE%E5%85%A8%E8%B4%A5",
+      "hot_value": 278677
     },
     {
-      "title": "大暴雨来了",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%9A%B4%E9%9B%A8%E6%9D%A5%E4%BA%86",
-      "hot_value": 278641
+      "title": "徐静雨解读火箭战胜马刺",
+      "link": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%A7%A3%E8%AF%BB%E7%81%AB%E7%AE%AD%E6%88%98%E8%83%9C%E9%A9%AC%E5%88%BA",
+      "hot_value": 278687
     },
     {
-      "title": "50系中端显卡价格上涨",
-      "link": "https://search.bilibili.com/all?keyword=50%E7%B3%BB%E4%B8%AD%E7%AB%AF%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8",
-      "hot_value": 278628
-    },
-    {
-      "title": "锐评S16瑞士轮首日LPL全败",
-      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E6%97%A5LPL%E5%85%A8%E8%B4%A5",
-      "hot_value": 278640
-    },
-    {
-      "title": "复刻海绵宝宝里最好吃的汉堡",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E5%88%BB%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E9%87%8C%E6%9C%80%E5%A5%BD%E5%90%83%E7%9A%84%E6%B1%89%E5%A0%A1",
-      "hot_value": 278592
-    },
-    {
-      "title": "詹姆斯防守能力有多强",
-      "link": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%98%B2%E5%AE%88%E8%83%BD%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA",
-      "hot_value": 278650
-    },
-    {
-      "title": "印度的申奥和登月梦能实现吗",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%9A%84%E7%94%B3%E5%A5%A5%E5%92%8C%E7%99%BB%E6%9C%88%E6%A2%A6%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%90%97",
-      "hot_value": 278604
-    },
-    {
-      "title": "北极荒野简直是天然自助餐",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8C%97%E6%9E%81%E8%8D%92%E9%87%8E%E7%AE%80%E7%9B%B4%E6%98%AF%E5%A4%A9%E7%84%B6%E8%87%AA%E5%8A%A9%E9%A4%90",
-      "hot_value": 278584
-    },
-    {
-      "title": "AL KC",
-      "link": "https://search.bilibili.com/all?keyword=AL%20KC",
-      "hot_value": 278633
-    },
-    {
-      "title": "76人为何能创造29分大逆转",
-      "link": "https://search.bilibili.com/all?keyword=76%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%83%BD%E5%88%9B%E9%80%A029%E5%88%86%E5%A4%A7%E9%80%86%E8%BD%AC",
-      "hot_value": 278634
-    },
-    {
-      "title": "TSW LYON",
-      "link": "https://search.bilibili.com/all?keyword=TSW%20LYON",
-      "hot_value": 278639
-    },
-    {
-      "title": "HLE TES",
-      "link": "https://search.bilibili.com/all?keyword=HLE%20TES",
-      "hot_value": 278630
+      "title": "解说费萨里1-3利雅得胜利",
+      "link": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E8%B4%B9%E8%90%A8%E9%87%8C1-3%E5%88%A9%E9%9B%85%E5%BE%97%E8%83%9C%E5%88%A9",
+      "hot_value": 278666
     },
     {
       "title": "LOS T1",
@@ -85,14 +40,74 @@
       "hot_value": 278638
     },
     {
-      "title": "变形金刚版华强买瓜2.0",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A%E7%89%88%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C2.0",
-      "hot_value": 278648
+      "title": "TLAW CFO",
+      "link": "https://search.bilibili.com/all?keyword=TLAW%20CFO",
+      "hot_value": 278637
     },
     {
-      "title": "原神7.2版本PV",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E7.2%E7%89%88%E6%9C%ACPV",
-      "hot_value": 278610
+      "title": "卢旺达为何被称为非洲新加坡",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8D%A2%E6%97%BA%E8%BE%BE%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E4%B8%BA%E9%9D%9E%E6%B4%B2%E6%96%B0%E5%8A%A0%E5%9D%A1",
+      "hot_value": 278659
+    },
+    {
+      "title": "锐评IG和TES首轮表现",
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E5%92%8CTES%E9%A6%96%E8%BD%AE%E8%A1%A8%E7%8E%B0",
+      "hot_value": 278670
+    },
+    {
+      "title": "369与Zeus交手表现如何",
+      "link": "https://search.bilibili.com/all?keyword=369%E4%B8%8EZeus%E4%BA%A4%E6%89%8B%E8%A1%A8%E7%8E%B0%E5%A6%82%E4%BD%95",
+      "hot_value": 278654
+    },
+    {
+      "title": "BLG MKOI",
+      "link": "https://search.bilibili.com/all?keyword=BLG%20MKOI",
+      "hot_value": 278632
+    },
+    {
+      "title": "深度复盘GEN战胜IG",
+      "link": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98GEN%E6%88%98%E8%83%9CIG",
+      "hot_value": 278645
+    },
+    {
+      "title": "如何评价Bin打法变化",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7Bin%E6%89%93%E6%B3%95%E5%8F%98%E5%8C%96",
+      "hot_value": 278682
+    },
+    {
+      "title": "锐评LPL瑞士轮首轮选手表现",
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84LPL%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E8%BD%AE%E9%80%89%E6%89%8B%E8%A1%A8%E7%8E%B0",
+      "hot_value": 278646
+    },
+    {
+      "title": "AL KC",
+      "link": "https://search.bilibili.com/all?keyword=AL%20KC",
+      "hot_value": 278633
+    },
+    {
+      "title": "GEN IG",
+      "link": "https://search.bilibili.com/all?keyword=GEN%20IG",
+      "hot_value": 278629
+    },
+    {
+      "title": "北极荒野简直是天然自助餐",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8C%97%E6%9E%81%E8%8D%92%E9%87%8E%E7%AE%80%E7%9B%B4%E6%98%AF%E5%A4%A9%E7%84%B6%E8%87%AA%E5%8A%A9%E9%A4%90",
+      "hot_value": 278584
+    },
+    {
+      "title": "TSW LYON",
+      "link": "https://search.bilibili.com/all?keyword=TSW%20LYON",
+      "hot_value": 278639
+    },
+    {
+      "title": "台风蔷琵来袭",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%9D%A5%E8%A2%AD",
+      "hot_value": 278531
+    },
+    {
+      "title": "Kimi K3.1 Pro发布",
+      "link": "https://search.bilibili.com/all?keyword=Kimi%20K3.1%20Pro%E5%8F%91%E5%B8%83",
+      "hot_value": 278647
     },
     {
       "title": "S赛各队都在练什么英雄",
@@ -100,19 +115,9 @@
       "hot_value": 278554
     },
     {
-      "title": "G2 DK",
-      "link": "https://search.bilibili.com/all?keyword=G2%20DK",
-      "hot_value": 278636
-    },
-    {
-      "title": "TLAW CFO",
-      "link": "https://search.bilibili.com/all?keyword=TLAW%20CFO",
-      "hot_value": 278637
-    },
-    {
-      "title": "数据回顾BLG爆冷不敌MKOI",
-      "link": "https://search.bilibili.com/all?keyword=%E6%95%B0%E6%8D%AE%E5%9B%9E%E9%A1%BEBLG%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8CMKOI",
-      "hot_value": 278642
+      "title": "三代鹿人深扒盛艾敬父母3.0",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E4%BB%A3%E9%B9%BF%E4%BA%BA%E6%B7%B1%E6%89%92%E7%9B%9B%E8%89%BE%E6%95%AC%E7%88%B6%E6%AF%8D3.0",
+      "hot_value": 278534
     },
     {
       "title": "S16应援曲 以风之名",
@@ -120,14 +125,14 @@
       "hot_value": 278437
     },
     {
-      "title": "三代鹿人深扒盛艾敬父母3.0",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E4%BB%A3%E9%B9%BF%E4%BA%BA%E6%B7%B1%E6%89%92%E7%9B%9B%E8%89%BE%E6%95%AC%E7%88%B6%E6%AF%8D3.0",
-      "hot_value": 278534
+      "title": "HLE TES",
+      "link": "https://search.bilibili.com/all?keyword=HLE%20TES",
+      "hot_value": 278630
     },
     {
-      "title": "深度复盘IG vs GENG",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98IG%20vs%20GENG",
-      "hot_value": 278652
+      "title": "锐评S16瑞士轮首日LPL全败",
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E6%97%A5LPL%E5%85%A8%E8%B4%A5",
+      "hot_value": 278640
     },
     {
       "title": "LPL出征前的默契挑战",
@@ -135,24 +140,19 @@
       "hot_value": 278376
     },
     {
-      "title": "用寂静岭画风打开周处除三害",
-      "link": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%AF%82%E9%9D%99%E5%B2%AD%E7%94%BB%E9%A3%8E%E6%89%93%E5%BC%80%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3",
-      "hot_value": 278406
+      "title": "G2 DK",
+      "link": "https://search.bilibili.com/all?keyword=G2%20DK",
+      "hot_value": 278636
     },
     {
-      "title": "LCK瑞士轮首日全胜",
-      "link": "https://search.bilibili.com/all?keyword=LCK%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E6%97%A5%E5%85%A8%E8%83%9C",
-      "hot_value": 278651
+      "title": "第五人格女团出道MV首曝",
+      "link": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%A5%B3%E5%9B%A2%E5%87%BA%E9%81%93MV%E9%A6%96%E6%9B%9D",
+      "hot_value": 278582
     },
     {
       "title": "中国女团2-3日本女团",
       "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
       "hot_value": 278452
-    },
-    {
-      "title": "三角洲S12赛季配件解析",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2S12%E8%B5%9B%E5%AD%A3%E9%85%8D%E4%BB%B6%E8%A7%A3%E6%9E%90",
-      "hot_value": 278649
     }
   ]
 }
