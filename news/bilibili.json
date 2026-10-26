@@ -2,82 +2,12 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-10-27T01:37:26+08:00",
+  "updated_at": "2026-10-27T05:55:00+08:00",
   "data": [
     {
-      "title": "CFO T1",
-      "link": "https://search.bilibili.com/all?keyword=CFO%20T1",
-      "hot_value": 279128
-    },
-    {
-      "title": "DDR6位宽和频率或将双提升",
-      "link": "https://search.bilibili.com/all?keyword=DDR6%E4%BD%8D%E5%AE%BD%E5%92%8C%E9%A2%91%E7%8E%87%E6%88%96%E5%B0%86%E5%8F%8C%E6%8F%90%E5%8D%87",
-      "hot_value": 279122
-    },
-    {
-      "title": "DeepSeek七款工具同题实测",
-      "link": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
-      "hot_value": 279115
-    },
-    {
-      "title": "1000个大肥鱼在MC建故宫",
-      "link": "https://search.bilibili.com/all?keyword=1000%E4%B8%AA%E5%A4%A7%E8%82%A5%E9%B1%BC%E5%9C%A8MC%E5%BB%BA%E6%95%85%E5%AE%AB",
-      "hot_value": 279091
-    },
-    {
-      "title": "苹果发布新款iPad mini",
-      "link": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BEiPad%20mini",
-      "hot_value": 279120
-    },
-    {
-      "title": "洛天依三体20周年主题曲谁听",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B8%89%E4%BD%9320%E5%91%A8%E5%B9%B4%E4%B8%BB%E9%A2%98%E6%9B%B2%E8%B0%81%E5%90%AC",
-      "hot_value": 279058
-    },
-    {
-      "title": "TYLOO淘汰9z",
-      "link": "https://search.bilibili.com/all?keyword=TYLOO%E6%B7%98%E6%B1%B09z",
-      "hot_value": 279113
-    },
-    {
-      "title": "詹姆斯单曲LeBron Funk",
-      "link": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8D%95%E6%9B%B2LeBron%20Funk",
-      "hot_value": 279074
-    },
-    {
-      "title": "危险奶蛙号",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8D%B1%E9%99%A9%E5%A5%B6%E8%9B%99%E5%8F%B7",
-      "hot_value": 279090
-    },
-    {
-      "title": "杰威大伤对雷霆有何影响",
-      "link": "https://search.bilibili.com/all?keyword=%E6%9D%B0%E5%A8%81%E5%A4%A7%E4%BC%A4%E5%AF%B9%E9%9B%B7%E9%9C%86%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-      "hot_value": 279108
-    },
-    {
-      "title": "中国U17女足小组第一出线",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%E5%87%BA%E7%BA%BF",
-      "hot_value": 278972
-    },
-    {
-      "title": "剑网3新歌演绎大唐乱世",
-      "link": "https://search.bilibili.com/all?keyword=%E5%89%91%E7%BD%913%E6%96%B0%E6%AD%8C%E6%BC%94%E7%BB%8E%E5%A4%A7%E5%94%90%E4%B9%B1%E4%B8%96",
-      "hot_value": 279003
-    },
-    {
-      "title": "神秘园详解羌塘无人区失踪事件",
-      "link": "https://search.bilibili.com/all?keyword=%E7%A5%9E%E7%A7%98%E5%9B%AD%E8%AF%A6%E8%A7%A3%E7%BE%8C%E5%A1%98%E6%97%A0%E4%BA%BA%E5%8C%BA%E5%A4%B1%E8%B8%AA%E4%BA%8B%E4%BB%B6",
-      "hot_value": 279088
-    },
-    {
-      "title": "挑战用所有省份写出love",
-      "link": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%94%A8%E6%89%80%E6%9C%89%E7%9C%81%E4%BB%BD%E5%86%99%E5%87%BAlove",
-      "hot_value": 279006
-    },
-    {
-      "title": "人工耳蜗里的声音是什么样的",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97%E9%87%8C%E7%9A%84%E5%A3%B0%E9%9F%B3%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84",
-      "hot_value": 278833
+      "title": "TLAW AL",
+      "link": "https://search.bilibili.com/all?keyword=TLAW%20AL",
+      "hot_value": 279135
     },
     {
       "title": "卢拉赢得大选如何影响巴西",
@@ -85,9 +15,29 @@
       "hot_value": 279105
     },
     {
-      "title": "如何看中土网友对线大战",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E4%B8%AD%E5%9C%9F%E7%BD%91%E5%8F%8B%E5%AF%B9%E7%BA%BF%E5%A4%A7%E6%88%98",
-      "hot_value": 279061
+      "title": "DDR6位宽和频率或将双提升",
+      "link": "https://search.bilibili.com/all?keyword=DDR6%E4%BD%8D%E5%AE%BD%E5%92%8C%E9%A2%91%E7%8E%87%E6%88%96%E5%B0%86%E5%8F%8C%E6%8F%90%E5%8D%87",
+      "hot_value": 279122
+    },
+    {
+      "title": "BLG KC",
+      "link": "https://search.bilibili.com/all?keyword=BLG%20KC",
+      "hot_value": 279129
+    },
+    {
+      "title": "BLG战胜KC赛后数据",
+      "link": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CKC%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+      "hot_value": 279133
+    },
+    {
+      "title": "Keria洛开团魅惑四人秒杀Doggo",
+      "link": "https://search.bilibili.com/all?keyword=Keria%E6%B4%9B%E5%BC%80%E5%9B%A2%E9%AD%85%E6%83%91%E5%9B%9B%E4%BA%BA%E7%A7%92%E6%9D%80Doggo",
+      "hot_value": 279131
+    },
+    {
+      "title": "TYLOO淘汰9z",
+      "link": "https://search.bilibili.com/all?keyword=TYLOO%E6%B7%98%E6%B1%B09z",
+      "hot_value": 279113
     },
     {
       "title": "53分钟盘点卡黄爱恨情仇",
@@ -95,14 +45,59 @@
       "hot_value": 279075
     },
     {
-      "title": "UP主自制大肥鱼游戏",
-      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%B8%B8%E6%88%8F",
-      "hot_value": 278809
+      "title": "ON泰坦神钩化解危机",
+      "link": "https://search.bilibili.com/all?keyword=ON%E6%B3%B0%E5%9D%A6%E7%A5%9E%E9%92%A9%E5%8C%96%E8%A7%A3%E5%8D%B1%E6%9C%BA",
+      "hot_value": 279134
     },
     {
-      "title": "将MC爆改成其他游戏",
-      "link": "https://search.bilibili.com/all?keyword=%E5%B0%86MC%E7%88%86%E6%94%B9%E6%88%90%E5%85%B6%E4%BB%96%E6%B8%B8%E6%88%8F",
-      "hot_value": 278937
+      "title": "神秘园详解羌塘无人区失踪事件",
+      "link": "https://search.bilibili.com/all?keyword=%E7%A5%9E%E7%A7%98%E5%9B%AD%E8%AF%A6%E8%A7%A3%E7%BE%8C%E5%A1%98%E6%97%A0%E4%BA%BA%E5%8C%BA%E5%A4%B1%E8%B8%AA%E4%BA%8B%E4%BB%B6",
+      "hot_value": 279088
+    },
+    {
+      "title": "中国U17女足小组第一出线",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%E5%87%BA%E7%BA%BF",
+      "hot_value": 278972
+    },
+    {
+      "title": "LOS TSW",
+      "link": "https://search.bilibili.com/all?keyword=LOS%20TSW",
+      "hot_value": 279132
+    },
+    {
+      "title": "洛天依三体20周年主题曲谁听",
+      "link": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B8%89%E4%BD%9320%E5%91%A8%E5%B9%B4%E4%B8%BB%E9%A2%98%E6%9B%B2%E8%B0%81%E5%90%AC",
+      "hot_value": 279058
+    },
+    {
+      "title": "CFO T1",
+      "link": "https://search.bilibili.com/all?keyword=CFO%20T1",
+      "hot_value": 279128
+    },
+    {
+      "title": "杰威大伤对雷霆有何影响",
+      "link": "https://search.bilibili.com/all?keyword=%E6%9D%B0%E5%A8%81%E5%A4%A7%E4%BC%A4%E5%AF%B9%E9%9B%B7%E9%9C%86%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+      "hot_value": 279108
+    },
+    {
+      "title": "S1冠军打野Cyanide离世",
+      "link": "https://search.bilibili.com/all?keyword=S1%E5%86%A0%E5%86%9B%E6%89%93%E9%87%8ECyanide%E7%A6%BB%E4%B8%96",
+      "hot_value": 279079
+    },
+    {
+      "title": "挑战用所有省份写出love",
+      "link": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%94%A8%E6%89%80%E6%9C%89%E7%9C%81%E4%BB%BD%E5%86%99%E5%87%BAlove",
+      "hot_value": 279006
+    },
+    {
+      "title": "张麻子鹅城FUNK",
+      "link": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%BA%BB%E5%AD%90%E9%B9%85%E5%9F%8EFUNK",
+      "hot_value": 278988
+    },
+    {
+      "title": "如何看中土网友对线大战",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E4%B8%AD%E5%9C%9F%E7%BD%91%E5%8F%8B%E5%AF%B9%E7%BA%BF%E5%A4%A7%E6%88%98",
+      "hot_value": 279061
     },
     {
       "title": "吴站长携天津站男团激情演唱",
@@ -110,24 +105,39 @@
       "hot_value": 278875
     },
     {
+      "title": "DeepSeek七款工具同题实测",
+      "link": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
+      "hot_value": 279115
+    },
+    {
       "title": "UP主王楚淇官宣结婚",
       "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%8E%8B%E6%A5%9A%E6%B7%87%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A",
       "hot_value": 279019
     },
     {
-      "title": "薄肌级不要笑挑战",
-      "link": "https://search.bilibili.com/all?keyword=%E8%96%84%E8%82%8C%E7%BA%A7%E4%B8%8D%E8%A6%81%E7%AC%91%E6%8C%91%E6%88%98",
-      "hot_value": 278855
+      "title": "人工耳蜗里的声音是什么样的",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97%E9%87%8C%E7%9A%84%E5%A3%B0%E9%9F%B3%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84",
+      "hot_value": 278833
     },
     {
-      "title": "姆巴佩绝杀巴萨",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BB%9D%E6%9D%80%E5%B7%B4%E8%90%A8",
-      "hot_value": 278964
+      "title": "剑网3新歌演绎大唐乱世",
+      "link": "https://search.bilibili.com/all?keyword=%E5%89%91%E7%BD%913%E6%96%B0%E6%AD%8C%E6%BC%94%E7%BB%8E%E5%A4%A7%E5%94%90%E4%B9%B1%E4%B8%96",
+      "hot_value": 279003
     },
     {
-      "title": "IG 胜利结算上线",
-      "link": "https://search.bilibili.com/all?keyword=IG%20%E8%83%9C%E5%88%A9%E7%BB%93%E7%AE%97%E4%B8%8A%E7%BA%BF",
-      "hot_value": 279021
+      "title": "詹姆斯单曲LeBron Funk",
+      "link": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8D%95%E6%9B%B2LeBron%20Funk",
+      "hot_value": 279074
+    },
+    {
+      "title": "无畏契约解说杯选人大会",
+      "link": "https://search.bilibili.com/all?keyword=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E8%A7%A3%E8%AF%B4%E6%9D%AF%E9%80%89%E4%BA%BA%E5%A4%A7%E4%BC%9A",
+      "hot_value": 279067
+    },
+    {
+      "title": "危险奶蛙号",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8D%B1%E9%99%A9%E5%A5%B6%E8%9B%99%E5%8F%B7",
+      "hot_value": 279090
     },
     {
       "title": "0基础如何选购人生第一辆车",
@@ -135,24 +145,14 @@
       "hot_value": 278916
     },
     {
-      "title": "UP主带猫去世界尽头",
-      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E7%8C%AB%E5%8E%BB%E4%B8%96%E7%95%8C%E5%B0%BD%E5%A4%B4",
-      "hot_value": 278856
+      "title": "1000个大肥鱼在MC建故宫",
+      "link": "https://search.bilibili.com/all?keyword=1000%E4%B8%AA%E5%A4%A7%E8%82%A5%E9%B1%BC%E5%9C%A8MC%E5%BB%BA%E6%95%85%E5%AE%AB",
+      "hot_value": 279091
     },
     {
-      "title": "IG和TES取胜战各自发挥如何",
-      "link": "https://search.bilibili.com/all?keyword=IG%E5%92%8CTES%E5%8F%96%E8%83%9C%E6%88%98%E5%90%84%E8%87%AA%E5%8F%91%E6%8C%A5%E5%A6%82%E4%BD%95",
-      "hot_value": 279013
-    },
-    {
-      "title": "刘晓艳 从四六级到跳车摇",
-      "link": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%20%E4%BB%8E%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%88%B0%E8%B7%B3%E8%BD%A6%E6%91%87",
-      "hot_value": 278702
-    },
-    {
-      "title": "如何评价杰罗姆带领灰熊三连胜",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%9D%B0%E7%BD%97%E5%A7%86%E5%B8%A6%E9%A2%86%E7%81%B0%E7%86%8A%E4%B8%89%E8%BF%9E%E8%83%9C",
-      "hot_value": 279102
+      "title": "周星驰功夫女足海外评价如何",
+      "link": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%B5%B7%E5%A4%96%E8%AF%84%E4%BB%B7%E5%A6%82%E4%BD%95",
+      "hot_value": 279083
     }
   ]
 }
