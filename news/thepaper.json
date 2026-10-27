@@ -2,21 +2,21 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-10-27T09:21:59+08:00",
+  "updated_at": "2026-10-27T14:45:08+08:00",
   "data": [
     {
-      "title": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34332996",
-      "hot_value": 0
-    },
-    {
-      "title": "党的二十届五中全会今起至29日在北京召开",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34331971",
+      "title": "东鹏饮料集团：零容忍伤害民族感情行为，终止与姆巴佩全部合作",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34340340",
       "hot_value": 0
     },
     {
       "title": "广汽埃安陷“香蕉电池”风波：客服称在走召回流程，三名车主投诉遭“只修不换”后获回应",
       "link": "https://www.thepaper.cn/newsDetail_forward_34334623",
+      "hot_value": 0
+    },
+    {
+      "title": "媒体评姆巴佩涉华不当言论：“吃饭砸锅”，绝不能忍",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34341097",
       "hot_value": 0
     },
     {
@@ -40,18 +40,8 @@
       "hot_value": 0
     },
     {
-      "title": "马上评｜治理摆拍，平台怎能既当运动员又当裁判员",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34332747",
-      "hot_value": 0
-    },
-    {
       "title": "金正恩上周访问丹东，访问是应邀还是朝方提出？外交部介绍相关情况",
       "link": "https://www.thepaper.cn/newsDetail_forward_34333708",
-      "hot_value": 0
-    },
-    {
-      "title": "言短意长｜一句“依靠成都”，官方和民间解读为何落差这么大",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34335699",
       "hot_value": 0
     },
     {
@@ -60,13 +50,28 @@
       "hot_value": 0
     },
     {
-      "title": "向校门口的二手烟说“不”，上海开展托幼机构、中小学控烟专项巡查",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34332141",
+      "title": "言短意长｜一句“依靠成都”，官方和民间解读为何落差这么大",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34335699",
       "hot_value": 0
     },
     {
-      "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34332295",
+      "title": "马上评｜反诈博主“徽剑”遭买凶杀害，电诈不除绝不收兵",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34340749",
+      "hot_value": 0
+    },
+    {
+      "title": "蒙牛：终止与姆巴佩的全部合作，对伤害中国人民感情的言行坚决抵制",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34341057",
+      "hot_value": 0
+    },
+    {
+      "title": "安徽省招标采购协会：3名评标评审专家存在弄虚作假骗取入库行为，予以清退",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34334800",
+      "hot_value": 0
+    },
+    {
+      "title": "以色列今日大选：内塔尼亚胡生存战、“10.7”问责与国家方向之争",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34334408",
       "hot_value": 0
     },
     {
@@ -97,11 +102,6 @@
     {
       "title": "二十届中央第八轮巡视完成进驻",
       "link": "https://www.thepaper.cn/newsDetail_forward_34335184",
-      "hot_value": 0
-    },
-    {
-      "title": "【社论】长三角经济何以跑出“加速度”",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34334688",
       "hot_value": 0
     }
   ]
