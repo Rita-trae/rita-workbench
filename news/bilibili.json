@@ -2,27 +2,12 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-10-28T23:12:45+08:00",
+  "updated_at": "2026-10-29T04:21:48+08:00",
   "data": [
     {
-      "title": "重庆狼队 长沙TES.A",
-      "link": "https://search.bilibili.com/all?keyword=%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F%20%E9%95%BF%E6%B2%99TES.A",
-      "hot_value": 279399
-    },
-    {
-      "title": "为何NBA赛季初球员伤病频繁",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95NBA%E8%B5%9B%E5%AD%A3%E5%88%9D%E7%90%83%E5%91%98%E4%BC%A4%E7%97%85%E9%A2%91%E7%B9%81",
-      "hot_value": 279451
-    },
-    {
-      "title": "国务院原副总理刘延东同志逝世",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8E%9F%E5%89%AF%E6%80%BB%E7%90%86%E5%88%98%E5%BB%B6%E4%B8%9C%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96",
-      "hot_value": 279428
-    },
-    {
-      "title": "数据回顾狼队战胜长沙TES",
-      "link": "https://search.bilibili.com/all?keyword=%E6%95%B0%E6%8D%AE%E5%9B%9E%E9%A1%BE%E7%8B%BC%E9%98%9F%E6%88%98%E8%83%9C%E9%95%BF%E6%B2%99TES",
-      "hot_value": 279454
+      "title": "MKOI T1",
+      "link": "https://search.bilibili.com/all?keyword=MKOI%20T1",
+      "hot_value": 279227
     },
     {
       "title": "去年全国刑事立案数为本世纪最低",
@@ -30,24 +15,14 @@
       "hot_value": 279378
     },
     {
-      "title": "外交部回应姆巴佩道歉",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%93%E6%AD%89",
-      "hot_value": 279391
+      "title": "国务院原副总理刘延东同志逝世",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8E%9F%E5%89%AF%E6%80%BB%E7%90%86%E5%88%98%E5%BB%B6%E4%B8%9C%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96",
+      "hot_value": 279428
     },
     {
-      "title": "深空当铺",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E7%A9%BA%E5%BD%93%E9%93%BA",
-      "hot_value": 279435
-    },
-    {
-      "title": "iPhone Duo内屏开裂疑因解析",
-      "link": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E5%86%85%E5%B1%8F%E5%BC%80%E8%A3%82%E7%96%91%E5%9B%A0%E8%A7%A3%E6%9E%90",
-      "hot_value": 279456
-    },
-    {
-      "title": "西班牙高铁相撞事故已致64死",
-      "link": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%93%81%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B464%E6%AD%BB",
-      "hot_value": 279450
+      "title": "苹果发布首款触屏MacBook Pro",
+      "link": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E8%A7%A6%E5%B1%8FMacBook%20Pro",
+      "hot_value": 279461
     },
     {
       "title": "后会友期成年人破碎友情",
@@ -55,24 +30,14 @@
       "hot_value": 279372
     },
     {
-      "title": "三角洲影之刃零联动",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E8%81%94%E5%8A%A8",
-      "hot_value": 279446
+      "title": "外交部回应姆巴佩道歉",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%93%E6%AD%89",
+      "hot_value": 279391
     },
     {
-      "title": "树叶 王者农友杯训练赛",
-      "link": "https://search.bilibili.com/all?keyword=%E6%A0%91%E5%8F%B6%20%E7%8E%8B%E8%80%85%E5%86%9C%E5%8F%8B%E6%9D%AF%E8%AE%AD%E7%BB%83%E8%B5%9B",
-      "hot_value": 279449
-    },
-    {
-      "title": "BLG瑞士轮VLOG 赢回来",
-      "link": "https://search.bilibili.com/all?keyword=BLG%E7%91%9E%E5%A3%AB%E8%BD%AEVLOG%20%E8%B5%A2%E5%9B%9E%E6%9D%A5",
-      "hot_value": 279438
-    },
-    {
-      "title": "在贝加尔湖清理熊患",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E6%B8%85%E7%90%86%E7%86%8A%E6%82%A3",
-      "hot_value": 279365
+      "title": "重庆狼队 长沙TES.A",
+      "link": "https://search.bilibili.com/all?keyword=%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F%20%E9%95%BF%E6%B2%99TES.A",
+      "hot_value": 279399
     },
     {
       "title": "电脑硬件到底涨了多少倍",
@@ -80,9 +45,34 @@
       "hot_value": 279444
     },
     {
-      "title": "小博索纳罗败选后现状如何",
-      "link": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97%E8%B4%A5%E9%80%89%E5%90%8E%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
-      "hot_value": 279419
+      "title": "为何NBA赛季初球员伤病频繁",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95NBA%E8%B5%9B%E5%AD%A3%E5%88%9D%E7%90%83%E5%91%98%E4%BC%A4%E7%97%85%E9%A2%91%E7%B9%81",
+      "hot_value": 279451
+    },
+    {
+      "title": "爱德华兹本赛季能完全恢复吗",
+      "link": "https://search.bilibili.com/all?keyword=%E7%88%B1%E5%BE%B7%E5%8D%8E%E5%85%B9%E6%9C%AC%E8%B5%9B%E5%AD%A3%E8%83%BD%E5%AE%8C%E5%85%A8%E6%81%A2%E5%A4%8D%E5%90%97",
+      "hot_value": 279440
+    },
+    {
+      "title": "自媒体人举报电诈遇害始末",
+      "link": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%AA%92%E4%BD%93%E4%BA%BA%E4%B8%BE%E6%8A%A5%E7%94%B5%E8%AF%88%E9%81%87%E5%AE%B3%E5%A7%8B%E6%9C%AB",
+      "hot_value": 279247
+    },
+    {
+      "title": "BLG瑞士轮VLOG 赢回来",
+      "link": "https://search.bilibili.com/all?keyword=BLG%E7%91%9E%E5%A3%AB%E8%BD%AEVLOG%20%E8%B5%A2%E5%9B%9E%E6%9D%A5",
+      "hot_value": 279438
+    },
+    {
+      "title": "中国各省刻板印象belike",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%90%84%E7%9C%81%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1belike",
+      "hot_value": 279350
+    },
+    {
+      "title": "北京人的秋天belike",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E4%BA%BA%E7%9A%84%E7%A7%8B%E5%A4%A9belike",
+      "hot_value": 279327
     },
     {
       "title": "万字细嗦警匪片空枪剧情",
@@ -90,19 +80,44 @@
       "hot_value": 279370
     },
     {
+      "title": "在贝加尔湖清理熊患",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E6%B8%85%E7%90%86%E7%86%8A%E6%82%A3",
+      "hot_value": 279365
+    },
+    {
+      "title": "树叶 王者农友杯训练赛",
+      "link": "https://search.bilibili.com/all?keyword=%E6%A0%91%E5%8F%B6%20%E7%8E%8B%E8%80%85%E5%86%9C%E5%8F%8B%E6%9D%AF%E8%AE%AD%E7%BB%83%E8%B5%9B",
+      "hot_value": 279449
+    },
+    {
       "title": "反诈博主徽剑2年前遭买凶遇害",
       "link": "https://search.bilibili.com/all?keyword=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%912%E5%B9%B4%E5%89%8D%E9%81%AD%E4%B9%B0%E5%87%B6%E9%81%87%E5%AE%B3",
       "hot_value": 279197
     },
     {
-      "title": "危险奶蛙号vs棱背龟",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8D%B1%E9%99%A9%E5%A5%B6%E8%9B%99%E5%8F%B7vs%E6%A3%B1%E8%83%8C%E9%BE%9F",
-      "hot_value": 279433
+      "title": "塞尔维亚UP主谈武契奇败选",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9AUP%E4%B8%BB%E8%B0%88%E6%AD%A6%E5%A5%91%E5%A5%87%E8%B4%A5%E9%80%89",
+      "hot_value": 279211
     },
     {
-      "title": "北京人的秋天belike",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E4%BA%BA%E7%9A%84%E7%A7%8B%E5%A4%A9belike",
-      "hot_value": 279327
+      "title": "美国中期选举对普通人有何意义",
+      "link": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E6%84%8F%E4%B9%89",
+      "hot_value": 279441
+    },
+    {
+      "title": "TLAW AL",
+      "link": "https://search.bilibili.com/all?keyword=TLAW%20AL",
+      "hot_value": 279135
+    },
+    {
+      "title": "小博索纳罗败选后现状如何",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97%E8%B4%A5%E9%80%89%E5%90%8E%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
+      "hot_value": 279419
+    },
+    {
+      "title": "王者荣耀共创之夜完整回放",
+      "link": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C%E5%AE%8C%E6%95%B4%E5%9B%9E%E6%94%BE",
+      "hot_value": 279331
     },
     {
       "title": "S16首批八强席位争夺战在即",
@@ -115,24 +130,14 @@
       "hot_value": 279142
     },
     {
-      "title": "王者荣耀共创之夜完整回放",
-      "link": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C%E5%AE%8C%E6%95%B4%E5%9B%9E%E6%94%BE",
-      "hot_value": 279331
+      "title": "多地公交推行按需停模式",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9C%B0%E5%85%AC%E4%BA%A4%E6%8E%A8%E8%A1%8C%E6%8C%89%E9%9C%80%E5%81%9C%E6%A8%A1%E5%BC%8F",
+      "hot_value": 279375
     },
     {
-      "title": "下完雨的小塘竟然藏着这么大的货",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%8B%E5%AE%8C%E9%9B%A8%E7%9A%84%E5%B0%8F%E5%A1%98%E7%AB%9F%E7%84%B6%E8%97%8F%E7%9D%80%E8%BF%99%E4%B9%88%E5%A4%A7%E7%9A%84%E8%B4%A7",
-      "hot_value": 279366
-    },
-    {
-      "title": "火影手游楔二川木招募动画",
-      "link": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B8%E6%A5%94%E4%BA%8C%E5%B7%9D%E6%9C%A8%E6%8B%9B%E5%8B%9F%E5%8A%A8%E7%94%BB",
-      "hot_value": 279430
-    },
-    {
-      "title": "中国各省刻板印象belike",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%90%84%E7%9C%81%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1belike",
-      "hot_value": 279350
+      "title": "数据回顾狼队战胜长沙TES",
+      "link": "https://search.bilibili.com/all?keyword=%E6%95%B0%E6%8D%AE%E5%9B%9E%E9%A1%BE%E7%8B%BC%E9%98%9F%E6%88%98%E8%83%9C%E9%95%BF%E6%B2%99TES",
+      "hot_value": 279454
     },
     {
       "title": "极客湾旗舰手机芯片大横评",
@@ -140,19 +145,14 @@
       "hot_value": 279259
     },
     {
-      "title": "塞尔维亚UP主谈武契奇败选",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9AUP%E4%B8%BB%E8%B0%88%E6%AD%A6%E5%A5%91%E5%A5%87%E8%B4%A5%E9%80%89",
-      "hot_value": 279211
+      "title": "危险奶蛙号vs棱背龟",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8D%B1%E9%99%A9%E5%A5%B6%E8%9B%99%E5%8F%B7vs%E6%A3%B1%E8%83%8C%E9%BE%9F",
+      "hot_value": 279433
     },
     {
-      "title": "多地公交推行按需停模式",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9C%B0%E5%85%AC%E4%BA%A4%E6%8E%A8%E8%A1%8C%E6%8C%89%E9%9C%80%E5%81%9C%E6%A8%A1%E5%BC%8F",
-      "hot_value": 279375
-    },
-    {
-      "title": "杜甫视角解读万重山",
-      "link": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E7%94%AB%E8%A7%86%E8%A7%92%E8%A7%A3%E8%AF%BB%E4%B8%87%E9%87%8D%E5%B1%B1",
-      "hot_value": 279409
+      "title": "三角洲影之刃零联动",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E8%81%94%E5%8A%A8",
+      "hot_value": 279446
     }
   ]
 }
