@@ -2,7 +2,7 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-10-29T04:21:50+08:00",
+  "updated_at": "2026-10-29T08:16:57+08:00",
   "data": [
     {
       "title": "刘延东同志逝世",
@@ -10,13 +10,23 @@
       "hot_value": 0
     },
     {
-      "title": "外交部回应姆巴佩道歉",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34350582",
+      "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34351416",
       "hot_value": 0
     },
     {
-      "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34351416",
+      "title": "澎湃漫评｜“双头虾”背后是“两头瞎”",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34350140",
+      "hot_value": 0
+    },
+    {
+      "title": "向中国人民道歉！央视确认收到皇马道歉函",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34351820",
+      "hot_value": 0
+    },
+    {
+      "title": "外交部回应姆巴佩道歉",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34350582",
       "hot_value": 0
     },
     {
@@ -30,11 +40,6 @@
       "hot_value": 0
     },
     {
-      "title": "澎湃漫评｜“双头虾”背后是“两头瞎”",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34350140",
-      "hot_value": 0
-    },
-    {
       "title": "央视体育青少中心：不认可皇马的表态，在道歉没有到位之前一切免谈",
       "link": "https://www.thepaper.cn/newsDetail_forward_34349984",
       "hot_value": 0
@@ -45,13 +50,13 @@
       "hot_value": 0
     },
     {
-      "title": "马上评｜“扫码缴费先看广告”不能再继续了",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34349086",
+      "title": "华为“天才少年”杨玉雯加盟南京大学",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34353444",
       "hot_value": 0
     },
     {
-      "title": "体坛联播｜西甲主席称与驻西班牙大使会面，阿森纳联赛杯出局",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34347913",
+      "title": "马上评｜“扫码缴费先看广告”不能再继续了",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34349086",
       "hot_value": 0
     },
     {
@@ -60,23 +65,13 @@
       "hot_value": 0
     },
     {
-      "title": "一些单位习惯于“遇事先建群”，工人日报：不把随时在线当作敬业标准",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34347912",
-      "hot_value": 0
-    },
-    {
-      "title": "央视关注支教老师邹志鹏：零薪资坚持二十载，“希望自己活成一道光”",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34347247",
-      "hot_value": 0
-    },
-    {
-      "title": "人民锐评：姆巴佩的“翻车”，公众人物的镜鉴",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34348063",
-      "hot_value": 0
-    },
-    {
       "title": "西甲想当和事佬，皇马还在无所谓，傲慢的皇马还要装多久鸵鸟",
       "link": "https://www.thepaper.cn/newsDetail_forward_34349415",
+      "hot_value": 0
+    },
+    {
+      "title": "品牌集体解约之后，姆巴佩的“天价”账单才刚刚开始",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34350835",
       "hot_value": 0
     },
     {
@@ -85,8 +80,8 @@
       "hot_value": 0
     },
     {
-      "title": "品牌集体解约之后，姆巴佩的“天价”账单才刚刚开始",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34350835",
+      "title": "第1现场｜西班牙再发列车相撞惨剧：已致64死，事故或因人为失误",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34351823",
       "hot_value": 0
     },
     {
@@ -102,6 +97,11 @@
     {
       "title": "正午阳光新剧《重庆号》下月开机，孔笙执导，张若昀、胡先煦主演",
       "link": "https://www.thepaper.cn/newsDetail_forward_34349789",
+      "hot_value": 0
+    },
+    {
+      "title": "列车顶着红灯高速行驶25公里，已致68死的西班牙高铁追尾本可以避免吗？",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34354047",
       "hot_value": 0
     }
   ]
