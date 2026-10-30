@@ -2,27 +2,27 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-10-30T17:54:10+08:00",
+  "updated_at": "2026-10-31T00:38:31+08:00",
   "data": [
     {
-      "title": "中共中央举行新闻发布会",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
-      "hot_value": 279710
+      "title": "央视记者直击德国总统访华",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85%E7%9B%B4%E5%87%BB%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E",
+      "hot_value": 279817
     },
     {
-      "title": "罗小黑战记",
-      "link": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%B0%8F%E9%BB%91%E6%88%98%E8%AE%B0",
-      "hot_value": 279704
+      "title": "星游记前传电影启动",
+      "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E6%B8%B8%E8%AE%B0%E5%89%8D%E4%BC%A0%E7%94%B5%E5%BD%B1%E5%90%AF%E5%8A%A8",
+      "hot_value": 279791
     },
     {
-      "title": "IG战胜Lyon队内语音",
-      "link": "https://search.bilibili.com/all?keyword=IG%E6%88%98%E8%83%9CLyon%E9%98%9F%E5%86%85%E8%AF%AD%E9%9F%B3",
-      "hot_value": 279726
+      "title": "显卡价格连续三天大面积下跌",
+      "link": "https://search.bilibili.com/all?keyword=%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%A4%A9%E5%A4%A7%E9%9D%A2%E7%A7%AF%E4%B8%8B%E8%B7%8C",
+      "hot_value": 279826
     },
     {
-      "title": "亚马逊英特尔双双暴跌",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
-      "hot_value": 279763
+      "title": "369六届S赛保底八强",
+      "link": "https://search.bilibili.com/all?keyword=369%E5%85%AD%E5%B1%8AS%E8%B5%9B%E4%BF%9D%E5%BA%95%E5%85%AB%E5%BC%BA",
+      "hot_value": 279784
     },
     {
       "title": "攻击21首次在四川舰起降",
@@ -30,19 +30,24 @@
       "hot_value": 279764
     },
     {
-      "title": "姚琛王赫野闺蜜合拍好抽象",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A7%9A%E7%90%9B%E7%8E%8B%E8%B5%AB%E9%87%8E%E9%97%BA%E8%9C%9C%E5%90%88%E6%8B%8D%E5%A5%BD%E6%8A%BD%E8%B1%A1",
-      "hot_value": 279766
+      "title": "Bin回应不敌TES",
+      "link": "https://search.bilibili.com/all?keyword=Bin%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%95%8CTES",
+      "hot_value": 279785
     },
     {
-      "title": "影之刃零",
-      "link": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6",
-      "hot_value": 279754
+      "title": "上海EDG.M 杭州LGD.NBW",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E6%B5%B7EDG.M%20%E6%9D%AD%E5%B7%9ELGD.NBW",
+      "hot_value": 279740
     },
     {
-      "title": "IVL",
-      "link": "https://search.bilibili.com/all?keyword=IVL",
-      "hot_value": 279728
+      "title": "罗小黑战记",
+      "link": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%B0%8F%E9%BB%91%E6%88%98%E8%AE%B0",
+      "hot_value": 279704
+    },
+    {
+      "title": "管泽元米勒谈TES取胜原因",
+      "link": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E7%B1%B3%E5%8B%92%E8%B0%88TES%E5%8F%96%E8%83%9C%E5%8E%9F%E5%9B%A0",
+      "hot_value": 279809
     },
     {
       "title": "解放军位黄岩岛战备警巡",
@@ -50,19 +55,34 @@
       "hot_value": 279756
     },
     {
-      "title": "李大霄解读美股调整的原因",
-      "link": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E8%B0%83%E6%95%B4%E7%9A%84%E5%8E%9F%E5%9B%A0",
-      "hot_value": 279747
+      "title": "姚琛王赫野闺蜜合拍好抽象",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A7%9A%E7%90%9B%E7%8E%8B%E8%B5%AB%E9%87%8E%E9%97%BA%E8%9C%9C%E5%90%88%E6%8B%8D%E5%A5%BD%E6%8A%BD%E8%B1%A1",
+      "hot_value": 279766
     },
     {
-      "title": "锐评TES战胜BLG晋级八强",
-      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84TES%E6%88%98%E8%83%9CBLG%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA",
-      "hot_value": 279691
+      "title": "07后极繁主义爆改宝剑嫂",
+      "link": "https://search.bilibili.com/all?keyword=07%E5%90%8E%E6%9E%81%E7%B9%81%E4%B8%BB%E4%B9%89%E7%88%86%E6%94%B9%E5%AE%9D%E5%89%91%E5%AB%82",
+      "hot_value": 279779
     },
     {
-      "title": "库里得分爆发力有多强",
-      "link": "https://search.bilibili.com/all?keyword=%E5%BA%93%E9%87%8C%E5%BE%97%E5%88%86%E7%88%86%E5%8F%91%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA",
-      "hot_value": 279757
+      "title": "披哥年度领衔部落舞台 红玫瑰",
+      "link": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5%E5%B9%B4%E5%BA%A6%E9%A2%86%E8%A1%94%E9%83%A8%E8%90%BD%E8%88%9E%E5%8F%B0%20%E7%BA%A2%E7%8E%AB%E7%91%B0",
+      "hot_value": 279827
+    },
+    {
+      "title": "浑元唢呐版剑3狂",
+      "link": "https://search.bilibili.com/all?keyword=%E6%B5%91%E5%85%83%E5%94%A2%E5%91%90%E7%89%88%E5%89%913%E7%8B%82",
+      "hot_value": 279830
+    },
+    {
+      "title": "怎么看特朗普前律师疑卖特赦",
+      "link": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E5%BE%8B%E5%B8%88%E7%96%91%E5%8D%96%E7%89%B9%E8%B5%A6",
+      "hot_value": 279815
+    },
+    {
+      "title": "AI攻克全维度挂谷猜想",
+      "link": "https://search.bilibili.com/all?keyword=AI%E6%94%BB%E5%85%8B%E5%85%A8%E7%BB%B4%E5%BA%A6%E6%8C%82%E8%B0%B7%E7%8C%9C%E6%83%B3",
+      "hot_value": 279767
     },
     {
       "title": "邓紫棋自由的你MV",
@@ -70,24 +90,14 @@
       "hot_value": 279709
     },
     {
-      "title": "NOVA AT",
-      "link": "https://search.bilibili.com/all?keyword=NOVA%20AT",
-      "hot_value": 279730
+      "title": "披哥2026成团名单公布",
+      "link": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A52026%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83",
+      "hot_value": 279828
     },
     {
-      "title": "什么显卡能玩影之刃零",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BB%80%E4%B9%88%E6%98%BE%E5%8D%A1%E8%83%BD%E7%8E%A9%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6",
-      "hot_value": 279660
-    },
-    {
-      "title": "蓝色大肥鱼是什么梗",
-      "link": "https://search.bilibili.com/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
-      "hot_value": 279482
-    },
-    {
-      "title": "星布谷地公测定档PV",
-      "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E5%B8%83%E8%B0%B7%E5%9C%B0%E5%85%AC%E6%B5%8B%E5%AE%9A%E6%A1%A3PV",
-      "hot_value": 279695
+      "title": "王骁谈特朗普中期选举处境",
+      "link": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E8%B0%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%84%E5%A2%83",
+      "hot_value": 279801
     },
     {
       "title": "papi酱热烈欢迎张伟丽",
@@ -95,54 +105,14 @@
       "hot_value": 279524
     },
     {
-      "title": "张雪称已将母亲拉黑",
-      "link": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%AA%E7%A7%B0%E5%B7%B2%E5%B0%86%E6%AF%8D%E4%BA%B2%E6%8B%89%E9%BB%91",
-      "hot_value": 279715
-    },
-    {
-      "title": "兰香如故战斗场面有多离谱",
-      "link": "https://search.bilibili.com/all?keyword=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E6%88%98%E6%96%97%E5%9C%BA%E9%9D%A2%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
-      "hot_value": 279492
-    },
-    {
       "title": "BLG TES",
       "link": "https://search.bilibili.com/all?keyword=BLG%20TES",
       "hot_value": 279651
     },
     {
-      "title": "提欧奥特曼中期剧情吐槽",
-      "link": "https://search.bilibili.com/all?keyword=%E6%8F%90%E6%AC%A7%E5%A5%A5%E7%89%B9%E6%9B%BC%E4%B8%AD%E6%9C%9F%E5%89%A7%E6%83%85%E5%90%90%E6%A7%BD",
-      "hot_value": 279717
-    },
-    {
-      "title": "异环新角色曳尔沐实机预览",
-      "link": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E6%96%B0%E8%A7%92%E8%89%B2%E6%9B%B3%E5%B0%94%E6%B2%90%E5%AE%9E%E6%9C%BA%E9%A2%84%E8%A7%88",
-      "hot_value": 279594
-    },
-    {
-      "title": "TES选手为何能在对位中胜出",
-      "link": "https://search.bilibili.com/all?keyword=TES%E9%80%89%E6%89%8B%E4%B8%BA%E4%BD%95%E8%83%BD%E5%9C%A8%E5%AF%B9%E4%BD%8D%E4%B8%AD%E8%83%9C%E5%87%BA",
-      "hot_value": 279729
-    },
-    {
-      "title": "逆水寒国风祈月舞",
-      "link": "https://search.bilibili.com/all?keyword=%E9%80%86%E6%B0%B4%E5%AF%92%E5%9B%BD%E9%A3%8E%E7%A5%88%E6%9C%88%E8%88%9E",
-      "hot_value": 279738
-    },
-    {
-      "title": "369 悟道",
-      "link": "https://search.bilibili.com/all?keyword=369%20%E6%82%9F%E9%81%93",
-      "hot_value": 279713
-    },
-    {
-      "title": "AL转会期该如何操作",
-      "link": "https://search.bilibili.com/all?keyword=AL%E8%BD%AC%E4%BC%9A%E6%9C%9F%E8%AF%A5%E5%A6%82%E4%BD%95%E6%93%8D%E4%BD%9C",
-      "hot_value": 279716
-    },
-    {
-      "title": "崩铁千星纪游PV",
-      "link": "https://search.bilibili.com/all?keyword=%E5%B4%A9%E9%93%81%E5%8D%83%E6%98%9F%E7%BA%AA%E6%B8%B8PV",
-      "hot_value": 279587
+      "title": "锐评TES战胜BLG晋级八强",
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84TES%E6%88%98%E8%83%9CBLG%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA",
+      "hot_value": 279691
     },
     {
       "title": "影之刃零全流程实况解说",
@@ -150,9 +120,39 @@
       "hot_value": 279536
     },
     {
-      "title": "原神米提亚角色PV",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E7%B1%B3%E6%8F%90%E4%BA%9A%E8%A7%92%E8%89%B2PV",
-      "hot_value": 279649
+      "title": "iPhone Duo超越过往折叠屏了吗",
+      "link": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E8%B6%85%E8%B6%8A%E8%BF%87%E5%BE%80%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%BA%86%E5%90%97",
+      "hot_value": 279720
+    },
+    {
+      "title": "369 悟道",
+      "link": "https://search.bilibili.com/all?keyword=369%20%E6%82%9F%E9%81%93",
+      "hot_value": 279713
+    },
+    {
+      "title": "周星驰张柏芝版Trouble Maker",
+      "link": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BC%A0%E6%9F%8F%E8%8A%9D%E7%89%88Trouble%20Maker",
+      "hot_value": 279582
+    },
+    {
+      "title": "TES选手为何能在对位中胜出",
+      "link": "https://search.bilibili.com/all?keyword=TES%E9%80%89%E6%89%8B%E4%B8%BA%E4%BD%95%E8%83%BD%E5%9C%A8%E5%AF%B9%E4%BD%8D%E4%B8%AD%E8%83%9C%E5%87%BA",
+      "hot_value": 279729
+    },
+    {
+      "title": "小沈阳披哥总冠军",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E5%93%A5%E6%80%BB%E5%86%A0%E5%86%9B",
+      "hot_value": 279829
+    },
+    {
+      "title": "崩铁千星纪游PV",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B4%A9%E9%93%81%E5%8D%83%E6%98%9F%E7%BA%AA%E6%B8%B8PV",
+      "hot_value": 279587
+    },
+    {
+      "title": "星布谷地公测定档PV",
+      "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E5%B8%83%E8%B0%B7%E5%9C%B0%E5%85%AC%E6%B5%8B%E5%AE%9A%E6%A1%A3PV",
+      "hot_value": 279695
     }
   ]
 }
