@@ -2,7 +2,7 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-10-31T21:31:33+08:00",
+  "updated_at": "2026-11-01T01:56:48+08:00",
   "data": [
     {
       "title": "原中国石油化工集团公司党组书记、董事长傅成玉被查",
@@ -30,8 +30,23 @@
       "hot_value": 0
     },
     {
+      "title": "“攻击-21”上四川舰，带来哪些关键优势？",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34376598",
+      "hot_value": 0
+    },
+    {
       "title": "探访南京“劝离起纠纷”星巴克门店：没点单顾客坐在偏僻角落，店员忙没时间提醒",
       "link": "https://www.thepaper.cn/newsDetail_forward_34376332",
+      "hot_value": 0
+    },
+    {
+      "title": "四川华蓥大摆荡项目事故调查报告公布",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34378329",
+      "hot_value": 0
+    },
+    {
+      "title": "地铁站台孩童随地便溺引发乘客纠纷，官方回应：已对家长进行教育",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34378191",
       "hot_value": 0
     },
     {
@@ -50,23 +65,18 @@
       "hot_value": 0
     },
     {
-      "title": "上海三甲医院加速布局郊区新城，如何就近看得上病、看得好病？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34370855",
+      "title": "“小小徐”结婚请网友撑场面，当地酒店爆满厨师忙到凌晨",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34376815",
+      "hot_value": 0
+    },
+    {
+      "title": "大量网友到“小小徐”婚礼吃席，云南昭通市文旅局：正与景区协商顺路游玩优惠活动",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34377129",
       "hot_value": 0
     },
     {
       "title": "波兰司法控制权争端升级：总统折返回国、总理被指发动“政变”",
       "link": "https://www.thepaper.cn/newsDetail_forward_34375256",
-      "hot_value": 0
-    },
-    {
-      "title": "中美跨代际对话2026·观察｜难觅“基辛格”，我们应寻找什么？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34371002",
-      "hot_value": 0
-    },
-    {
-      "title": "刚强、刘昊然担任应急管理公益宣传大使",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34371516",
       "hot_value": 0
     },
     {
@@ -80,28 +90,18 @@
       "hot_value": 0
     },
     {
-      "title": "“攻击-21”上四川舰，带来哪些关键优势？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34376598",
+      "title": "马上评｜能查村支书威胁环保博主事，也定能彻查环境污染事",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34377443",
       "hot_value": 0
     },
     {
-      "title": "三星堆博物馆将对18岁以下未成年人免门票，馆方：长期执行",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34376047",
+      "title": "国家文物局：推动实现更多流失文物回归祖国",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34376534",
       "hot_value": 0
     },
     {
-      "title": "“法院查封房产被网签抵债”疑云：内蒙古乌海市住建委多人曾称不知涉案房屋已查封，开发商获刑",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34369314",
-      "hot_value": 0
-    },
-    {
-      "title": "内蒙古赤峰两村土地之争续：法院撤销确权决定，旗政府被令重新确权",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34375104",
-      "hot_value": 0
-    },
-    {
-      "title": "官宣：时隔12年，阿联酋空军“骑士”飞行表演队重磅回归中国航展",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34375607",
+      "title": "从传统评点看金庸｜《天龙八部》篇：金庸的结尾为什么“拖沓”",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34370257",
       "hot_value": 0
     }
   ]
