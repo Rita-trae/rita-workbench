@@ -2,62 +2,57 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-04T17:55:10+08:00",
+  "updated_at": "2026-11-05T01:54:31+08:00",
   "data": [
     {
-      "title": "1酱赛评IG战胜TES挺进四强",
-      "link": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84IG%E6%88%98%E8%83%9CTES%E6%8C%BA%E8%BF%9B%E5%9B%9B%E5%BC%BA",
-      "hot_value": 280580
+      "title": "回溯IG战胜TES挺进四强",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E6%BA%AFIG%E6%88%98%E8%83%9CTES%E6%8C%BA%E8%BF%9B%E5%9B%9B%E5%BC%BA",
+      "hot_value": 280649
     },
     {
-      "title": "哈利波特与魔法石上映25周年",
-      "link": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B8%8E%E9%AD%94%E6%B3%95%E7%9F%B3%E4%B8%8A%E6%98%A025%E5%91%A8%E5%B9%B4",
-      "hot_value": 280563
+      "title": "清华教授解读用数字人民币发工资",
+      "link": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E8%A7%A3%E8%AF%BB%E7%94%A8%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8F%91%E5%B7%A5%E8%B5%84",
+      "hot_value": 280561
     },
     {
-      "title": "乖乖待在我身边学微积分不好吗",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B9%96%E4%B9%96%E5%BE%85%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9%E5%AD%A6%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B8%8D%E5%A5%BD%E5%90%97",
-      "hot_value": 280557
+      "title": "固态硬盘渠道价连续两周大面积下跌",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98%E6%B8%A0%E9%81%93%E4%BB%B7%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%91%A8%E5%A4%A7%E9%9D%A2%E7%A7%AF%E4%B8%8B%E8%B7%8C",
+      "hot_value": 280646
     },
     {
-      "title": "A股午后为何大涨",
-      "link": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E5%8D%88%E5%90%8E%E4%B8%BA%E4%BD%95%E5%A4%A7%E6%B6%A8",
-      "hot_value": 280567
+      "title": "管泽元突袭搞子庄园见证奇迹",
+      "link": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E7%AA%81%E8%A2%AD%E6%90%9E%E5%AD%90%E5%BA%84%E5%9B%AD%E8%A7%81%E8%AF%81%E5%A5%87%E8%BF%B9",
+      "hot_value": 280635
     },
     {
-      "title": "影之刃零",
-      "link": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6",
-      "hot_value": 280528
+      "title": "许飞厉娜版TroubleMaker",
+      "link": "https://search.bilibili.com/all?keyword=%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E7%89%88TroubleMaker",
+      "hot_value": 280631
     },
     {
-      "title": "GEN vs LYON数据前瞻",
-      "link": "https://search.bilibili.com/all?keyword=GEN%20vs%20LYON%E6%95%B0%E6%8D%AE%E5%89%8D%E7%9E%BB",
-      "hot_value": 280565
+      "title": "369赛前说最后一舞",
+      "link": "https://search.bilibili.com/all?keyword=369%E8%B5%9B%E5%89%8D%E8%AF%B4%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
+      "hot_value": 280623
     },
     {
-      "title": "369称被TheShy人格魅力征服",
-      "link": "https://search.bilibili.com/all?keyword=369%E7%A7%B0%E8%A2%ABTheShy%E4%BA%BA%E6%A0%BC%E9%AD%85%E5%8A%9B%E5%BE%81%E6%9C%8D",
-      "hot_value": 280591
+      "title": "影之刃零叶师傅终极之战",
+      "link": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%8F%B6%E5%B8%88%E5%82%85%E7%BB%88%E6%9E%81%E4%B9%8B%E6%88%98",
+      "hot_value": 280508
     },
     {
-      "title": "上古卷轴6哨兵名称公布预告",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E5%8F%A4%E5%8D%B7%E8%BD%B46%E5%93%A8%E5%85%B5%E5%90%8D%E7%A7%B0%E5%85%AC%E5%B8%83%E9%A2%84%E5%91%8A",
-      "hot_value": 280522
+      "title": "细嗦IG时隔七年晋级四强之战",
+      "link": "https://search.bilibili.com/all?keyword=%E7%BB%86%E5%97%A6IG%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%E4%B9%8B%E6%88%98",
+      "hot_value": 280628
     },
     {
-      "title": "369以一敌三极限守家",
-      "link": "https://search.bilibili.com/all?keyword=369%E4%BB%A5%E4%B8%80%E6%95%8C%E4%B8%89%E6%9E%81%E9%99%90%E5%AE%88%E5%AE%B6",
-      "hot_value": 280493
+      "title": "从IG四强解读S16版本环境",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BB%8EIG%E5%9B%9B%E5%BC%BA%E8%A7%A3%E8%AF%BBS16%E7%89%88%E6%9C%AC%E7%8E%AF%E5%A2%83",
+      "hot_value": 280636
     },
     {
-      "title": "JEE喊话年轻选手打进PL接班",
-      "link": "https://search.bilibili.com/all?keyword=JEE%E5%96%8A%E8%AF%9D%E5%B9%B4%E8%BD%BB%E9%80%89%E6%89%8B%E6%89%93%E8%BF%9BPL%E6%8E%A5%E7%8F%AD",
-      "hot_value": 280588
-    },
-    {
-      "title": "星铁即兴巡演PV",
-      "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%8D%B3%E5%85%B4%E5%B7%A1%E6%BC%94PV",
-      "hot_value": 280585
+      "title": "分则各糊合则大爆啊厉娜",
+      "link": "https://search.bilibili.com/all?keyword=%E5%88%86%E5%88%99%E5%90%84%E7%B3%8A%E5%90%88%E5%88%99%E5%A4%A7%E7%88%86%E5%95%8A%E5%8E%89%E5%A8%9C",
+      "hot_value": 280629
     },
     {
       "title": "TES IG",
@@ -65,19 +60,14 @@
       "hot_value": 280451
     },
     {
-      "title": "TheShy回应晋级四强",
-      "link": "https://search.bilibili.com/all?keyword=TheShy%E5%9B%9E%E5%BA%94%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA",
-      "hot_value": 280520
+      "title": "新秀阿卡夫场均26分成色几何",
+      "link": "https://search.bilibili.com/all?keyword=%E6%96%B0%E7%A7%80%E9%98%BF%E5%8D%A1%E5%A4%AB%E5%9C%BA%E5%9D%8726%E5%88%86%E6%88%90%E8%89%B2%E5%87%A0%E4%BD%95",
+      "hot_value": 280637
     },
     {
-      "title": "Karsa感觉369真的燃尽了",
-      "link": "https://search.bilibili.com/all?keyword=Karsa%E6%84%9F%E8%A7%89369%E7%9C%9F%E7%9A%84%E7%87%83%E5%B0%BD%E4%BA%86",
-      "hot_value": 280542
-    },
-    {
-      "title": "和平精英职业选手青稚白小纯",
-      "link": "https://search.bilibili.com/all?keyword=%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E8%81%8C%E4%B8%9A%E9%80%89%E6%89%8B%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF",
-      "hot_value": 280333
+      "title": "乖乖待在我身边学微积分不好吗",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B9%96%E4%B9%96%E5%BE%85%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9%E5%AD%A6%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B8%8D%E5%A5%BD%E5%90%97",
+      "hot_value": 280557
     },
     {
       "title": "如何在纽北证明中国人更会玩车",
@@ -85,39 +75,9 @@
       "hot_value": 280413
     },
     {
-      "title": "影之刃零剧情细节解析",
-      "link": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%89%A7%E6%83%85%E7%BB%86%E8%8A%82%E8%A7%A3%E6%9E%90",
-      "hot_value": 280512
-    },
-    {
-      "title": "IG四强的概率现在是百分之百",
-      "link": "https://search.bilibili.com/all?keyword=IG%E5%9B%9B%E5%BC%BA%E7%9A%84%E6%A6%82%E7%8E%87%E7%8E%B0%E5%9C%A8%E6%98%AF%E7%99%BE%E5%88%86%E4%B9%8B%E7%99%BE",
-      "hot_value": 280498
-    },
-    {
-      "title": "第五人格新赛季磷光症内录爆料",
-      "link": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E6%96%B0%E8%B5%9B%E5%AD%A3%E7%A3%B7%E5%85%89%E7%97%87%E5%86%85%E5%BD%95%E7%88%86%E6%96%99",
-      "hot_value": 280547
-    },
-    {
-      "title": "赵家班新剧走马上任值得看吗",
-      "link": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E5%AE%B6%E7%8F%AD%E6%96%B0%E5%89%A7%E8%B5%B0%E9%A9%AC%E4%B8%8A%E4%BB%BB%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
-      "hot_value": 280527
-    },
-    {
-      "title": "锐评IG战胜TES",
-      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E6%88%98%E8%83%9CTES",
-      "hot_value": 280571
-    },
-    {
-      "title": "锐评IG战胜TES选手发挥",
-      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E6%88%98%E8%83%9CTES%E9%80%89%E6%89%8B%E5%8F%91%E6%8C%A5",
-      "hot_value": 280529
-    },
-    {
-      "title": "悬疑推理视角看文吉儿王子璇",
-      "link": "https://search.bilibili.com/all?keyword=%E6%82%AC%E7%96%91%E6%8E%A8%E7%90%86%E8%A7%86%E8%A7%92%E7%9C%8B%E6%96%87%E5%90%89%E5%84%BF%E7%8E%8B%E5%AD%90%E7%92%87",
-      "hot_value": 280517
+      "title": "DeepSeek Harness教学",
+      "link": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%95%99%E5%AD%A6",
+      "hot_value": 280596
     },
     {
       "title": "一条没下巴的鱼杀穿奥陶纪",
@@ -125,34 +85,74 @@
       "hot_value": 280559
     },
     {
-      "title": "海贼王路飞变身黑色巨猿形态",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E8%B4%BC%E7%8E%8B%E8%B7%AF%E9%A3%9E%E5%8F%98%E8%BA%AB%E9%BB%91%E8%89%B2%E5%B7%A8%E7%8C%BF%E5%BD%A2%E6%80%81",
-      "hot_value": 280469
-    },
-    {
-      "title": "Frozen和大表哥交手没不同情绪",
-      "link": "https://search.bilibili.com/all?keyword=Frozen%E5%92%8C%E5%A4%A7%E8%A1%A8%E5%93%A5%E4%BA%A4%E6%89%8B%E6%B2%A1%E4%B8%8D%E5%90%8C%E6%83%85%E7%BB%AA",
-      "hot_value": 280584
-    },
-    {
-      "title": "金铲铲新模式铲铲搜打撤",
-      "link": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B2%E9%93%B2%E6%96%B0%E6%A8%A1%E5%BC%8F%E9%93%B2%E9%93%B2%E6%90%9C%E6%89%93%E6%92%A4",
-      "hot_value": 280589
-    },
-    {
       "title": "陆振华雪姨Trouble Maker",
       "link": "https://search.bilibili.com/all?keyword=%E9%99%86%E6%8C%AF%E5%8D%8E%E9%9B%AA%E5%A7%A8Trouble%20Maker",
       "hot_value": 280386
     },
     {
-      "title": "IG打法有哪些优劣势",
-      "link": "https://search.bilibili.com/all?keyword=IG%E6%89%93%E6%B3%95%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8A%A3%E5%8A%BF",
-      "hot_value": 280540
+      "title": "悬疑推理视角看文吉儿王子璇",
+      "link": "https://search.bilibili.com/all?keyword=%E6%82%AC%E7%96%91%E6%8E%A8%E7%90%86%E8%A7%86%E8%A7%92%E7%9C%8B%E6%96%87%E5%90%89%E5%84%BF%E7%8E%8B%E5%AD%90%E7%92%87",
+      "hot_value": 280517
+    },
+    {
+      "title": "听说威尼斯闹蟹灾了",
+      "link": "https://search.bilibili.com/all?keyword=%E5%90%AC%E8%AF%B4%E5%A8%81%E5%B0%BC%E6%96%AF%E9%97%B9%E8%9F%B9%E7%81%BE%E4%BA%86",
+      "hot_value": 280325
+    },
+    {
+      "title": "第五人格新赛季磷光症内录爆料",
+      "link": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E6%96%B0%E8%B5%9B%E5%AD%A3%E7%A3%B7%E5%85%89%E7%97%87%E5%86%85%E5%BD%95%E7%88%86%E6%96%99",
+      "hot_value": 280547
+    },
+    {
+      "title": "广州TTG 重庆狼队",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E5%B7%9ETTG%20%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F",
+      "hot_value": 280543
+    },
+    {
+      "title": "TheShy回应晋级四强",
+      "link": "https://search.bilibili.com/all?keyword=TheShy%E5%9B%9E%E5%BA%94%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA",
+      "hot_value": 280520
+    },
+    {
+      "title": "灭建国是啥梗",
+      "link": "https://search.bilibili.com/all?keyword=%E7%81%AD%E5%BB%BA%E5%9B%BD%E6%98%AF%E5%95%A5%E6%A2%97",
+      "hot_value": 280618
+    },
+    {
+      "title": "369以一敌三极限守家",
+      "link": "https://search.bilibili.com/all?keyword=369%E4%BB%A5%E4%B8%80%E6%95%8C%E4%B8%89%E6%9E%81%E9%99%90%E5%AE%88%E5%AE%B6",
+      "hot_value": 280493
     },
     {
       "title": "去月球作者15周年谈游戏创作",
       "link": "https://search.bilibili.com/all?keyword=%E5%8E%BB%E6%9C%88%E7%90%83%E4%BD%9C%E8%80%8515%E5%91%A8%E5%B9%B4%E8%B0%88%E6%B8%B8%E6%88%8F%E5%88%9B%E4%BD%9C",
       "hot_value": 280525
+    },
+    {
+      "title": "Meiko说明年和369一起来",
+      "link": "https://search.bilibili.com/all?keyword=Meiko%E8%AF%B4%E6%98%8E%E5%B9%B4%E5%92%8C369%E4%B8%80%E8%B5%B7%E6%9D%A5",
+      "hot_value": 280614
+    },
+    {
+      "title": "影之刃零剧情细节解析",
+      "link": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%89%A7%E6%83%85%E7%BB%86%E8%8A%82%E8%A7%A3%E6%9E%90",
+      "hot_value": 280512
+    },
+    {
+      "title": "海贼王路飞变身黑色巨猿形态",
+      "link": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E8%B4%BC%E7%8E%8B%E8%B7%AF%E9%A3%9E%E5%8F%98%E8%BA%AB%E9%BB%91%E8%89%B2%E5%B7%A8%E7%8C%BF%E5%BD%A2%E6%80%81",
+      "hot_value": 280469
+    },
+    {
+      "title": "DeepSeek为什么要开源",
+      "link": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90",
+      "hot_value": 280377
+    },
+    {
+      "title": "上单大魔王TheShy的故事",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E5%8D%95%E5%A4%A7%E9%AD%94%E7%8E%8BTheShy%E7%9A%84%E6%95%85%E4%BA%8B",
+      "hot_value": 280404
     }
   ]
 }
