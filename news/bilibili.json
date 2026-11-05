@@ -2,17 +2,12 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-05T19:37:45+08:00",
+  "updated_at": "2026-11-06T03:02:23+08:00",
   "data": [
     {
-      "title": "C罗宣布从葡萄牙国家队退役",
-      "link": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
-      "hot_value": 280780
-    },
-    {
-      "title": "IG想赢GEN突破口在哪",
-      "link": "https://search.bilibili.com/all?keyword=IG%E6%83%B3%E8%B5%A2GEN%E7%AA%81%E7%A0%B4%E5%8F%A3%E5%9C%A8%E5%93%AA",
-      "hot_value": 280785
+      "title": "杭州LGD.NBW 上海EDG.M",
+      "link": "https://search.bilibili.com/all?keyword=%E6%9D%AD%E5%B7%9ELGD.NBW%20%E4%B8%8A%E6%B5%B7EDG.M",
+      "hot_value": 280722
     },
     {
       "title": "2027年放假安排来了",
@@ -20,29 +15,24 @@
       "hot_value": 280758
     },
     {
-      "title": "GEN LYON",
-      "link": "https://search.bilibili.com/all?keyword=GEN%20LYON",
-      "hot_value": 280652
+      "title": "F1世界冠军阿兰琼斯去世",
+      "link": "https://search.bilibili.com/all?keyword=F1%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E9%98%BF%E5%85%B0%E7%90%BC%E6%96%AF%E5%8E%BB%E4%B8%96",
+      "hot_value": 280823
     },
     {
-      "title": "人生一串",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%94%9F%E4%B8%80%E4%B8%B2",
-      "hot_value": 280681
+      "title": "6G不到1秒下载一部4K影片",
+      "link": "https://search.bilibili.com/all?keyword=6G%E4%B8%8D%E5%88%B01%E7%A7%92%E4%B8%8B%E8%BD%BD%E4%B8%80%E9%83%A84K%E5%BD%B1%E7%89%87",
+      "hot_value": 280792
     },
     {
-      "title": "邓紫棋巡演收官VLOG",
-      "link": "https://search.bilibili.com/all?keyword=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%B7%A1%E6%BC%94%E6%94%B6%E5%AE%98VLOG",
-      "hot_value": 280702
+      "title": "张靓颖终于抵达心湖",
+      "link": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9D%93%E9%A2%96%E7%BB%88%E4%BA%8E%E6%8A%B5%E8%BE%BE%E5%BF%83%E6%B9%96",
+      "hot_value": 280817
     },
     {
-      "title": "6G跟5G最大的区别在哪",
-      "link": "https://search.bilibili.com/all?keyword=6G%E8%B7%9F5G%E6%9C%80%E5%A4%A7%E7%9A%84%E5%8C%BA%E5%88%AB%E5%9C%A8%E5%93%AA",
-      "hot_value": 280762
-    },
-    {
-      "title": "大肥鱼催你上早八",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E5%82%AC%E4%BD%A0%E4%B8%8A%E6%97%A9%E5%85%AB",
-      "hot_value": 280742
+      "title": "三角洲新赛季3x3难度有多高",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E8%B5%9B%E5%AD%A33x3%E9%9A%BE%E5%BA%A6%E6%9C%89%E5%A4%9A%E9%AB%98",
+      "hot_value": 280793
     },
     {
       "title": "IG vs GEN数据前瞻",
@@ -50,14 +40,19 @@
       "hot_value": 280754
     },
     {
-      "title": "IG 半决赛我们来了",
-      "link": "https://search.bilibili.com/all?keyword=IG%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86",
-      "hot_value": 280743
+      "title": "GEN LYON",
+      "link": "https://search.bilibili.com/all?keyword=GEN%20LYON",
+      "hot_value": 280652
     },
     {
-      "title": "三角洲影之刃联动黑伤解析",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%BD%B1%E4%B9%8B%E5%88%83%E8%81%94%E5%8A%A8%E9%BB%91%E4%BC%A4%E8%A7%A3%E6%9E%90",
-      "hot_value": 280787
+      "title": "如何评价C罗国家队生涯",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7C%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
+      "hot_value": 280834
+    },
+    {
+      "title": "万字解析漫威新剧寻找幻视",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E6%BC%AB%E5%A8%81%E6%96%B0%E5%89%A7%E5%AF%BB%E6%89%BE%E5%B9%BB%E8%A7%86",
+      "hot_value": 280777
     },
     {
       "title": "我国三航母的战略意义是什么",
@@ -65,14 +60,24 @@
       "hot_value": 280690
     },
     {
+      "title": "乖乖待在我身边学英语不好吗",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B9%96%E4%B9%96%E5%BE%85%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%8D%E5%A5%BD%E5%90%97",
+      "hot_value": 280782
+    },
+    {
       "title": "369为何圈粉外国观众",
       "link": "https://search.bilibili.com/all?keyword=369%E4%B8%BA%E4%BD%95%E5%9C%88%E7%B2%89%E5%A4%96%E5%9B%BD%E8%A7%82%E4%BC%97",
       "hot_value": 280694
     },
     {
-      "title": "乖乖待在我身边学微积分不好吗",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B9%96%E4%B9%96%E5%BE%85%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9%E5%AD%A6%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B8%8D%E5%A5%BD%E5%90%97",
-      "hot_value": 280557
+      "title": "解析S赛Wei与Tian野区博弈",
+      "link": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90S%E8%B5%9BWei%E4%B8%8ETian%E9%87%8E%E5%8C%BA%E5%8D%9A%E5%BC%88",
+      "hot_value": 280815
+    },
+    {
+      "title": "大肥鱼催你上早八",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E5%82%AC%E4%BD%A0%E4%B8%8A%E6%97%A9%E5%85%AB",
+      "hot_value": 280742
     },
     {
       "title": "从行业周期看内存何时降价",
@@ -80,24 +85,19 @@
       "hot_value": 280653
     },
     {
-      "title": "洛克王国S5首日攻略",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BDS5%E9%A6%96%E6%97%A5%E6%94%BB%E7%95%A5",
-      "hot_value": 280705
+      "title": "IG想赢GEN突破口在哪",
+      "link": "https://search.bilibili.com/all?keyword=IG%E6%83%B3%E8%B5%A2GEN%E7%AA%81%E7%A0%B4%E5%8F%A3%E5%9C%A8%E5%93%AA",
+      "hot_value": 280785
     },
     {
-      "title": "文班亚马52分24板8帽",
-      "link": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC52%E5%88%8624%E6%9D%BF8%E5%B8%BD",
-      "hot_value": 280721
+      "title": "人生一串",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%94%9F%E4%B8%80%E4%B8%B2",
+      "hot_value": 280681
     },
     {
-      "title": "于谦现场秒变老鼠干",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E7%8E%B0%E5%9C%BA%E7%A7%92%E5%8F%98%E8%80%81%E9%BC%A0%E5%B9%B2",
-      "hot_value": 280753
-    },
-    {
-      "title": "异环曳尔沐EP",
-      "link": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E6%9B%B3%E5%B0%94%E6%B2%90EP",
-      "hot_value": 280680
+      "title": "异环曳尔沐角色PV",
+      "link": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E6%9B%B3%E5%B0%94%E6%B2%90%E8%A7%92%E8%89%B2PV",
+      "hot_value": 280603
     },
     {
       "title": "DeepSeek Harness教学",
@@ -105,14 +105,9 @@
       "hot_value": 280596
     },
     {
-      "title": "因缘精灵",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9B%A0%E7%BC%98%E7%B2%BE%E7%81%B5",
-      "hot_value": 280613
-    },
-    {
-      "title": "杭州LGD.NBW 上海EDG.M",
-      "link": "https://search.bilibili.com/all?keyword=%E6%9D%AD%E5%B7%9ELGD.NBW%20%E4%B8%8A%E6%B5%B7EDG.M",
-      "hot_value": 280722
+      "title": "广州TTG 重庆狼队",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E5%B7%9ETTG%20%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F",
+      "hot_value": 280543
     },
     {
       "title": "球探爆料Smoogy转会BLG",
@@ -120,9 +115,29 @@
       "hot_value": 280723
     },
     {
-      "title": "画地为牢背后的十五年意难平",
-      "link": "https://search.bilibili.com/all?keyword=%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E8%83%8C%E5%90%8E%E7%9A%84%E5%8D%81%E4%BA%94%E5%B9%B4%E6%84%8F%E9%9A%BE%E5%B9%B3",
-      "hot_value": 280668
+      "title": "C罗宣布从葡萄牙国家队退役",
+      "link": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
+      "hot_value": 280780
+    },
+    {
+      "title": "文班亚马52分24板8帽",
+      "link": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC52%E5%88%8624%E6%9D%BF8%E5%B8%BD",
+      "hot_value": 280721
+    },
+    {
+      "title": "异环曳尔沐EP",
+      "link": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E6%9B%B3%E5%B0%94%E6%B2%90EP",
+      "hot_value": 280680
+    },
+    {
+      "title": "三角洲黑伤详细测评",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E9%BB%91%E4%BC%A4%E8%AF%A6%E7%BB%86%E6%B5%8B%E8%AF%84",
+      "hot_value": 280701
+    },
+    {
+      "title": "星铁即兴巡演PV",
+      "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%8D%B3%E5%85%B4%E5%B7%A1%E6%BC%94PV",
+      "hot_value": 280585
     },
     {
       "title": "一条没下巴的鱼杀穿奥陶纪",
@@ -135,24 +150,9 @@
       "hot_value": 280772
     },
     {
-      "title": "吴磊37度气温骑行103公里",
-      "link": "https://search.bilibili.com/all?keyword=%E5%90%B4%E7%A3%8A37%E5%BA%A6%E6%B0%94%E6%B8%A9%E9%AA%91%E8%A1%8C103%E5%85%AC%E9%87%8C",
-      "hot_value": 280698
-    },
-    {
-      "title": "魔兽世界新作玩法解析",
-      "link": "https://search.bilibili.com/all?keyword=%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C%E6%96%B0%E4%BD%9C%E7%8E%A9%E6%B3%95%E8%A7%A3%E6%9E%90",
-      "hot_value": 280767
-    },
-    {
-      "title": "乖乖待在我身边学英语不好吗",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B9%96%E4%B9%96%E5%BE%85%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%8D%E5%A5%BD%E5%90%97",
-      "hot_value": 280782
-    },
-    {
-      "title": "广州TTG 重庆狼队",
-      "link": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E5%B7%9ETTG%20%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F",
-      "hot_value": 280543
+      "title": "画地为牢背后的十五年意难平",
+      "link": "https://search.bilibili.com/all?keyword=%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E8%83%8C%E5%90%8E%E7%9A%84%E5%8D%81%E4%BA%94%E5%B9%B4%E6%84%8F%E9%9A%BE%E5%B9%B3",
+      "hot_value": 280668
     }
   ]
 }
