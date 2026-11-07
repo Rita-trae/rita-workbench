@@ -2,67 +2,27 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-07T15:00:25+08:00",
+  "updated_at": "2026-11-07T22:05:39+08:00",
   "data": [
     {
-      "title": "Knight回顾BLG决胜时刻",
-      "link": "https://search.bilibili.com/all?keyword=Knight%E5%9B%9E%E9%A1%BEBLG%E5%86%B3%E8%83%9C%E6%97%B6%E5%88%BB",
-      "hot_value": 281083
+      "title": "飞驰人生IG版",
+      "link": "https://search.bilibili.com/all?keyword=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9FIG%E7%89%88",
+      "hot_value": 281147
     },
     {
-      "title": "中国空间站将迎首位外籍航天员",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%B0%86%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98",
-      "hot_value": 281058
+      "title": "广州TTG 杭州LGD.NBW",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E5%B7%9ETTG%20%E6%9D%AD%E5%B7%9ELGD.NBW",
+      "hot_value": 280949
     },
     {
-      "title": "韩立",
-      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B",
-      "hot_value": 281064
+      "title": "福建舰下一步训练重点是什么",
+      "link": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E8%88%B0%E4%B8%8B%E4%B8%80%E6%AD%A5%E8%AE%AD%E7%BB%83%E9%87%8D%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88",
+      "hot_value": 281167
     },
     {
-      "title": "Faker放话很遗憾BLG遇到T1",
-      "link": "https://search.bilibili.com/all?keyword=Faker%E6%94%BE%E8%AF%9D%E5%BE%88%E9%81%97%E6%86%BEBLG%E9%81%87%E5%88%B0T1",
-      "hot_value": 281056
-    },
-    {
-      "title": "今日立冬",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC",
-      "hot_value": 281039
-    },
-    {
-      "title": "模型蒸馏为何让Anthropic忌惮",
-      "link": "https://search.bilibili.com/all?keyword=%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E4%B8%BA%E4%BD%95%E8%AE%A9Anthropic%E5%BF%8C%E6%83%AE",
-      "hot_value": 281073
-    },
-    {
-      "title": "在养老院组电竞队是什么体验",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%85%BB%E8%80%81%E9%99%A2%E7%BB%84%E7%94%B5%E7%AB%9E%E9%98%9F%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-      "hot_value": 281095
-    },
-    {
-      "title": "IVL秋季赛",
-      "link": "https://search.bilibili.com/all?keyword=IVL%E7%A7%8B%E5%AD%A3%E8%B5%9B",
-      "hot_value": 280948
-    },
-    {
-      "title": "后会友期为何能如此火爆",
-      "link": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E4%B8%BA%E4%BD%95%E8%83%BD%E5%A6%82%E6%AD%A4%E7%81%AB%E7%88%86",
-      "hot_value": 281074
-    },
-    {
-      "title": "T1 KC",
-      "link": "https://search.bilibili.com/all?keyword=T1%20KC",
-      "hot_value": 281021
-    },
-    {
-      "title": "数据前瞻IG能否挺进决赛",
-      "link": "https://search.bilibili.com/all?keyword=%E6%95%B0%E6%8D%AE%E5%89%8D%E7%9E%BBIG%E8%83%BD%E5%90%A6%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B",
-      "hot_value": 281063
-    },
-    {
-      "title": "UP主带逛科学节",
-      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E9%80%9B%E7%A7%91%E5%AD%A6%E8%8A%82",
-      "hot_value": 281097
+      "title": "S16半决赛单曲 太阳之子",
+      "link": "https://search.bilibili.com/all?keyword=S16%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%8D%95%E6%9B%B2%20%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90",
+      "hot_value": 281172
     },
     {
       "title": "梦回S7中韩四强大战",
@@ -70,9 +30,69 @@
       "hot_value": 281082
     },
     {
+      "title": "中国海军首批舰载机女飞行学员结业",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E9%A6%96%E6%89%B9%E8%88%B0%E8%BD%BD%E6%9C%BA%E5%A5%B3%E9%A3%9E%E8%A1%8C%E5%AD%A6%E5%91%98%E7%BB%93%E4%B8%9A",
+      "hot_value": 281168
+    },
+    {
+      "title": "369要在B站开播了",
+      "link": "https://search.bilibili.com/all?keyword=369%E8%A6%81%E5%9C%A8B%E7%AB%99%E5%BC%80%E6%92%AD%E4%BA%86",
+      "hot_value": 281145
+    },
+    {
+      "title": "日本如何用娱乐糖衣宣传战争",
+      "link": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E7%94%A8%E5%A8%B1%E4%B9%90%E7%B3%96%E8%A1%A3%E5%AE%A3%E4%BC%A0%E6%88%98%E4%BA%89",
+      "hot_value": 281166
+    },
+    {
+      "title": "特斯拉将逐步停产Cybertruck",
+      "link": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B0%86%E9%80%90%E6%AD%A5%E5%81%9C%E4%BA%A7Cybertruck",
+      "hot_value": 281157
+    },
+    {
+      "title": "BLG野辅的美国生活",
+      "link": "https://search.bilibili.com/all?keyword=BLG%E9%87%8E%E8%BE%85%E7%9A%84%E7%BE%8E%E5%9B%BD%E7%94%9F%E6%B4%BB",
+      "hot_value": 281136
+    },
+    {
+      "title": "火影手游尾兽状态金角技能全爆料",
+      "link": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B8%E5%B0%BE%E5%85%BD%E7%8A%B6%E6%80%81%E9%87%91%E8%A7%92%E6%8A%80%E8%83%BD%E5%85%A8%E7%88%86%E6%96%99",
+      "hot_value": 281163
+    },
+    {
+      "title": "勇士该如何止损波尔津吉斯",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8B%87%E5%A3%AB%E8%AF%A5%E5%A6%82%E4%BD%95%E6%AD%A2%E6%8D%9F%E6%B3%A2%E5%B0%94%E6%B4%A5%E5%90%89%E6%96%AF",
+      "hot_value": 281169
+    },
+    {
+      "title": "在养老院组电竞队是什么体验",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%85%BB%E8%80%81%E9%99%A2%E7%BB%84%E7%94%B5%E7%AB%9E%E9%98%9F%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+      "hot_value": 281095
+    },
+    {
+      "title": "如何评价T1上中野状态",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7T1%E4%B8%8A%E4%B8%AD%E9%87%8E%E7%8A%B6%E6%80%81",
+      "hot_value": 281152
+    },
+    {
+      "title": "IG GEN半决赛前瞻",
+      "link": "https://search.bilibili.com/all?keyword=IG%20GEN%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%89%8D%E7%9E%BB",
+      "hot_value": 281171
+    },
+    {
       "title": "八仙",
       "link": "https://search.bilibili.com/all?keyword=%E5%85%AB%E4%BB%99",
       "hot_value": 280901
+    },
+    {
+      "title": "DeepSeek Harness",
+      "link": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
+      "hot_value": 281003
+    },
+    {
+      "title": "S赛怀旧金曲云南山歌版",
+      "link": "https://search.bilibili.com/all?keyword=S%E8%B5%9B%E6%80%80%E6%97%A7%E9%87%91%E6%9B%B2%E4%BA%91%E5%8D%97%E5%B1%B1%E6%AD%8C%E7%89%88",
+      "hot_value": 281138
     },
     {
       "title": "拉宏桑挑战从中国走到欧洲",
@@ -80,19 +100,9 @@
       "hot_value": 281038
     },
     {
-      "title": "杨迪VS小潮谁是瞎掰王",
-      "link": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E8%BF%AAVS%E5%B0%8F%E6%BD%AE%E8%B0%81%E6%98%AF%E7%9E%8E%E6%8E%B0%E7%8E%8B",
-      "hot_value": 280800
-    },
-    {
-      "title": "罗小黑",
-      "link": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%B0%8F%E9%BB%91",
-      "hot_value": 280902
-    },
-    {
-      "title": "国产闪存大量涌入消费市场",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E9%97%AA%E5%AD%98%E5%A4%A7%E9%87%8F%E6%B6%8C%E5%85%A5%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA",
-      "hot_value": 281014
+      "title": "韩立",
+      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B",
+      "hot_value": 281064
     },
     {
       "title": "细说九十年代最疯狂的搞钱生意",
@@ -100,29 +110,19 @@
       "hot_value": 280983
     },
     {
+      "title": "模型蒸馏为何让Anthropic忌惮",
+      "link": "https://search.bilibili.com/all?keyword=%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E4%B8%BA%E4%BD%95%E8%AE%A9Anthropic%E5%BF%8C%E6%83%AE",
+      "hot_value": 281073
+    },
+    {
       "title": "星游记新版再飞行MV上线",
       "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E6%B8%B8%E8%AE%B0%E6%96%B0%E7%89%88%E5%86%8D%E9%A3%9E%E8%A1%8CMV%E4%B8%8A%E7%BA%BF",
       "hot_value": 280993
     },
     {
-      "title": "汉斯季默是好莱坞配乐界的GOAT吗",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B1%89%E6%96%AF%E5%AD%A3%E9%BB%98%E6%98%AF%E5%A5%BD%E8%8E%B1%E5%9D%9E%E9%85%8D%E4%B9%90%E7%95%8C%E7%9A%84GOAT%E5%90%97",
-      "hot_value": 281050
-    },
-    {
-      "title": "乖乖待在我身边学英语不好吗",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B9%96%E4%B9%96%E5%BE%85%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9%E5%AD%A6%E8%8B%B1%E8%AF%AD%E4%B8%8D%E5%A5%BD%E5%90%97",
-      "hot_value": 280782
-    },
-    {
-      "title": "食贫道追普洱最后一波菌子",
-      "link": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E8%BF%BD%E6%99%AE%E6%B4%B1%E6%9C%80%E5%90%8E%E4%B8%80%E6%B3%A2%E8%8F%8C%E5%AD%90",
-      "hot_value": 280973
-    },
-    {
-      "title": "细品许飞对厉娜情感有多深",
-      "link": "https://search.bilibili.com/all?keyword=%E7%BB%86%E5%93%81%E8%AE%B8%E9%A3%9E%E5%AF%B9%E5%8E%89%E5%A8%9C%E6%83%85%E6%84%9F%E6%9C%89%E5%A4%9A%E6%B7%B1",
-      "hot_value": 281041
+      "title": "赖导寻访西南移民钢铁之城",
+      "link": "https://search.bilibili.com/all?keyword=%E8%B5%96%E5%AF%BC%E5%AF%BB%E8%AE%BF%E8%A5%BF%E5%8D%97%E7%A7%BB%E6%B0%91%E9%92%A2%E9%93%81%E4%B9%8B%E5%9F%8E",
+      "hot_value": 281135
     },
     {
       "title": "yoyo酱和颢鑫结婚了",
@@ -130,29 +130,29 @@
       "hot_value": 281042
     },
     {
+      "title": "圆脸直击世界媒体峰会",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E7%9B%B4%E5%87%BB%E4%B8%96%E7%95%8C%E5%AA%92%E4%BD%93%E5%B3%B0%E4%BC%9A",
+      "hot_value": 281149
+    },
+    {
+      "title": "后会友期为何能如此火爆",
+      "link": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E4%B8%BA%E4%BD%95%E8%83%BD%E5%A6%82%E6%AD%A4%E7%81%AB%E7%88%86",
+      "hot_value": 281074
+    },
+    {
+      "title": "凡人合欢老魔有哪些手段",
+      "link": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E5%90%88%E6%AC%A2%E8%80%81%E9%AD%94%E6%9C%89%E5%93%AA%E4%BA%9B%E6%89%8B%E6%AE%B5",
+      "hot_value": 281134
+    },
+    {
+      "title": "1酱赛评四强前瞻",
+      "link": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84%E5%9B%9B%E5%BC%BA%E5%89%8D%E7%9E%BB",
+      "hot_value": 281105
+    },
+    {
       "title": "火影手游漂佩铭刻决斗场",
       "link": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B8%E6%BC%82%E4%BD%A9%E9%93%AD%E5%88%BB%E5%86%B3%E6%96%97%E5%9C%BA",
       "hot_value": 281086
-    },
-    {
-      "title": "2027年放假安排来了",
-      "link": "https://search.bilibili.com/all?keyword=2027%E5%B9%B4%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86",
-      "hot_value": 280758
-    },
-    {
-      "title": "锐评T1世界赛保底四强",
-      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E4%B8%96%E7%95%8C%E8%B5%9B%E4%BF%9D%E5%BA%95%E5%9B%9B%E5%BC%BA",
-      "hot_value": 281079
-    },
-    {
-      "title": "TES 369单曲莫问归期",
-      "link": "https://search.bilibili.com/all?keyword=TES%20369%E5%8D%95%E6%9B%B2%E8%8E%AB%E9%97%AE%E5%BD%92%E6%9C%9F",
-      "hot_value": 280861
-    },
-    {
-      "title": "进博新品汇带看全球好物",
-      "link": "https://search.bilibili.com/all?keyword=%E8%BF%9B%E5%8D%9A%E6%96%B0%E5%93%81%E6%B1%87%E5%B8%A6%E7%9C%8B%E5%85%A8%E7%90%83%E5%A5%BD%E7%89%A9",
-      "hot_value": 281096
     }
   ]
 }
