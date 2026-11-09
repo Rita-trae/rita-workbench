@@ -2,67 +2,92 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-09T07:56:27+08:00",
+  "updated_at": "2026-11-09T13:59:28+08:00",
   "data": [
+    {
+      "title": "米勒激动现场落泪",
+      "link": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E6%BF%80%E5%8A%A8%E7%8E%B0%E5%9C%BA%E8%90%BD%E6%B3%AA",
+      "hot_value": 281359
+    },
+    {
+      "title": "央视网赛后采访knight",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BFknight",
+      "hot_value": 281391
+    },
+    {
+      "title": "卫星互联网低轨29组卫星成功发射",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A829%E7%BB%84%E5%8D%AB%E6%98%9F%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84",
+      "hot_value": 281351
+    },
+    {
+      "title": "新华社发文为BLG加油",
+      "link": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%8F%91%E6%96%87%E4%B8%BABLG%E5%8A%A0%E6%B2%B9",
+      "hot_value": 281360
+    },
+    {
+      "title": "王传君安利鲁豫参加浪姐",
+      "link": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%AE%89%E5%88%A9%E9%B2%81%E8%B1%AB%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90",
+      "hot_value": 281383
+    },
+    {
+      "title": "GPT 6.2 Sol疑似提前上线实测",
+      "link": "https://search.bilibili.com/all?keyword=GPT%206.2%20Sol%E7%96%91%E4%BC%BC%E6%8F%90%E5%89%8D%E4%B8%8A%E7%BA%BF%E5%AE%9E%E6%B5%8B",
+      "hot_value": 281353
+    },
+    {
+      "title": "Knight称第四局仿佛回到24年",
+      "link": "https://search.bilibili.com/all?keyword=Knight%E7%A7%B0%E7%AC%AC%E5%9B%9B%E5%B1%80%E4%BB%BF%E4%BD%9B%E5%9B%9E%E5%88%B024%E5%B9%B4",
+      "hot_value": 281364
+    },
+    {
+      "title": "BLG vs GEN数据前瞻",
+      "link": "https://search.bilibili.com/all?keyword=BLG%20vs%20GEN%E6%95%B0%E6%8D%AE%E5%89%8D%E7%9E%BB",
+      "hot_value": 281363
+    },
+    {
+      "title": "火柴人VS动画师",
+      "link": "https://search.bilibili.com/all?keyword=%E7%81%AB%E6%9F%B4%E4%BA%BAVS%E5%8A%A8%E7%94%BB%E5%B8%88",
+      "hot_value": 281384
+    },
     {
       "title": "BLG T1",
       "link": "https://search.bilibili.com/all?keyword=BLG%20T1",
       "hot_value": 281328
     },
     {
-      "title": "特大暴雪来袭",
-      "link": "https://search.bilibili.com/all?keyword=%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA%E6%9D%A5%E8%A2%AD",
-      "hot_value": 281313
+      "title": "张靓颖恭喜BLG战胜T1",
+      "link": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9D%93%E9%A2%96%E6%81%AD%E5%96%9CBLG%E6%88%98%E8%83%9CT1",
+      "hot_value": 281358
     },
     {
-      "title": "4家内存供应商利润创新高",
-      "link": "https://search.bilibili.com/all?keyword=4%E5%AE%B6%E5%86%85%E5%AD%98%E4%BE%9B%E5%BA%94%E5%95%86%E5%88%A9%E6%B6%A6%E5%88%9B%E6%96%B0%E9%AB%98",
-      "hot_value": 281326
+      "title": "细节看人民空军新机",
+      "link": "https://search.bilibili.com/all?keyword=%E7%BB%86%E8%8A%82%E7%9C%8B%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E6%96%B0%E6%9C%BA",
+      "hot_value": 281337
     },
     {
-      "title": "369ZUIAN 上单之间真的有话说",
-      "link": "https://search.bilibili.com/all?keyword=369ZUIAN%20%E4%B8%8A%E5%8D%95%E4%B9%8B%E9%97%B4%E7%9C%9F%E7%9A%84%E6%9C%89%E8%AF%9D%E8%AF%B4",
-      "hot_value": 281325
+      "title": "数据回顾BLG战胜T1",
+      "link": "https://search.bilibili.com/all?keyword=%E6%95%B0%E6%8D%AE%E5%9B%9E%E9%A1%BEBLG%E6%88%98%E8%83%9CT1",
+      "hot_value": 281345
     },
     {
-      "title": "杨瀚森比上赛季进步在哪",
-      "link": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E6%AF%94%E4%B8%8A%E8%B5%9B%E5%AD%A3%E8%BF%9B%E6%AD%A5%E5%9C%A8%E5%93%AA",
-      "hot_value": 281316
+      "title": "XUN说我们渴望冠军太久了",
+      "link": "https://search.bilibili.com/all?keyword=XUN%E8%AF%B4%E6%88%91%E4%BB%AC%E6%B8%B4%E6%9C%9B%E5%86%A0%E5%86%9B%E5%A4%AA%E4%B9%85%E4%BA%86",
+      "hot_value": 281386
     },
     {
-      "title": "十二年鬼畜热梗合集",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%8C%E5%B9%B4%E9%AC%BC%E7%95%9C%E7%83%AD%E6%A2%97%E5%90%88%E9%9B%86",
-      "hot_value": 281308
+      "title": "S16淘汰赛全位置数据雷达图",
+      "link": "https://search.bilibili.com/all?keyword=S16%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%85%A8%E4%BD%8D%E7%BD%AE%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
+      "hot_value": 281374
     },
     {
-      "title": "369ZUIAN谈对线顶级上单",
-      "link": "https://search.bilibili.com/all?keyword=369ZUIAN%E8%B0%88%E5%AF%B9%E7%BA%BF%E9%A1%B6%E7%BA%A7%E4%B8%8A%E5%8D%95",
-      "hot_value": 281312
+      "title": "Faker赛后微笑退场",
+      "link": "https://search.bilibili.com/all?keyword=Faker%E8%B5%9B%E5%90%8E%E5%BE%AE%E7%AC%91%E9%80%80%E5%9C%BA",
+      "hot_value": 281361
     },
     {
-      "title": "古巴前副外交部长谈古巴现状",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8F%A4%E5%B7%B4%E5%89%8D%E5%89%AF%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E8%B0%88%E5%8F%A4%E5%B7%B4%E7%8E%B0%E7%8A%B6",
-      "hot_value": 281303
-    },
-    {
-      "title": "一次看懂青稚白小纯纠葛",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%BA%A0%E8%91%9B",
-      "hot_value": 281318
-    },
-    {
-      "title": "369ZUIAN谈世一上短剧",
-      "link": "https://search.bilibili.com/all?keyword=369ZUIAN%E8%B0%88%E4%B8%96%E4%B8%80%E4%B8%8A%E7%9F%AD%E5%89%A7",
-      "hot_value": 281306
-    },
-    {
-      "title": "模型蒸馏为何让Anthropic忌惮",
-      "link": "https://search.bilibili.com/all?keyword=%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E4%B8%BA%E4%BD%95%E8%AE%A9Anthropic%E5%BF%8C%E6%83%AE",
-      "hot_value": 281073
-    },
-    {
-      "title": "369回国珍贵录像",
-      "link": "https://search.bilibili.com/all?keyword=369%E5%9B%9E%E5%9B%BD%E7%8F%8D%E8%B4%B5%E5%BD%95%E5%83%8F",
-      "hot_value": 281205
+      "title": "Bin说T1比GEN强",
+      "link": "https://search.bilibili.com/all?keyword=Bin%E8%AF%B4T1%E6%AF%94GEN%E5%BC%BA",
+      "hot_value": 281389
     },
     {
       "title": "S赛怀旧金曲云南山歌版",
@@ -70,14 +95,39 @@
       "hot_value": 281138
     },
     {
-      "title": "广州TTG 北京WB",
-      "link": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E5%B7%9ETTG%20%E5%8C%97%E4%BA%ACWB",
-      "hot_value": 281281
+      "title": "锐评BLG战胜T1晋级决赛",
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84BLG%E6%88%98%E8%83%9CT1%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B",
+      "hot_value": 281393
     },
     {
-      "title": "全国高校首个冷门绝学学院成立",
-      "link": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E9%AB%98%E6%A0%A1%E9%A6%96%E4%B8%AA%E5%86%B7%E9%97%A8%E7%BB%9D%E5%AD%A6%E5%AD%A6%E9%99%A2%E6%88%90%E7%AB%8B",
-      "hot_value": 281220
+      "title": "星铁星神阿哈角色PV",
+      "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E6%98%9F%E7%A5%9E%E9%98%BF%E5%93%88%E8%A7%92%E8%89%B2PV",
+      "hot_value": 281262
+    },
+    {
+      "title": "OpenAI考虑增Pro档位",
+      "link": "https://search.bilibili.com/all?keyword=OpenAI%E8%80%83%E8%99%91%E5%A2%9EPro%E6%A1%A3%E4%BD%8D",
+      "hot_value": 281354
+    },
+    {
+      "title": "BLG能对LCK完成一穿四吗",
+      "link": "https://search.bilibili.com/all?keyword=BLG%E8%83%BD%E5%AF%B9LCK%E5%AE%8C%E6%88%90%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%90%97",
+      "hot_value": 281390
+    },
+    {
+      "title": "在MC里还原梵高星空",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E8%BF%98%E5%8E%9F%E6%A2%B5%E9%AB%98%E6%98%9F%E7%A9%BA",
+      "hot_value": 281212
+    },
+    {
+      "title": "十二年鬼畜热梗合集",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%8C%E5%B9%B4%E9%AC%BC%E7%95%9C%E7%83%AD%E6%A2%97%E5%90%88%E9%9B%86",
+      "hot_value": 281308
+    },
+    {
+      "title": "BLG发文 向冠军出发",
+      "link": "https://search.bilibili.com/all?keyword=BLG%E5%8F%91%E6%96%87%20%E5%90%91%E5%86%A0%E5%86%9B%E5%87%BA%E5%8F%91",
+      "hot_value": 281398
     },
     {
       "title": "秦牧",
@@ -85,74 +135,24 @@
       "hot_value": 281223
     },
     {
-      "title": "科隆Major夺冠纪录片上线",
-      "link": "https://search.bilibili.com/all?keyword=%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0%E7%BA%AA%E5%BD%95%E7%89%87%E4%B8%8A%E7%BA%BF",
-      "hot_value": 281241
+      "title": "Bin说战胜T1是梦中的场景",
+      "link": "https://search.bilibili.com/all?keyword=Bin%E8%AF%B4%E6%88%98%E8%83%9CT1%E6%98%AF%E6%A2%A6%E4%B8%AD%E7%9A%84%E5%9C%BA%E6%99%AF",
+      "hot_value": 281369
     },
     {
-      "title": "雨琪在芬兰探森林蘑菇季",
-      "link": "https://search.bilibili.com/all?keyword=%E9%9B%A8%E7%90%AA%E5%9C%A8%E8%8A%AC%E5%85%B0%E6%8E%A2%E6%A3%AE%E6%9E%97%E8%98%91%E8%8F%87%E5%AD%A3",
-      "hot_value": 281293
+      "title": "Karsa复盘BLG战胜T1",
+      "link": "https://search.bilibili.com/all?keyword=Karsa%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CT1",
+      "hot_value": 281395
     },
     {
-      "title": "杨瀚森全场篮板王",
-      "link": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%85%A8%E5%9C%BA%E7%AF%AE%E6%9D%BF%E7%8E%8B",
-      "hot_value": 281298
+      "title": "LPL首次S赛BO5淘汰T1",
+      "link": "https://search.bilibili.com/all?keyword=LPL%E9%A6%96%E6%AC%A1S%E8%B5%9BBO5%E6%B7%98%E6%B1%B0T1",
+      "hot_value": 281344
     },
     {
-      "title": "起底后会友期文吉儿成名路",
-      "link": "https://search.bilibili.com/all?keyword=%E8%B5%B7%E5%BA%95%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%96%87%E5%90%89%E5%84%BF%E6%88%90%E5%90%8D%E8%B7%AF",
-      "hot_value": 281112
-    },
-    {
-      "title": "解析杨瀚森是否已到NBA轮换级别",
-      "link": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E6%9D%A8%E7%80%9A%E6%A3%AE%E6%98%AF%E5%90%A6%E5%B7%B2%E5%88%B0NBA%E8%BD%AE%E6%8D%A2%E7%BA%A7%E5%88%AB",
-      "hot_value": 281304
-    },
-    {
-      "title": "韩立",
-      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B",
-      "hot_value": 281064
-    },
-    {
-      "title": "万字解读张颂文新剧剧情细节",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E8%AF%BB%E5%BC%A0%E9%A2%82%E6%96%87%E6%96%B0%E5%89%A7%E5%89%A7%E6%83%85%E7%BB%86%E8%8A%82",
-      "hot_value": 281301
-    },
-    {
-      "title": "AI制作边缘行者2金王最后一舞",
-      "link": "https://search.bilibili.com/all?keyword=AI%E5%88%B6%E4%BD%9C%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%852%E9%87%91%E7%8E%8B%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
-      "hot_value": 281272
-    },
-    {
-      "title": "后会友期为何能如此火爆",
-      "link": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E4%B8%BA%E4%BD%95%E8%83%BD%E5%A6%82%E6%AD%A4%E7%81%AB%E7%88%86",
-      "hot_value": 281074
-    },
-    {
-      "title": "成都蓉城错失第七个冠军点",
-      "link": "https://search.bilibili.com/all?keyword=%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%E9%94%99%E5%A4%B1%E7%AC%AC%E4%B8%83%E4%B8%AA%E5%86%A0%E5%86%9B%E7%82%B9",
-      "hot_value": 281288
-    },
-    {
-      "title": "北京WB 广州TTG数据图",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%ACWB%20%E5%B9%BF%E5%B7%9ETTG%E6%95%B0%E6%8D%AE%E5%9B%BE",
-      "hot_value": 281322
-    },
-    {
-      "title": "赖导寻访西南移民钢铁之城",
-      "link": "https://search.bilibili.com/all?keyword=%E8%B5%96%E5%AF%BC%E5%AF%BB%E8%AE%BF%E8%A5%BF%E5%8D%97%E7%A7%BB%E6%B0%91%E9%92%A2%E9%93%81%E4%B9%8B%E5%9F%8E",
-      "hot_value": 281135
-    },
-    {
-      "title": "拉宏桑挑战从中国走到欧洲",
-      "link": "https://search.bilibili.com/all?keyword=%E6%8B%89%E5%AE%8F%E6%A1%91%E6%8C%91%E6%88%98%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%B5%B0%E5%88%B0%E6%AC%A7%E6%B4%B2",
-      "hot_value": 281038
-    },
-    {
-      "title": "鸣潮莉莉战斗演示",
-      "link": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E8%8E%89%E8%8E%89%E6%88%98%E6%96%97%E6%BC%94%E7%A4%BA",
-      "hot_value": 281225
+      "title": "诺里斯时隔7场再夺冠",
+      "link": "https://search.bilibili.com/all?keyword=%E8%AF%BA%E9%87%8C%E6%96%AF%E6%97%B6%E9%9A%947%E5%9C%BA%E5%86%8D%E5%A4%BA%E5%86%A0",
+      "hot_value": 281340
     }
   ]
 }
