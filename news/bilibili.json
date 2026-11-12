@@ -2,47 +2,47 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-12T20:28:19+08:00",
+  "updated_at": "2026-11-13T04:22:15+08:00",
   "data": [
+    {
+      "title": "自制S16总决赛宣传片",
+      "link": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AE%A3%E4%BC%A0%E7%89%87",
+      "hot_value": 281942
+    },
     {
       "title": "曼联官宣主教练卡里克离任",
       "link": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E5%AE%98%E5%AE%A3%E4%B8%BB%E6%95%99%E7%BB%83%E5%8D%A1%E9%87%8C%E5%85%8B%E7%A6%BB%E4%BB%BB",
       "hot_value": 281930
     },
     {
-      "title": "圆脸连线日韩专家聊国际秩序转变",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%BF%9E%E7%BA%BF%E6%97%A5%E9%9F%A9%E4%B8%93%E5%AE%B6%E8%81%8A%E5%9B%BD%E9%99%85%E7%A7%A9%E5%BA%8F%E8%BD%AC%E5%8F%98",
-      "hot_value": 281918
+      "title": "AI动画重演BLG战胜T1",
+      "link": "https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E9%87%8D%E6%BC%94BLG%E6%88%98%E8%83%9CT1",
+      "hot_value": 281951
     },
     {
-      "title": "郭本尼后会友期在线拉架",
-      "link": "https://search.bilibili.com/all?keyword=%E9%83%AD%E6%9C%AC%E5%B0%BC%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%9C%A8%E7%BA%BF%E6%8B%89%E6%9E%B6",
-      "hot_value": 281936
+      "title": "大暴雨来了",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%9A%B4%E9%9B%A8%E6%9D%A5%E4%BA%86",
+      "hot_value": 281954
     },
     {
-      "title": "波切蒂诺会给曼联带来什么变化",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%E4%BC%9A%E7%BB%99%E6%9B%BC%E8%81%94%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96",
-      "hot_value": 281931
+      "title": "GEN四强幕后花絮",
+      "link": "https://search.bilibili.com/all?keyword=GEN%E5%9B%9B%E5%BC%BA%E5%B9%95%E5%90%8E%E8%8A%B1%E7%B5%AE",
+      "hot_value": 281939
     },
     {
-      "title": "为什么买不到10米长的USB线",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B9%B0%E4%B8%8D%E5%88%B010%E7%B1%B3%E9%95%BF%E7%9A%84USB%E7%BA%BF",
-      "hot_value": 281923
+      "title": "如何看懂新剧谷雨中的底层博弈",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E6%87%82%E6%96%B0%E5%89%A7%E8%B0%B7%E9%9B%A8%E4%B8%AD%E7%9A%84%E5%BA%95%E5%B1%82%E5%8D%9A%E5%BC%88",
+      "hot_value": 281909
     },
     {
-      "title": "smoggy",
-      "link": "https://search.bilibili.com/all?keyword=smoggy",
-      "hot_value": 281917
+      "title": "中国首个开源鸿蒙智慧演播室亮相",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E5%BC%80%E6%BA%90%E9%B8%BF%E8%92%99%E6%99%BA%E6%85%A7%E6%BC%94%E6%92%AD%E5%AE%A4%E4%BA%AE%E7%9B%B8",
+      "hot_value": 281906
     },
     {
-      "title": "无人机千里飞针救治伤员",
-      "link": "https://search.bilibili.com/all?keyword=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8D%83%E9%87%8C%E9%A3%9E%E9%92%88%E6%95%91%E6%B2%BB%E4%BC%A4%E5%91%98",
-      "hot_value": 281900
-    },
-    {
-      "title": "Spirit G2",
-      "link": "https://search.bilibili.com/all?keyword=Spirit%20G2",
-      "hot_value": 281898
+      "title": "日食记小鹿梦幻联动",
+      "link": "https://search.bilibili.com/all?keyword=%E6%97%A5%E9%A3%9F%E8%AE%B0%E5%B0%8F%E9%B9%BF%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8",
+      "hot_value": 281920
     },
     {
       "title": "歼-35A与歼-20是如何分工的",
@@ -50,24 +50,14 @@
       "hot_value": 281885
     },
     {
-      "title": "5000元以内平板超全选购指南",
-      "link": "https://search.bilibili.com/all?keyword=5000%E5%85%83%E4%BB%A5%E5%86%85%E5%B9%B3%E6%9D%BF%E8%B6%85%E5%85%A8%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97",
-      "hot_value": 281925
+      "title": "载物刷新生涯最低Rating",
+      "link": "https://search.bilibili.com/all?keyword=%E8%BD%BD%E7%89%A9%E5%88%B7%E6%96%B0%E7%94%9F%E6%B6%AF%E6%9C%80%E4%BD%8ERating",
+      "hot_value": 281945
     },
     {
-      "title": "UP主回归原始手搓铁器",
-      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%9B%9E%E5%BD%92%E5%8E%9F%E5%A7%8B%E6%89%8B%E6%90%93%E9%93%81%E5%99%A8",
-      "hot_value": 281826
-    },
-    {
-      "title": "用AI制作灭霸全家福MV",
-      "link": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV",
-      "hot_value": 281700
-    },
-    {
-      "title": "天南海北猎奇烧烤大赏",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E5%8D%97%E6%B5%B7%E5%8C%97%E7%8C%8E%E5%A5%87%E7%83%A7%E7%83%A4%E5%A4%A7%E8%B5%8F",
-      "hot_value": 281846
+      "title": "在MC里还原星铁阿哈",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E8%BF%98%E5%8E%9F%E6%98%9F%E9%93%81%E9%98%BF%E5%93%88",
+      "hot_value": 281946
     },
     {
       "title": "疑似崩坏真人角色PV流出",
@@ -75,39 +65,9 @@
       "hot_value": 281873
     },
     {
-      "title": "王者新英雄刀锋宝贝玩法介绍",
-      "link": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E6%96%B0%E8%8B%B1%E9%9B%84%E5%88%80%E9%94%8B%E5%AE%9D%E8%B4%9D%E7%8E%A9%E6%B3%95%E4%BB%8B%E7%BB%8D",
-      "hot_value": 281916
-    },
-    {
-      "title": "根本没有这种车去川西",
-      "link": "https://search.bilibili.com/all?keyword=%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%BF%99%E7%A7%8D%E8%BD%A6%E5%8E%BB%E5%B7%9D%E8%A5%BF",
-      "hot_value": 281712
-    },
-    {
-      "title": "大学生食堂打饭教程",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%A3%9F%E5%A0%82%E6%89%93%E9%A5%AD%E6%95%99%E7%A8%8B",
-      "hot_value": 281795
-    },
-    {
-      "title": "papi酱热烈欢迎谢苗",
-      "link": "https://search.bilibili.com/all?keyword=papi%E9%85%B1%E7%83%AD%E7%83%88%E6%AC%A2%E8%BF%8E%E8%B0%A2%E8%8B%97",
-      "hot_value": 281688
-    },
-    {
-      "title": "刘晓艳 英语总监德穆兰",
-      "link": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%20%E8%8B%B1%E8%AF%AD%E6%80%BB%E7%9B%91%E5%BE%B7%E7%A9%86%E5%85%B0",
-      "hot_value": 281856
-    },
-    {
-      "title": "原神过场动画岩与契约",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E5%B2%A9%E4%B8%8E%E5%A5%91%E7%BA%A6",
-      "hot_value": 281902
-    },
-    {
-      "title": "LKS探秘亚洲第一商场",
-      "link": "https://search.bilibili.com/all?keyword=LKS%E6%8E%A2%E7%A7%98%E4%BA%9A%E6%B4%B2%E7%AC%AC%E4%B8%80%E5%95%86%E5%9C%BA",
-      "hot_value": 281683
+      "title": "如何适应货币战争S2游戏节奏",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E9%80%82%E5%BA%94%E8%B4%A7%E5%B8%81%E6%88%98%E4%BA%89S2%E6%B8%B8%E6%88%8F%E8%8A%82%E5%A5%8F",
+      "hot_value": 281833
     },
     {
       "title": "星铁动画短片月下的欢快葬礼",
@@ -115,9 +75,9 @@
       "hot_value": 281687
     },
     {
-      "title": "后弗格森时代曼联历任主帅一览",
-      "link": "https://search.bilibili.com/all?keyword=%E5%90%8E%E5%BC%97%E6%A0%BC%E6%A3%AE%E6%97%B6%E4%BB%A3%E6%9B%BC%E8%81%94%E5%8E%86%E4%BB%BB%E4%B8%BB%E5%B8%85%E4%B8%80%E8%A7%88",
-      "hot_value": 281933
+      "title": "密室逃脱通关赢10万美金",
+      "link": "https://search.bilibili.com/all?keyword=%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1%E9%80%9A%E5%85%B3%E8%B5%A210%E4%B8%87%E7%BE%8E%E9%87%91",
+      "hot_value": 281914
     },
     {
       "title": "CS2传奇之路群像回顾",
@@ -125,9 +85,59 @@
       "hot_value": 281657
     },
     {
-      "title": "为何Faker输给LPL仍获尊重",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95Faker%E8%BE%93%E7%BB%99LPL%E4%BB%8D%E8%8E%B7%E5%B0%8A%E9%87%8D",
-      "hot_value": 281896
+      "title": "天南海北猎奇烧烤大赏",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E5%8D%97%E6%B5%B7%E5%8C%97%E7%8C%8E%E5%A5%87%E7%83%A7%E7%83%A4%E5%A4%A7%E8%B5%8F",
+      "hot_value": 281846
+    },
+    {
+      "title": "大学生食堂打饭教程",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%A3%9F%E5%A0%82%E6%89%93%E9%A5%AD%E6%95%99%E7%A8%8B",
+      "hot_value": 281795
+    },
+    {
+      "title": "用AI制作灭霸全家福MV",
+      "link": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV",
+      "hot_value": 281700
+    },
+    {
+      "title": "刘晓艳 英语总监德穆兰",
+      "link": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%20%E8%8B%B1%E8%AF%AD%E6%80%BB%E7%9B%91%E5%BE%B7%E7%A9%86%E5%85%B0",
+      "hot_value": 281856
+    },
+    {
+      "title": "LKS探秘亚洲第一商场",
+      "link": "https://search.bilibili.com/all?keyword=LKS%E6%8E%A2%E7%A7%98%E4%BA%9A%E6%B4%B2%E7%AC%AC%E4%B8%80%E5%95%86%E5%9C%BA",
+      "hot_value": 281683
+    },
+    {
+      "title": "海外滑板博主被追杀真相如何",
+      "link": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%A4%96%E6%BB%91%E6%9D%BF%E5%8D%9A%E4%B8%BB%E8%A2%AB%E8%BF%BD%E6%9D%80%E7%9C%9F%E7%9B%B8%E5%A6%82%E4%BD%95",
+      "hot_value": 281796
+    },
+    {
+      "title": "白银之城馨西亚二世角色PV",
+      "link": "https://search.bilibili.com/all?keyword=%E7%99%BD%E9%93%B6%E4%B9%8B%E5%9F%8E%E9%A6%A8%E8%A5%BF%E4%BA%9A%E4%BA%8C%E4%B8%96%E8%A7%92%E8%89%B2PV",
+      "hot_value": 281943
+    },
+    {
+      "title": "papi酱热烈欢迎谢苗",
+      "link": "https://search.bilibili.com/all?keyword=papi%E9%85%B1%E7%83%AD%E7%83%88%E6%AC%A2%E8%BF%8E%E8%B0%A2%E8%8B%97",
+      "hot_value": 281688
+    },
+    {
+      "title": "世一上短剧之最后一战",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%96%E4%B8%80%E4%B8%8A%E7%9F%AD%E5%89%A7%E4%B9%8B%E6%9C%80%E5%90%8E%E4%B8%80%E6%88%98",
+      "hot_value": 281842
+    },
+    {
+      "title": "水浒传为何很少做成单机游戏",
+      "link": "https://search.bilibili.com/all?keyword=%E6%B0%B4%E6%B5%92%E4%BC%A0%E4%B8%BA%E4%BD%95%E5%BE%88%E5%B0%91%E5%81%9A%E6%88%90%E5%8D%95%E6%9C%BA%E6%B8%B8%E6%88%8F",
+      "hot_value": 281944
+    },
+    {
+      "title": "UP主回归原始手搓铁器",
+      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%9B%9E%E5%BD%92%E5%8E%9F%E5%A7%8B%E6%89%8B%E6%90%93%E9%93%81%E5%99%A8",
+      "hot_value": 281826
     },
     {
       "title": "Faker称会观看BLG和GEN的决赛",
@@ -135,19 +145,9 @@
       "hot_value": 281875
     },
     {
-      "title": "星穹铁道最新EP无中生有",
-      "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E6%9C%80%E6%96%B0EP%E6%97%A0%E4%B8%AD%E7%94%9F%E6%9C%89",
-      "hot_value": 281861
-    },
-    {
-      "title": "金摇杆年度游戏生化危机9",
-      "link": "https://search.bilibili.com/all?keyword=%E9%87%91%E6%91%87%E6%9D%86%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA9",
-      "hot_value": 281814
-    },
-    {
-      "title": "回顾BLG战胜T1的突围之路",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E9%A1%BEBLG%E6%88%98%E8%83%9CT1%E7%9A%84%E7%AA%81%E5%9B%B4%E4%B9%8B%E8%B7%AF",
-      "hot_value": 281816
+      "title": "影之刃零为何会在海外卖爆",
+      "link": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%9C%A8%E6%B5%B7%E5%A4%96%E5%8D%96%E7%88%86",
+      "hot_value": 281893
     },
     {
       "title": "BLG为何能打破T1的不败神话",
