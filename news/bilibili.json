@@ -2,12 +2,67 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-12T07:06:26+08:00",
+  "updated_at": "2026-11-12T11:50:14+08:00",
   "data": [
     {
-      "title": "欧美掀起抵制AI数据中心浪潮",
-      "link": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%BE%8E%E6%8E%80%E8%B5%B7%E6%8A%B5%E5%88%B6AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%B5%AA%E6%BD%AE",
-      "hot_value": 281801
+      "title": "孙中山先生诞辰160周年",
+      "link": "https://search.bilibili.com/all?keyword=%E5%AD%99%E4%B8%AD%E5%B1%B1%E5%85%88%E7%94%9F%E8%AF%9E%E8%BE%B0160%E5%91%A8%E5%B9%B4",
+      "hot_value": 281830
+    },
+    {
+      "title": "回顾BLG战胜T1的突围之路",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E9%A1%BEBLG%E6%88%98%E8%83%9CT1%E7%9A%84%E7%AA%81%E5%9B%B4%E4%B9%8B%E8%B7%AF",
+      "hot_value": 281816
+    },
+    {
+      "title": "金摇杆年度游戏生化危机9",
+      "link": "https://search.bilibili.com/all?keyword=%E9%87%91%E6%91%87%E6%9D%86%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA9",
+      "hot_value": 281814
+    },
+    {
+      "title": "在深圳看APEC和康辉的25年",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E6%B7%B1%E5%9C%B3%E7%9C%8BAPEC%E5%92%8C%E5%BA%B7%E8%BE%89%E7%9A%8425%E5%B9%B4",
+      "hot_value": 281834
+    },
+    {
+      "title": "布朗与塔图姆之间的恩怨情仇",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B8%83%E6%9C%97%E4%B8%8E%E5%A1%94%E5%9B%BE%E5%A7%86%E4%B9%8B%E9%97%B4%E7%9A%84%E6%81%A9%E6%80%A8%E6%83%85%E4%BB%87",
+      "hot_value": 281815
+    },
+    {
+      "title": "世一上短剧之最后一战",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%96%E4%B8%80%E4%B8%8A%E7%9F%AD%E5%89%A7%E4%B9%8B%E6%9C%80%E5%90%8E%E4%B8%80%E6%88%98",
+      "hot_value": 281842
+    },
+    {
+      "title": "国足新星王钰栋回应留洋传闻",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B3%E6%96%B0%E6%98%9F%E7%8E%8B%E9%92%B0%E6%A0%8B%E5%9B%9E%E5%BA%94%E7%95%99%E6%B4%8B%E4%BC%A0%E9%97%BB",
+      "hot_value": 281843
+    },
+    {
+      "title": "旺达或将在复联5回归",
+      "link": "https://search.bilibili.com/all?keyword=%E6%97%BA%E8%BE%BE%E6%88%96%E5%B0%86%E5%9C%A8%E5%A4%8D%E8%81%945%E5%9B%9E%E5%BD%92",
+      "hot_value": 281821
+    },
+    {
+      "title": "预测后会友期嘉宾哪些会和好",
+      "link": "https://search.bilibili.com/all?keyword=%E9%A2%84%E6%B5%8B%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%98%89%E5%AE%BE%E5%93%AA%E4%BA%9B%E4%BC%9A%E5%92%8C%E5%A5%BD",
+      "hot_value": 281828
+    },
+    {
+      "title": "新剧谷雨里的官场神仙斗法",
+      "link": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%89%A7%E8%B0%B7%E9%9B%A8%E9%87%8C%E7%9A%84%E5%AE%98%E5%9C%BA%E7%A5%9E%E4%BB%99%E6%96%97%E6%B3%95",
+      "hot_value": 281823
+    },
+    {
+      "title": "金鸡颁奖礼诞生哪些名场面",
+      "link": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%B8%A1%E9%A2%81%E5%A5%96%E7%A4%BC%E8%AF%9E%E7%94%9F%E5%93%AA%E4%BA%9B%E5%90%8D%E5%9C%BA%E9%9D%A2",
+      "hot_value": 281844
+    },
+    {
+      "title": "王俊杰NCAA狂砍28分",
+      "link": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E4%BF%8A%E6%9D%B0NCAA%E7%8B%82%E7%A0%8D28%E5%88%86",
+      "hot_value": 281832
     },
     {
       "title": "TLC闪存现货价跌幅有多猛",
@@ -15,19 +70,9 @@
       "hot_value": 281808
     },
     {
-      "title": "BLG vs GEN决赛前瞻",
-      "link": "https://search.bilibili.com/all?keyword=BLG%20vs%20GEN%E5%86%B3%E8%B5%9B%E5%89%8D%E7%9E%BB",
-      "hot_value": 281805
-    },
-    {
-      "title": "BLG赛事语音 我们去决赛吧",
-      "link": "https://search.bilibili.com/all?keyword=BLG%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3%20%E6%88%91%E4%BB%AC%E5%8E%BB%E5%86%B3%E8%B5%9B%E5%90%A7",
-      "hot_value": 281787
-    },
-    {
-      "title": "蛇女就是美杜莎吗",
-      "link": "https://search.bilibili.com/all?keyword=%E8%9B%87%E5%A5%B3%E5%B0%B1%E6%98%AF%E7%BE%8E%E6%9D%9C%E8%8E%8E%E5%90%97",
-      "hot_value": 281794
+      "title": "Gemini Decisions",
+      "link": "https://search.bilibili.com/all?keyword=Gemini%20Decisions",
+      "hot_value": 281825
     },
     {
       "title": "大学生食堂打饭教程",
@@ -35,94 +80,9 @@
       "hot_value": 281795
     },
     {
-      "title": "如何评价杰伦布朗情绪化打法",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E6%83%85%E7%BB%AA%E5%8C%96%E6%89%93%E6%B3%95",
-      "hot_value": 281806
-    },
-    {
-      "title": "保罗乔治36分算回到巅峰吗",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BF%9D%E7%BD%97%E4%B9%94%E6%B2%BB36%E5%88%86%E7%AE%97%E5%9B%9E%E5%88%B0%E5%B7%85%E5%B3%B0%E5%90%97",
-      "hot_value": 281803
-    },
-    {
-      "title": "深度分析后会友期为什么动人",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%A8%E4%BA%BA",
-      "hot_value": 281539
-    },
-    {
-      "title": "8个AI大模型挑战造桥闯关赛",
-      "link": "https://search.bilibili.com/all?keyword=8%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8C%91%E6%88%98%E9%80%A0%E6%A1%A5%E9%97%AF%E5%85%B3%E8%B5%9B",
-      "hot_value": 281762
-    },
-    {
       "title": "papi酱热烈欢迎谢苗",
       "link": "https://search.bilibili.com/all?keyword=papi%E9%85%B1%E7%83%AD%E7%83%88%E6%AC%A2%E8%BF%8E%E8%B0%A2%E8%8B%97",
       "hot_value": 281688
-    },
-    {
-      "title": "LKS探秘亚洲第一商场",
-      "link": "https://search.bilibili.com/all?keyword=LKS%E6%8E%A2%E7%A7%98%E4%BA%9A%E6%B4%B2%E7%AC%AC%E4%B8%80%E5%95%86%E5%9C%BA",
-      "hot_value": 281683
-    },
-    {
-      "title": "狗尾草表情包是什么梗",
-      "link": "https://search.bilibili.com/all?keyword=%E7%8B%97%E5%B0%BE%E8%8D%89%E8%A1%A8%E6%83%85%E5%8C%85%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
-      "hot_value": 281802
-    },
-    {
-      "title": "致敬Faker 永不熄的传奇",
-      "link": "https://search.bilibili.com/all?keyword=%E8%87%B4%E6%95%ACFaker%20%E6%B0%B8%E4%B8%8D%E7%86%84%E7%9A%84%E4%BC%A0%E5%A5%87",
-      "hot_value": 281581
-    },
-    {
-      "title": "浪浪山小妖怪金鸡最佳动画片",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E6%B5%AA%E5%B1%B1%E5%B0%8F%E5%A6%96%E6%80%AA%E9%87%91%E9%B8%A1%E6%9C%80%E4%BD%B3%E5%8A%A8%E7%94%BB%E7%89%87",
-      "hot_value": 281633
-    },
-    {
-      "title": "BLG如何打乱T1节奏晋级决赛",
-      "link": "https://search.bilibili.com/all?keyword=BLG%E5%A6%82%E4%BD%95%E6%89%93%E4%B9%B1T1%E8%8A%82%E5%A5%8F%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B",
-      "hot_value": 281797
-    },
-    {
-      "title": "AI科幻电影 孤鲸",
-      "link": "https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1%20%E5%AD%A4%E9%B2%B8",
-      "hot_value": 281511
-    },
-    {
-      "title": "绯红女巫在幻视任务中被唤醒",
-      "link": "https://search.bilibili.com/all?keyword=%E7%BB%AF%E7%BA%A2%E5%A5%B3%E5%B7%AB%E5%9C%A8%E5%B9%BB%E8%A7%86%E4%BB%BB%E5%8A%A1%E4%B8%AD%E8%A2%AB%E5%94%A4%E9%86%92",
-      "hot_value": 281807
-    },
-    {
-      "title": "摸老师测评香水的神",
-      "link": "https://search.bilibili.com/all?keyword=%E6%91%B8%E8%80%81%E5%B8%88%E6%B5%8B%E8%AF%84%E9%A6%99%E6%B0%B4%E7%9A%84%E7%A5%9E",
-      "hot_value": 281738
-    },
-    {
-      "title": "星铁动画短片月下的欢快葬礼",
-      "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%8A%A8%E7%94%BB%E7%9F%AD%E7%89%87%E6%9C%88%E4%B8%8B%E7%9A%84%E6%AC%A2%E5%BF%AB%E8%91%AC%E7%A4%BC",
-      "hot_value": 281687
-    },
-    {
-      "title": "BLG为何能打破T1的不败神话",
-      "link": "https://search.bilibili.com/all?keyword=BLG%E4%B8%BA%E4%BD%95%E8%83%BD%E6%89%93%E7%A0%B4T1%E7%9A%84%E4%B8%8D%E8%B4%A5%E7%A5%9E%E8%AF%9D",
-      "hot_value": 281677
-    },
-    {
-      "title": "用AI制作灭霸全家福MV",
-      "link": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV",
-      "hot_value": 281700
-    },
-    {
-      "title": "根本没有这种车去川西",
-      "link": "https://search.bilibili.com/all?keyword=%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%BF%99%E7%A7%8D%E8%BD%A6%E5%8E%BB%E5%B7%9D%E8%A5%BF",
-      "hot_value": 281712
-    },
-    {
-      "title": "云南回暖 阴雨东移贵州广西",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97%E5%9B%9E%E6%9A%96%20%E9%98%B4%E9%9B%A8%E4%B8%9C%E7%A7%BB%E8%B4%B5%E5%B7%9E%E5%B9%BF%E8%A5%BF",
-      "hot_value": 281812
     },
     {
       "title": "海外滑板博主被追杀真相如何",
@@ -130,29 +90,69 @@
       "hot_value": 281796
     },
     {
+      "title": "根本没有这种车去川西",
+      "link": "https://search.bilibili.com/all?keyword=%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%BF%99%E7%A7%8D%E8%BD%A6%E5%8E%BB%E5%B7%9D%E8%A5%BF",
+      "hot_value": 281712
+    },
+    {
+      "title": "LKS探秘亚洲第一商场",
+      "link": "https://search.bilibili.com/all?keyword=LKS%E6%8E%A2%E7%A7%98%E4%BA%9A%E6%B4%B2%E7%AC%AC%E4%B8%80%E5%95%86%E5%9C%BA",
+      "hot_value": 281683
+    },
+    {
+      "title": "如何评价杰伦布朗情绪化打法",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E6%83%85%E7%BB%AA%E5%8C%96%E6%89%93%E6%B3%95",
+      "hot_value": 281806
+    },
+    {
       "title": "日本遭黑客爆破是怎么回事",
       "link": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E9%81%AD%E9%BB%91%E5%AE%A2%E7%88%86%E7%A0%B4%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B",
       "hot_value": 281783
     },
     {
-      "title": "许飞何炅合唱思念的距离",
-      "link": "https://search.bilibili.com/all?keyword=%E8%AE%B8%E9%A3%9E%E4%BD%95%E7%82%85%E5%90%88%E5%94%B1%E6%80%9D%E5%BF%B5%E7%9A%84%E8%B7%9D%E7%A6%BB",
-      "hot_value": 281729
+      "title": "欧美掀起抵制AI数据中心浪潮",
+      "link": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%BE%8E%E6%8E%80%E8%B5%B7%E6%8A%B5%E5%88%B6AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%B5%AA%E6%BD%AE",
+      "hot_value": 281801
     },
     {
-      "title": "木鱼水心深挖征服",
-      "link": "https://search.bilibili.com/all?keyword=%E6%9C%A8%E9%B1%BC%E6%B0%B4%E5%BF%83%E6%B7%B1%E6%8C%96%E5%BE%81%E6%9C%8D",
-      "hot_value": 281554
-    },
-    {
-      "title": "王力宏王心凌首次同台合唱爱你",
-      "link": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%8E%8B%E5%BF%83%E5%87%8C%E9%A6%96%E6%AC%A1%E5%90%8C%E5%8F%B0%E5%90%88%E5%94%B1%E7%88%B1%E4%BD%A0",
-      "hot_value": 281574
+      "title": "狗尾草表情包是什么梗",
+      "link": "https://search.bilibili.com/all?keyword=%E7%8B%97%E5%B0%BE%E8%8D%89%E8%A1%A8%E6%83%85%E5%8C%85%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
+      "hot_value": 281802
     },
     {
       "title": "跟着人生一串吃齐齐哈尔烤肉",
       "link": "https://search.bilibili.com/all?keyword=%E8%B7%9F%E7%9D%80%E4%BA%BA%E7%94%9F%E4%B8%80%E4%B8%B2%E5%90%83%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E7%83%A4%E8%82%89",
       "hot_value": 281745
+    },
+    {
+      "title": "Claude57页路演PPT解读",
+      "link": "https://search.bilibili.com/all?keyword=Claude57%E9%A1%B5%E8%B7%AF%E6%BC%94PPT%E8%A7%A3%E8%AF%BB",
+      "hot_value": 281810
+    },
+    {
+      "title": "AI离完全证明千禧难题还有多远",
+      "link": "https://search.bilibili.com/all?keyword=AI%E7%A6%BB%E5%AE%8C%E5%85%A8%E8%AF%81%E6%98%8E%E5%8D%83%E7%A6%A7%E9%9A%BE%E9%A2%98%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
+      "hot_value": 281813
+    },
+    {
+      "title": "塞尔达时之笛为何好评如潮",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A1%9E%E5%B0%94%E8%BE%BE%E6%97%B6%E4%B9%8B%E7%AC%9B%E4%B8%BA%E4%BD%95%E5%A5%BD%E8%AF%84%E5%A6%82%E6%BD%AE",
+      "hot_value": 281819
+    },
+    {
+      "title": "用AI制作灭霸全家福MV",
+      "link": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV",
+      "hot_value": 281700
+    },
+    {
+      "title": "绯红女巫在幻视任务中被唤醒",
+      "link": "https://search.bilibili.com/all?keyword=%E7%BB%AF%E7%BA%A2%E5%A5%B3%E5%B7%AB%E5%9C%A8%E5%B9%BB%E8%A7%86%E4%BB%BB%E5%8A%A1%E4%B8%AD%E8%A2%AB%E5%94%A4%E9%86%92",
+      "hot_value": 281807
+    },
+    {
+      "title": "星铁动画短片月下的欢快葬礼",
+      "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%8A%A8%E7%94%BB%E7%9F%AD%E7%89%87%E6%9C%88%E4%B8%8B%E7%9A%84%E6%AC%A2%E5%BF%AB%E8%91%AC%E7%A4%BC",
+      "hot_value": 281687
     }
   ]
 }
