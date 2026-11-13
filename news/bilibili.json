@@ -2,12 +2,12 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-14T00:45:23+08:00",
+  "updated_at": "2026-11-14T06:27:49+08:00",
   "data": [
     {
-      "title": "S16决赛预热宣传片",
-      "link": "https://search.bilibili.com/all?keyword=S16%E5%86%B3%E8%B5%9B%E9%A2%84%E7%83%AD%E5%AE%A3%E4%BC%A0%E7%89%87",
-      "hot_value": 282106
+      "title": "BLG针对Canyon就能赢GEN吗",
+      "link": "https://search.bilibili.com/all?keyword=BLG%E9%92%88%E5%AF%B9Canyon%E5%B0%B1%E8%83%BD%E8%B5%A2GEN%E5%90%97",
+      "hot_value": 282116
     },
     {
       "title": "俄乌17个月最大战役复盘",
@@ -25,9 +25,9 @@
       "hot_value": 282127
     },
     {
-      "title": "BLG针对Canyon就能赢GEN吗",
-      "link": "https://search.bilibili.com/all?keyword=BLG%E9%92%88%E5%AF%B9Canyon%E5%B0%B1%E8%83%BD%E8%B5%A2GEN%E5%90%97",
-      "hot_value": 282116
+      "title": "S16决赛预热宣传片",
+      "link": "https://search.bilibili.com/all?keyword=S16%E5%86%B3%E8%B5%9B%E9%A2%84%E7%83%AD%E5%AE%A3%E4%BC%A0%E7%89%87",
+      "hot_value": 282106
     },
     {
       "title": "UP主手搓非遗竹编盛笼",
@@ -35,49 +35,9 @@
       "hot_value": 282108
     },
     {
-      "title": "终末地有种杯S2",
-      "link": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E6%9C%89%E7%A7%8D%E6%9D%AFS2",
-      "hot_value": 282067
-    },
-    {
-      "title": "媒体大V为何中了摆拍套路",
-      "link": "https://search.bilibili.com/all?keyword=%E5%AA%92%E4%BD%93%E5%A4%A7V%E4%B8%BA%E4%BD%95%E4%B8%AD%E4%BA%86%E6%91%86%E6%8B%8D%E5%A5%97%E8%B7%AF",
-      "hot_value": 282119
-    },
-    {
       "title": "NBA新赛季表现不佳的球员",
       "link": "https://search.bilibili.com/all?keyword=NBA%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%A1%A8%E7%8E%B0%E4%B8%8D%E4%BD%B3%E7%9A%84%E7%90%83%E5%91%98",
       "hot_value": 282120
-    },
-    {
-      "title": "后会友期情感浓度为何这么高",
-      "link": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%83%85%E6%84%9F%E6%B5%93%E5%BA%A6%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E9%AB%98",
-      "hot_value": 282026
-    },
-    {
-      "title": "臣妾要线上告发熹贵妃",
-      "link": "https://search.bilibili.com/all?keyword=%E8%87%A3%E5%A6%BE%E8%A6%81%E7%BA%BF%E4%B8%8A%E5%91%8A%E5%8F%91%E7%86%B9%E8%B4%B5%E5%A6%83",
-      "hot_value": 281969
-    },
-    {
-      "title": "EDG官宣Chichoo离队",
-      "link": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Chichoo%E7%A6%BB%E9%98%9F",
-      "hot_value": 282096
-    },
-    {
-      "title": "S16总决赛冠军争夺前瞻",
-      "link": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B%E4%BA%89%E5%A4%BA%E5%89%8D%E7%9E%BB",
-      "hot_value": 282125
-    },
-    {
-      "title": "学前篇无限小黑重逢",
-      "link": "https://search.bilibili.com/all?keyword=%E5%AD%A6%E5%89%8D%E7%AF%87%E6%97%A0%E9%99%90%E5%B0%8F%E9%BB%91%E9%87%8D%E9%80%A2",
-      "hot_value": 282006
-    },
-    {
-      "title": "UP主回归原始手搓铁器",
-      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%9B%9E%E5%BD%92%E5%8E%9F%E5%A7%8B%E6%89%8B%E6%90%93%E9%93%81%E5%99%A8",
-      "hot_value": 281826
     },
     {
       "title": "十位选手对S赛决赛想说的话",
@@ -85,29 +45,19 @@
       "hot_value": 282130
     },
     {
-      "title": "EDG官宣nobody离队",
-      "link": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3nobody%E7%A6%BB%E9%98%9F",
-      "hot_value": 282097
+      "title": "复刻GTA的音乐电台",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E5%88%BBGTA%E7%9A%84%E9%9F%B3%E4%B9%90%E7%94%B5%E5%8F%B0",
+      "hot_value": 282078
     },
     {
-      "title": "代入GEN视角看S16总决赛",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%85%A5GEN%E8%A7%86%E8%A7%92%E7%9C%8BS16%E6%80%BB%E5%86%B3%E8%B5%9B",
-      "hot_value": 282060
+      "title": "后会友期情感浓度为何这么高",
+      "link": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%83%85%E6%84%9F%E6%B5%93%E5%BA%A6%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E9%AB%98",
+      "hot_value": 282026
     },
     {
-      "title": "明日方舟冻河数据测评",
-      "link": "https://search.bilibili.com/all?keyword=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%86%BB%E6%B2%B3%E6%95%B0%E6%8D%AE%E6%B5%8B%E8%AF%84",
-      "hot_value": 282123
-    },
-    {
-      "title": "1酱赛评S16决赛前瞻",
-      "link": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84S16%E5%86%B3%E8%B5%9B%E5%89%8D%E7%9E%BB",
-      "hot_value": 282115
-    },
-    {
-      "title": "蓝色星原旅谣公测预告PV",
-      "link": "https://search.bilibili.com/all?keyword=%E8%93%9D%E8%89%B2%E6%98%9F%E5%8E%9F%E6%97%85%E8%B0%A3%E5%85%AC%E6%B5%8B%E9%A2%84%E5%91%8APV",
-      "hot_value": 282077
+      "title": "学前篇无限小黑重逢",
+      "link": "https://search.bilibili.com/all?keyword=%E5%AD%A6%E5%89%8D%E7%AF%87%E6%97%A0%E9%99%90%E5%B0%8F%E9%BB%91%E9%87%8D%E9%80%A2",
+      "hot_value": 282006
     },
     {
       "title": "山新刘旸揭秘罗小黑幕后",
@@ -115,19 +65,44 @@
       "hot_value": 282025
     },
     {
+      "title": "龙飞教你如何戒掉恋爱脑",
+      "link": "https://search.bilibili.com/all?keyword=%E9%BE%99%E9%A3%9E%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E6%88%92%E6%8E%89%E6%81%8B%E7%88%B1%E8%84%91",
+      "hot_value": 282112
+    },
+    {
+      "title": "UP主回归原始手搓铁器",
+      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%9B%9E%E5%BD%92%E5%8E%9F%E5%A7%8B%E6%89%8B%E6%90%93%E9%93%81%E5%99%A8",
+      "hot_value": 281826
+    },
+    {
+      "title": "代入GEN视角看S16总决赛",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%85%A5GEN%E8%A7%86%E8%A7%92%E7%9C%8BS16%E6%80%BB%E5%86%B3%E8%B5%9B",
+      "hot_value": 282060
+    },
+    {
       "title": "UP主对话影之刃零制作人",
       "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AF%B9%E8%AF%9D%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%88%B6%E4%BD%9C%E4%BA%BA",
       "hot_value": 281985
     },
     {
-      "title": "央视农业辟谣蒜薹热门谣言",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E8%92%9C%E8%96%B9%E7%83%AD%E9%97%A8%E8%B0%A3%E8%A8%80",
-      "hot_value": 282033
+      "title": "明日方舟冻河数据测评",
+      "link": "https://search.bilibili.com/all?keyword=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%86%BB%E6%B2%B3%E6%95%B0%E6%8D%AE%E6%B5%8B%E8%AF%84",
+      "hot_value": 282123
     },
     {
-      "title": "星穹铁道最新EP无中生有",
-      "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E6%9C%80%E6%96%B0EP%E6%97%A0%E4%B8%AD%E7%94%9F%E6%9C%89",
-      "hot_value": 281861
+      "title": "臣妾要线上告发熹贵妃",
+      "link": "https://search.bilibili.com/all?keyword=%E8%87%A3%E5%A6%BE%E8%A6%81%E7%BA%BF%E4%B8%8A%E5%91%8A%E5%8F%91%E7%86%B9%E8%B4%B5%E5%A6%83",
+      "hot_value": 281969
+    },
+    {
+      "title": "原神过场动画岩与契约",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E5%B2%A9%E4%B8%8E%E5%A5%91%E7%BA%A6",
+      "hot_value": 281902
+    },
+    {
+      "title": "带10只机器狗去漫展",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B8%A610%E5%8F%AA%E6%9C%BA%E5%99%A8%E7%8B%97%E5%8E%BB%E6%BC%AB%E5%B1%95",
+      "hot_value": 282117
     },
     {
       "title": "iPhone销量为何能逆势领跑",
@@ -135,14 +110,14 @@
       "hot_value": 281983
     },
     {
-      "title": "GenG vs BLG决赛前瞻",
-      "link": "https://search.bilibili.com/all?keyword=GenG%20vs%20BLG%E5%86%B3%E8%B5%9B%E5%89%8D%E7%9E%BB",
-      "hot_value": 282056
+      "title": "原神过场动画雷与永恒",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E9%9B%B7%E4%B8%8E%E6%B0%B8%E6%81%92",
+      "hot_value": 282008
     },
     {
-      "title": "火影手游永夜扉间技能初爆料",
-      "link": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B8%E6%B0%B8%E5%A4%9C%E6%89%89%E9%97%B4%E6%8A%80%E8%83%BD%E5%88%9D%E7%88%86%E6%96%99",
-      "hot_value": 281992
+      "title": "蓝色星原旅谣公测预告PV",
+      "link": "https://search.bilibili.com/all?keyword=%E8%93%9D%E8%89%B2%E6%98%9F%E5%8E%9F%E6%97%85%E8%B0%A3%E5%85%AC%E6%B5%8B%E9%A2%84%E5%91%8APV",
+      "hot_value": 282077
     },
     {
       "title": "灰太狼红太狼版非凡之爱",
@@ -150,9 +125,34 @@
       "hot_value": 281980
     },
     {
-      "title": "刘晓艳 英语总监德穆兰",
-      "link": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%20%E8%8B%B1%E8%AF%AD%E6%80%BB%E7%9B%91%E5%BE%B7%E7%A9%86%E5%85%B0",
-      "hot_value": 281856
+      "title": "央视农业辟谣蒜薹热门谣言",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9C%E4%B8%9A%E8%BE%9F%E8%B0%A3%E8%92%9C%E8%96%B9%E7%83%AD%E9%97%A8%E8%B0%A3%E8%A8%80",
+      "hot_value": 282033
+    },
+    {
+      "title": "在MC里还原星铁阿哈",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E8%BF%98%E5%8E%9F%E6%98%9F%E9%93%81%E9%98%BF%E5%93%88",
+      "hot_value": 281946
+    },
+    {
+      "title": "星穹铁道最新EP无中生有",
+      "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E6%9C%80%E6%96%B0EP%E6%97%A0%E4%B8%AD%E7%94%9F%E6%9C%89",
+      "hot_value": 281861
+    },
+    {
+      "title": "Chovy联赛和S赛反差有多大",
+      "link": "https://search.bilibili.com/all?keyword=Chovy%E8%81%94%E8%B5%9B%E5%92%8CS%E8%B5%9B%E5%8F%8D%E5%B7%AE%E6%9C%89%E5%A4%9A%E5%A4%A7",
+      "hot_value": 282057
+    },
+    {
+      "title": "LOL教练揭秘S赛BP思路",
+      "link": "https://search.bilibili.com/all?keyword=LOL%E6%95%99%E7%BB%83%E6%8F%AD%E7%A7%98S%E8%B5%9BBP%E6%80%9D%E8%B7%AF",
+      "hot_value": 282009
+    },
+    {
+      "title": "1酱赛评S16决赛前瞻",
+      "link": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84S16%E5%86%B3%E8%B5%9B%E5%89%8D%E7%9E%BB",
+      "hot_value": 282115
     }
   ]
 }
