@@ -2,18 +2,8 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-11-13T09:24:23+08:00",
+  "updated_at": "2026-11-13T16:40:09+08:00",
   "data": [
-    {
-      "title": "详讯丨纪念孙中山先生诞辰160周年大会在京举行，习近平发表重要讲话",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34458812",
-      "hot_value": 0
-    },
-    {
-      "title": "证监会：汇聚各方合力，全力维护市场平稳运行",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34458880",
-      "hot_value": 0
-    },
     {
       "title": "重庆梁平：“饭店老板为连吃7碗米饭母女放钱”视频系摆拍，已立案调查",
       "link": "https://www.thepaper.cn/newsDetail_forward_34459574",
@@ -40,53 +30,8 @@
       "hot_value": 0
     },
     {
-      "title": "“甲醛白菜”案等18起涉食品安全重大犯罪案件被挂牌督办",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34459136",
-      "hot_value": 0
-    },
-    {
-      "title": "克雷斯就任英伟达临时首席执行官",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34463141",
-      "hot_value": 0
-    },
-    {
-      "title": "赵丽颖起诉红果和抖音，律师：关键是公众能不能认出这个AI人像赵丽颖",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34458622",
-      "hot_value": 0
-    },
-    {
       "title": "马上评｜明星起诉短剧“偷脸”，AI用脸的边界在哪？",
       "link": "https://www.thepaper.cn/newsDetail_forward_34459124",
-      "hot_value": 0
-    },
-    {
-      "title": "德芙旗舰店礼盒广告宣扬错误婚恋观，被罚80万元",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34458875",
-      "hot_value": 0
-    },
-    {
-      "title": "媒体：东莞卫健局介入“患者欠费扣医生钱”事件，责成立即停止",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34459166",
-      "hot_value": 0
-    },
-    {
-      "title": "罗大友被打假后仍以茶文化专业委员会主任身份出席活动，该机构介入调查",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34458811",
-      "hot_value": 0
-    },
-    {
-      "title": "马上评｜消费也不能入座，西西弗的咖啡太烧心",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34458847",
-      "hot_value": 0
-    },
-    {
-      "title": "视频丨罗大佑炮轰民进党当局执政乱象，呼吁台湾民众觉醒站出来",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34458965",
-      "hot_value": 0
-    },
-    {
-      "title": "美防长一行人在美国无名烈士墓前交谈大笑，哨兵高声训斥",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34458306",
       "hot_value": 0
     },
     {
@@ -95,13 +40,68 @@
       "hot_value": 0
     },
     {
-      "title": "孙中山的书单｜从孙中山藏书《新疆游记》看西北开发的先声",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34432393",
+      "title": "媒体：东莞卫健局介入“患者欠费扣医生钱”事件，责成立即停止",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34459166",
       "hot_value": 0
     },
     {
-      "title": "家长称女童遭老师用戒尺体罚全身多处青肿，仁怀市教育局：派出所已介入",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34455025",
+      "title": "专访｜刘家琨谈上海个展“明月构想”：一个喜欢文学的青年读了建筑专业",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34458466",
+      "hot_value": 0
+    },
+    {
+      "title": "地标是如何炼成的｜宽窄巷子里，他们的川剧表演曾让诺奖得主着迷",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34445056",
+      "hot_value": 0
+    },
+    {
+      "title": "在哈姆雷特和“霸总”之间：一位文学教授想为短剧辩护",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34459257",
+      "hot_value": 0
+    },
+    {
+      "title": "马上评｜通报不是“交差”，赢得认可要靠“交底”",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34023957",
+      "hot_value": 0
+    },
+    {
+      "title": "李雪健：“耳朵听不见，说话也不利索了……只要还能站在镜头前，我就还想再演”",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34466808",
+      "hot_value": 0
+    },
+    {
+      "title": "贵州贵定县“1988元可亲亲抱抱伴漂”被查处：罚款25万元，吊销营业执照",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34465522",
+      "hot_value": 0
+    },
+    {
+      "title": "大外交｜深圳APEC会议前夕，中美多领域沟通密集展开",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34460049",
+      "hot_value": 0
+    },
+    {
+      "title": "秦斌任北京市委常委、市纪委书记",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34459441",
+      "hot_value": 0
+    },
+    {
+      "title": "金价再度跌破3900美元",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34463586",
+      "hot_value": 0
+    },
+    {
+      "title": "现场观察｜当洪流退去，两支中尼科考队沿河谷寻找答案",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34460408",
+      "hot_value": 0
+    },
+    {
+      "title": "明查·聚焦｜你看到的外国人唱中文歌视频，可能是AI改编的",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34455547",
+      "hot_value": 0
+    },
+    {
+      "title": "2027年全国硕士研究生招生考试报名人数为347万",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34465787",
       "hot_value": 0
     }
   ]
