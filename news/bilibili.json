@@ -2,27 +2,12 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-15T00:03:22+08:00",
+  "updated_at": "2026-11-15T04:44:59+08:00",
   "data": [
     {
-      "title": "上B站为BLG加油",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%8AB%E7%AB%99%E4%B8%BABLG%E5%8A%A0%E6%B2%B9",
-      "hot_value": 282190
-    },
-    {
-      "title": "WB年总夺冠圆梦凤凰山",
-      "link": "https://search.bilibili.com/all?keyword=WB%E5%B9%B4%E6%80%BB%E5%A4%BA%E5%86%A0%E5%9C%86%E6%A2%A6%E5%87%A4%E5%87%B0%E5%B1%B1",
-      "hot_value": 282262
-    },
-    {
-      "title": "UP主赛前应援BLG",
-      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%B5%9B%E5%89%8D%E5%BA%94%E6%8F%B4BLG",
-      "hot_value": 282188
-    },
-    {
-      "title": "S16冠亚军决赛宣传片",
-      "link": "https://search.bilibili.com/all?keyword=S16%E5%86%A0%E4%BA%9A%E5%86%9B%E5%86%B3%E8%B5%9B%E5%AE%A3%E4%BC%A0%E7%89%87",
-      "hot_value": 282278
+      "title": "GEN BLG",
+      "link": "https://search.bilibili.com/all?keyword=GEN%20BLG",
+      "hot_value": 282287
     },
     {
       "title": "内存行业担忧产能过剩",
@@ -35,9 +20,9 @@
       "hot_value": 282285
     },
     {
-      "title": "北京WB战胜北京JDG赛后数据",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%ACWB%E6%88%98%E8%83%9C%E5%8C%97%E4%BA%ACJDG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-      "hot_value": 282269
+      "title": "DYS解说S16总决赛",
+      "link": "https://search.bilibili.com/all?keyword=DYS%E8%A7%A3%E8%AF%B4S16%E6%80%BB%E5%86%B3%E8%B5%9B",
+      "hot_value": 282288
     },
     {
       "title": "梓墨获2026KPL年总FMVP",
@@ -45,14 +30,14 @@
       "hot_value": 282263
     },
     {
-      "title": "王琳凯弹波西米亚狂想曲",
-      "link": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E7%90%B3%E5%87%AF%E5%BC%B9%E6%B3%A2%E8%A5%BF%E7%B1%B3%E4%BA%9A%E7%8B%82%E6%83%B3%E6%9B%B2",
-      "hot_value": 282279
+      "title": "日本3-2巴西",
+      "link": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC3-2%E5%B7%B4%E8%A5%BF",
+      "hot_value": 282251
     },
     {
-      "title": "BLG 决赛我们来了",
-      "link": "https://search.bilibili.com/all?keyword=BLG%20%E5%86%B3%E8%B5%9B%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86",
-      "hot_value": 282184
+      "title": "WB年总夺冠圆梦凤凰山",
+      "link": "https://search.bilibili.com/all?keyword=WB%E5%B9%B4%E6%80%BB%E5%A4%BA%E5%86%A0%E5%9C%86%E6%A2%A6%E5%87%A4%E5%87%B0%E5%B1%B1",
+      "hot_value": 282262
     },
     {
       "title": "大范围雨雪降温将至",
@@ -60,34 +45,34 @@
       "hot_value": 282252
     },
     {
-      "title": "管泽元问Bang哪个位置最关键",
-      "link": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E9%97%AEBang%E5%93%AA%E4%B8%AA%E4%BD%8D%E7%BD%AE%E6%9C%80%E5%85%B3%E9%94%AE",
-      "hot_value": 282250
+      "title": "基本医保目录新增107种药",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9F%BA%E6%9C%AC%E5%8C%BB%E4%BF%9D%E7%9B%AE%E5%BD%95%E6%96%B0%E5%A2%9E107%E7%A7%8D%E8%8D%AF",
+      "hot_value": 282245
     },
     {
-      "title": "终末地有种杯S2",
-      "link": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E6%9C%89%E7%A7%8D%E6%9D%AFS2",
-      "hot_value": 282068
+      "title": "北京WB战胜北京JDG赛后数据",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%ACWB%E6%88%98%E8%83%9C%E5%8C%97%E4%BA%ACJDG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+      "hot_value": 282269
     },
     {
-      "title": "S16总决赛对阵预热片",
-      "link": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E9%A2%84%E7%83%AD%E7%89%87",
-      "hot_value": 282172
+      "title": "2026六大Pro Max影像横评",
+      "link": "https://search.bilibili.com/all?keyword=2026%E5%85%AD%E5%A4%A7Pro%20Max%E5%BD%B1%E5%83%8F%E6%A8%AA%E8%AF%84",
+      "hot_value": 282230
+    },
+    {
+      "title": "韩国的事故救援体系有何问题",
+      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E7%9A%84%E4%BA%8B%E6%95%85%E6%95%91%E6%8F%B4%E4%BD%93%E7%B3%BB%E6%9C%89%E4%BD%95%E9%97%AE%E9%A2%98",
+      "hot_value": 282225
+    },
+    {
+      "title": "梓墨FMVP皮肤给到司空震",
+      "link": "https://search.bilibili.com/all?keyword=%E6%A2%93%E5%A2%A8FMVP%E7%9A%AE%E8%82%A4%E7%BB%99%E5%88%B0%E5%8F%B8%E7%A9%BA%E9%9C%87",
+      "hot_value": 282286
     },
     {
       "title": "灰太狼红太狼版非凡之爱",
       "link": "https://search.bilibili.com/all?keyword=%E7%81%B0%E5%A4%AA%E7%8B%BC%E7%BA%A2%E5%A4%AA%E7%8B%BC%E7%89%88%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1",
       "hot_value": 281980
-    },
-    {
-      "title": "S16冠亚军决赛预告",
-      "link": "https://search.bilibili.com/all?keyword=S16%E5%86%A0%E4%BA%9A%E5%86%9B%E5%86%B3%E8%B5%9B%E9%A2%84%E5%91%8A",
-      "hot_value": 282178
-    },
-    {
-      "title": "S16唤醒了谁的青春记忆",
-      "link": "https://search.bilibili.com/all?keyword=S16%E5%94%A4%E9%86%92%E4%BA%86%E8%B0%81%E7%9A%84%E9%9D%92%E6%98%A5%E8%AE%B0%E5%BF%86",
-      "hot_value": 282213
     },
     {
       "title": "韩立",
@@ -100,49 +85,14 @@
       "hot_value": 282149
     },
     {
-      "title": "三王公测定档CG",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E7%8E%8B%E5%85%AC%E6%B5%8B%E5%AE%9A%E6%A1%A3CG",
-      "hot_value": 282201
-    },
-    {
-      "title": "KPL年度总决赛TOP5",
-      "link": "https://search.bilibili.com/all?keyword=KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9BTOP5",
-      "hot_value": 282282
-    },
-    {
-      "title": "写在S赛舞台上的执念",
-      "link": "https://search.bilibili.com/all?keyword=%E5%86%99%E5%9C%A8S%E8%B5%9B%E8%88%9E%E5%8F%B0%E4%B8%8A%E7%9A%84%E6%89%A7%E5%BF%B5",
-      "hot_value": 282253
-    },
-    {
-      "title": "S16故事性拉满的名场面",
-      "link": "https://search.bilibili.com/all?keyword=S16%E6%95%85%E4%BA%8B%E6%80%A7%E6%8B%89%E6%BB%A1%E7%9A%84%E5%90%8D%E5%9C%BA%E9%9D%A2",
-      "hot_value": 282170
-    },
-    {
-      "title": "布隆迪的30年民族大逃杀",
-      "link": "https://search.bilibili.com/all?keyword=%E5%B8%83%E9%9A%86%E8%BF%AA%E7%9A%8430%E5%B9%B4%E6%B0%91%E6%97%8F%E5%A4%A7%E9%80%83%E6%9D%80",
-      "hot_value": 282143
-    },
-    {
       "title": "中老年病痛为何演变成烂梗",
       "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E8%80%81%E5%B9%B4%E7%97%85%E7%97%9B%E4%B8%BA%E4%BD%95%E6%BC%94%E5%8F%98%E6%88%90%E7%83%82%E6%A2%97",
       "hot_value": 282152
     },
     {
-      "title": "于东来不回避胖东来洗发水争议",
-      "link": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E4%B8%8D%E5%9B%9E%E9%81%BF%E8%83%96%E4%B8%9C%E6%9D%A5%E6%B4%97%E5%8F%91%E6%B0%B4%E4%BA%89%E8%AE%AE",
-      "hot_value": 282283
-    },
-    {
-      "title": "宋老虎国道设宴招待刘华强",
-      "link": "https://search.bilibili.com/all?keyword=%E5%AE%8B%E8%80%81%E8%99%8E%E5%9B%BD%E9%81%93%E8%AE%BE%E5%AE%B4%E6%8B%9B%E5%BE%85%E5%88%98%E5%8D%8E%E5%BC%BA",
-      "hot_value": 282207
-    },
-    {
-      "title": "国际秩序转变下的东亚现状",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E7%A7%A9%E5%BA%8F%E8%BD%AC%E5%8F%98%E4%B8%8B%E7%9A%84%E4%B8%9C%E4%BA%9A%E7%8E%B0%E7%8A%B6",
-      "hot_value": 282136
+      "title": "三王公测定档CG",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E7%8E%8B%E5%85%AC%E6%B5%8B%E5%AE%9A%E6%A1%A3CG",
+      "hot_value": 282201
     },
     {
       "title": "火影手游尾兽化金角实战",
@@ -150,9 +100,59 @@
       "hot_value": 282248
     },
     {
-      "title": "猎鹰主动回溯仍遭淘汰",
-      "link": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E4%B8%BB%E5%8A%A8%E5%9B%9E%E6%BA%AF%E4%BB%8D%E9%81%AD%E6%B7%98%E6%B1%B0",
-      "hot_value": 282280
+      "title": "直板机换到折叠机的得与失",
+      "link": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E6%9D%BF%E6%9C%BA%E6%8D%A2%E5%88%B0%E6%8A%98%E5%8F%A0%E6%9C%BA%E7%9A%84%E5%BE%97%E4%B8%8E%E5%A4%B1",
+      "hot_value": 282107
+    },
+    {
+      "title": "宋老虎国道设宴招待刘华强",
+      "link": "https://search.bilibili.com/all?keyword=%E5%AE%8B%E8%80%81%E8%99%8E%E5%9B%BD%E9%81%93%E8%AE%BE%E5%AE%B4%E6%8B%9B%E5%BE%85%E5%88%98%E5%8D%8E%E5%BC%BA",
+      "hot_value": 282207
+    },
+    {
+      "title": "青稚白小纯暴言开火有何背景",
+      "link": "https://search.bilibili.com/all?keyword=%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%9A%B4%E8%A8%80%E5%BC%80%E7%81%AB%E6%9C%89%E4%BD%95%E8%83%8C%E6%99%AF",
+      "hot_value": 282137
+    },
+    {
+      "title": "布隆迪的30年民族大逃杀",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B8%83%E9%9A%86%E8%BF%AA%E7%9A%8430%E5%B9%B4%E6%B0%91%E6%97%8F%E5%A4%A7%E9%80%83%E6%9D%80",
+      "hot_value": 282143
+    },
+    {
+      "title": "国际秩序转变下的东亚现状",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E7%A7%A9%E5%BA%8F%E8%BD%AC%E5%8F%98%E4%B8%8B%E7%9A%84%E4%B8%9C%E4%BA%9A%E7%8E%B0%E7%8A%B6",
+      "hot_value": 282136
+    },
+    {
+      "title": "臣妾要线上告发熹贵妃",
+      "link": "https://search.bilibili.com/all?keyword=%E8%87%A3%E5%A6%BE%E8%A6%81%E7%BA%BF%E4%B8%8A%E5%91%8A%E5%8F%91%E7%86%B9%E8%B4%B5%E5%A6%83",
+      "hot_value": 281969
+    },
+    {
+      "title": "国足2-0马来西亚",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B32-0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A",
+      "hot_value": 282257
+    },
+    {
+      "title": "非凡之爱但是单身嘉豪",
+      "link": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E4%BD%86%E6%98%AF%E5%8D%95%E8%BA%AB%E5%98%89%E8%B1%AA",
+      "hot_value": 282156
+    },
+    {
+      "title": "鸣潮剧情动画",
+      "link": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%89%A7%E6%83%85%E5%8A%A8%E7%94%BB",
+      "hot_value": 282159
+    },
+    {
+      "title": "UP主手搓非遗竹编盛笼",
+      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93%E9%9D%9E%E9%81%97%E7%AB%B9%E7%BC%96%E7%9B%9B%E7%AC%BC",
+      "hot_value": 282108
+    },
+    {
+      "title": "Anthropic能撑起高估值吗",
+      "link": "https://search.bilibili.com/all?keyword=Anthropic%E8%83%BD%E6%92%91%E8%B5%B7%E9%AB%98%E4%BC%B0%E5%80%BC%E5%90%97",
+      "hot_value": 282243
     }
   ]
 }
