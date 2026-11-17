@@ -2,7 +2,7 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-17T00:54:46+08:00",
+  "updated_at": "2026-11-17T08:42:53+08:00",
   "data": [
     {
       "title": "外交部谈中俄美元首会晤",
@@ -15,9 +15,9 @@
       "hot_value": 282535
     },
     {
-      "title": "考研区年更UP主大牙考研上线了",
-      "link": "https://search.bilibili.com/all?keyword=%E8%80%83%E7%A0%94%E5%8C%BA%E5%B9%B4%E6%9B%B4UP%E4%B8%BB%E5%A4%A7%E7%89%99%E8%80%83%E7%A0%94%E4%B8%8A%E7%BA%BF%E4%BA%86",
-      "hot_value": 282587
+      "title": "印尼驻华大使用中文歌祝福APEC",
+      "link": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%B0%BC%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E6%AD%8C%E7%A5%9D%E7%A6%8FAPEC",
+      "hot_value": 282629
     },
     {
       "title": "食贫道闯关东吃饭故事上新",
@@ -25,9 +25,9 @@
       "hot_value": 282598
     },
     {
-      "title": "现场第一视角看BLG夺冠",
-      "link": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E5%9C%BA%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E7%9C%8BBLG%E5%A4%BA%E5%86%A0",
-      "hot_value": 282615
+      "title": "考研区年更UP主大牙考研上线了",
+      "link": "https://search.bilibili.com/all?keyword=%E8%80%83%E7%A0%94%E5%8C%BA%E5%B9%B4%E6%9B%B4UP%E4%B8%BB%E5%A4%A7%E7%89%99%E8%80%83%E7%A0%94%E4%B8%8A%E7%BA%BF%E4%BA%86",
+      "hot_value": 282587
     },
     {
       "title": "韩网单曲 Chovy的根号4",
@@ -40,19 +40,34 @@
       "hot_value": 282619
     },
     {
-      "title": "第一视角看Bin格温",
-      "link": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E7%9C%8BBin%E6%A0%BC%E6%B8%A9",
-      "hot_value": 282626
+      "title": "复联全家福vs灭霸全家福",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E8%81%94%E5%85%A8%E5%AE%B6%E7%A6%8Fvs%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8F",
+      "hot_value": 282545
     },
     {
-      "title": "内存反垄断诉讼法院拒绝撤案",
-      "link": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E5%8F%8D%E5%9E%84%E6%96%AD%E8%AF%89%E8%AE%BC%E6%B3%95%E9%99%A2%E6%8B%92%E7%BB%9D%E6%92%A4%E6%A1%88",
-      "hot_value": 282627
+      "title": "杨瀚森两双后为何又遭弃用",
+      "link": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E4%B8%A4%E5%8F%8C%E5%90%8E%E4%B8%BA%E4%BD%95%E5%8F%88%E9%81%AD%E5%BC%83%E7%94%A8",
+      "hot_value": 282576
     },
     {
       "title": "LOL玩家看BLG逐梦5年夺冠",
       "link": "https://search.bilibili.com/all?keyword=LOL%E7%8E%A9%E5%AE%B6%E7%9C%8BBLG%E9%80%90%E6%A2%A65%E5%B9%B4%E5%A4%BA%E5%86%A0",
       "hot_value": 282616
+    },
+    {
+      "title": "英雄联盟曙光预告有哪些细节",
+      "link": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%9B%99%E5%85%89%E9%A2%84%E5%91%8A%E6%9C%89%E5%93%AA%E4%BA%9B%E7%BB%86%E8%8A%82",
+      "hot_value": 282631
+    },
+    {
+      "title": "米勒给今年的S赛打100分",
+      "link": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E7%BB%99%E4%BB%8A%E5%B9%B4%E7%9A%84S%E8%B5%9B%E6%89%93100%E5%88%86",
+      "hot_value": 282413
+    },
+    {
+      "title": "现场第一视角看BLG夺冠",
+      "link": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E5%9C%BA%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E7%9C%8BBLG%E5%A4%BA%E5%86%A0",
+      "hot_value": 282615
     },
     {
       "title": "Viper赛后感谢妈妈和On",
@@ -65,9 +80,9 @@
       "hot_value": 282416
     },
     {
-      "title": "米勒给今年的S赛打100分",
-      "link": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E7%BB%99%E4%BB%8A%E5%B9%B4%E7%9A%84S%E8%B5%9B%E6%89%93100%E5%88%86",
-      "hot_value": 282413
+      "title": "非凡之爱演绎经典漫画父与子",
+      "link": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E6%BC%94%E7%BB%8E%E7%BB%8F%E5%85%B8%E6%BC%AB%E7%94%BB%E7%88%B6%E4%B8%8E%E5%AD%90",
+      "hot_value": 282493
     },
     {
       "title": "根本没有这样的长尾夹",
@@ -80,29 +95,14 @@
       "hot_value": 282375
     },
     {
-      "title": "复联全家福vs灭霸全家福",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E8%81%94%E5%85%A8%E5%AE%B6%E7%A6%8Fvs%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8F",
-      "hot_value": 282545
+      "title": "国产模型为何在海外悄然走红",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%9C%A8%E6%B5%B7%E5%A4%96%E6%82%84%E7%84%B6%E8%B5%B0%E7%BA%A2",
+      "hot_value": 282537
     },
     {
-      "title": "TXT新歌MV",
-      "link": "https://search.bilibili.com/all?keyword=TXT%E6%96%B0%E6%AD%8CMV",
-      "hot_value": 282567
-    },
-    {
-      "title": "非凡之爱演绎经典漫画父与子",
-      "link": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E6%BC%94%E7%BB%8E%E7%BB%8F%E5%85%B8%E6%BC%AB%E7%94%BB%E7%88%B6%E4%B8%8E%E5%AD%90",
-      "hot_value": 282493
-    },
-    {
-      "title": "BLG 此刻故事由我们执笔",
-      "link": "https://search.bilibili.com/all?keyword=BLG%20%E6%AD%A4%E5%88%BB%E6%95%85%E4%BA%8B%E7%94%B1%E6%88%91%E4%BB%AC%E6%89%A7%E7%AC%94",
-      "hot_value": 282618
-    },
-    {
-      "title": "小鹿探秘GTA6罪恶之都取景地",
-      "link": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E9%B9%BF%E6%8E%A2%E7%A7%98GTA6%E7%BD%AA%E6%81%B6%E4%B9%8B%E9%83%BD%E5%8F%96%E6%99%AF%E5%9C%B0",
-      "hot_value": 282566
+      "title": "星舰飞船首现筷子回收",
+      "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E8%88%B0%E9%A3%9E%E8%88%B9%E9%A6%96%E7%8E%B0%E7%AD%B7%E5%AD%90%E5%9B%9E%E6%94%B6",
+      "hot_value": 282378
     },
     {
       "title": "BLG夺冠UP主开启抽奖团建",
@@ -115,29 +115,19 @@
       "hot_value": 282536
     },
     {
-      "title": "Bin贾克斯冠军皮肤为何呼声最高",
-      "link": "https://search.bilibili.com/all?keyword=Bin%E8%B4%BE%E5%85%8B%E6%96%AF%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E4%B8%BA%E4%BD%95%E5%91%BC%E5%A3%B0%E6%9C%80%E9%AB%98",
-      "hot_value": 282406
+      "title": "用Vibe知识拆解人类为何爱上碳水",
+      "link": "https://search.bilibili.com/all?keyword=%E7%94%A8Vibe%E7%9F%A5%E8%AF%86%E6%8B%86%E8%A7%A3%E4%BA%BA%E7%B1%BB%E4%B8%BA%E4%BD%95%E7%88%B1%E4%B8%8A%E7%A2%B3%E6%B0%B4",
+      "hot_value": 282577
     },
     {
-      "title": "Knight说和IG打训练赛最多",
-      "link": "https://search.bilibili.com/all?keyword=Knight%E8%AF%B4%E5%92%8CIG%E6%89%93%E8%AE%AD%E7%BB%83%E8%B5%9B%E6%9C%80%E5%A4%9A",
-      "hot_value": 282596
+      "title": "拉宏桑在路上修好了炫粉凤凰",
+      "link": "https://search.bilibili.com/all?keyword=%E6%8B%89%E5%AE%8F%E6%A1%91%E5%9C%A8%E8%B7%AF%E4%B8%8A%E4%BF%AE%E5%A5%BD%E4%BA%86%E7%82%AB%E7%B2%89%E5%87%A4%E5%87%B0",
+      "hot_value": 282574
     },
     {
-      "title": "谭乔二仙桥大爷单曲",
-      "link": "https://search.bilibili.com/all?keyword=%E8%B0%AD%E4%B9%94%E4%BA%8C%E4%BB%99%E6%A1%A5%E5%A4%A7%E7%88%B7%E5%8D%95%E6%9B%B2",
-      "hot_value": 282620
-    },
-    {
-      "title": "BLG夺冠赞歌 仰望星空",
-      "link": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E6%AD%8C%20%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA",
-      "hot_value": 282308
-    },
-    {
-      "title": "2万字逐局复盘BLG战胜GEN",
-      "link": "https://search.bilibili.com/all?keyword=2%E4%B8%87%E5%AD%97%E9%80%90%E5%B1%80%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CGEN",
-      "hot_value": 282534
+      "title": "欧洲多国为何开始军演造势",
+      "link": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E5%86%9B%E6%BC%94%E9%80%A0%E5%8A%BF",
+      "hot_value": 282371
     },
     {
       "title": "Knight 告诉我谁是世界第一中单",
@@ -145,9 +135,19 @@
       "hot_value": 282455
     },
     {
-      "title": "欧洲多国为何开始军演造势",
-      "link": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E5%86%9B%E6%BC%94%E9%80%A0%E5%8A%BF",
-      "hot_value": 282371
+      "title": "对比影版和原著哈利战力差距",
+      "link": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E6%AF%94%E5%BD%B1%E7%89%88%E5%92%8C%E5%8E%9F%E8%91%97%E5%93%88%E5%88%A9%E6%88%98%E5%8A%9B%E5%B7%AE%E8%B7%9D",
+      "hot_value": 282599
+    },
+    {
+      "title": "BLG夺冠单曲 十年人间",
+      "link": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%8D%95%E6%9B%B2%20%E5%8D%81%E5%B9%B4%E4%BA%BA%E9%97%B4",
+      "hot_value": 282318
+    },
+    {
+      "title": "Knight说和IG打训练赛最多",
+      "link": "https://search.bilibili.com/all?keyword=Knight%E8%AF%B4%E5%92%8CIG%E6%89%93%E8%AE%AD%E7%BB%83%E8%B5%9B%E6%9C%80%E5%A4%9A",
+      "hot_value": 282596
     },
     {
       "title": "黄龄恭喜BLG夺冠",

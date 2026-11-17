@@ -2,7 +2,7 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-11-17T00:54:48+08:00",
+  "updated_at": "2026-11-17T08:42:56+08:00",
   "data": [
     {
       "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
@@ -10,8 +10,8 @@
       "hot_value": 0
     },
     {
-      "title": "国家统计局：10月份一线城市商品房价环比上涨，二三线城市环比下降",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34488425",
+      "title": "习近平在广东中山考察",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34490277",
       "hot_value": 0
     },
     {
@@ -20,8 +20,13 @@
       "hot_value": 0
     },
     {
-      "title": "地标是如何炼成的｜橘子洲头：一座“年轻”雕塑的生命力",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34451732",
+      "title": "马上评｜“方桃子”被罚，再次给AI商业化划出边界",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34490388",
+      "hot_value": 0
+    },
+    {
+      "title": "华为“天才少年”何馥君加盟西南交通大学，担任教授、博导",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34490402",
       "hot_value": 0
     },
     {
@@ -30,28 +35,18 @@
       "hot_value": 0
     },
     {
-      "title": "河北滦南通报“800万建污水处理厂4年未启用”：开展全面核查",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34489676",
-      "hot_value": 0
-    },
-    {
       "title": "山东13岁少年被控杀害5岁邻居案将开庭：最高检核准追诉，被害人父亲望顶格判处",
       "link": "https://www.thepaper.cn/newsDetail_forward_34490040",
       "hot_value": 0
     },
     {
-      "title": "媒体：“打包丢脸”被扣4分，孩子真话不该只换一个红叉",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34487337",
+      "title": "中俄美三国元首将在深圳会晤，外交部：历史首次面对面会晤，有开创性意义",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34489919",
       "hot_value": 0
     },
     {
-      "title": "人民日报来信调查：河北滦南县800多万建污水处理厂，为何4年未启用",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34487948",
-      "hot_value": 0
-    },
-    {
-      "title": "人民锐评：停车计费做“减法”，城市治理做“加法”",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34487284",
+      "title": "河北滦南通报“800万建污水处理厂4年未启用”：开展全面核查",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34489676",
       "hot_value": 0
     },
     {
@@ -65,23 +60,18 @@
       "hot_value": 0
     },
     {
-      "title": "一图世界｜APEC离我们生活有多近？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34486278",
-      "hot_value": 0
-    },
-    {
       "title": "APEC落子深圳，不可替代：一座创出来的城市，更懂亚太多元经济体",
       "link": "https://www.thepaper.cn/newsDetail_forward_34459284",
       "hot_value": 0
     },
     {
-      "title": "马上评丨球迷拉侮辱性横幅，伤害了足球也伤害了湘超",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34490021",
+      "title": "美国全国停飞后各方“甩锅”：特朗普政府指责前任，民主党人嘲讽钱用在了凯旋门",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34488749",
       "hot_value": 0
     },
     {
-      "title": "美国全国停飞后各方“甩锅”：特朗普政府指责前任，民主党人嘲讽钱用在了凯旋门",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34488749",
+      "title": "马上评丨球迷拉侮辱性横幅，伤害了足球也伤害了湘超",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34490021",
       "hot_value": 0
     },
     {
@@ -95,13 +85,23 @@
       "hot_value": 0
     },
     {
-      "title": "中俄美三国元首将在深圳会晤，外交部：有开创性意义 ",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34490067",
+      "title": "APEC每日观察｜忙碌与从容之间，深圳静待历史时刻",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34490260",
       "hot_value": 0
     },
     {
-      "title": "全球前瞻｜APEC会议周启幕，中国时隔12年再次担任APEC东道主",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34488052",
+      "title": "国家统计局：10月份一线城市商品房价环比上涨，二三线城市环比下降",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34488425",
+      "hot_value": 0
+    },
+    {
+      "title": "年内回撤30%！现货黄金价格创逾一年新低，为何跌跌不休？",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34490446",
+      "hot_value": 0
+    },
+    {
+      "title": "分析｜怎么看10月消费、投资数据有所波动？",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34490327",
       "hot_value": 0
     }
   ]
