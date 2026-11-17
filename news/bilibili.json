@@ -2,12 +2,17 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-17T16:33:32+08:00",
+  "updated_at": "2026-11-18T01:54:50+08:00",
   "data": [
     {
-      "title": "习近平同外国领导人举行双边会晤",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%A4%96%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B8%BE%E8%A1%8C%E5%8F%8C%E8%BE%B9%E4%BC%9A%E6%99%A4",
-      "hot_value": 282687
+      "title": "俄罗斯总统普京将抵达深圳",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC%E5%B0%86%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
+      "hot_value": 282748
+    },
+    {
+      "title": "在APEC感受跨越山海的情谊",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9C%A8APEC%E6%84%9F%E5%8F%97%E8%B7%A8%E8%B6%8A%E5%B1%B1%E6%B5%B7%E7%9A%84%E6%83%85%E8%B0%8A",
+      "hot_value": 282740
     },
     {
       "title": "外交部谈中俄美元首会晤",
@@ -15,24 +20,44 @@
       "hot_value": 282561
     },
     {
-      "title": "多国元首相聚APEC",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9B%BD%E5%85%83%E9%A6%96%E7%9B%B8%E8%81%9AAPEC",
-      "hot_value": 282684
+      "title": "BLG夺冠赛事语音",
+      "link": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3",
+      "hot_value": 282741
     },
     {
-      "title": "第一视角看Bin冠军格温有多强",
-      "link": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E7%9C%8BBin%E5%86%A0%E5%86%9B%E6%A0%BC%E6%B8%A9%E6%9C%89%E5%A4%9A%E5%BC%BA",
-      "hot_value": 282683
+      "title": "我的S16预测成绩单",
+      "link": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84S16%E9%A2%84%E6%B5%8B%E6%88%90%E7%BB%A9%E5%8D%95",
+      "hot_value": 282736
     },
     {
-      "title": "C罗国家队十大进球",
-      "link": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%8D%81%E5%A4%A7%E8%BF%9B%E7%90%83",
-      "hot_value": 282663
+      "title": "7天大会员怎么看不浪费",
+      "link": "https://search.bilibili.com/all?keyword=7%E5%A4%A9%E5%A4%A7%E4%BC%9A%E5%91%98%E6%80%8E%E4%B9%88%E7%9C%8B%E4%B8%8D%E6%B5%AA%E8%B4%B9",
+      "hot_value": 282734
     },
     {
-      "title": "BLG破三路为何还打到53分钟",
-      "link": "https://search.bilibili.com/all?keyword=BLG%E7%A0%B4%E4%B8%89%E8%B7%AF%E4%B8%BA%E4%BD%95%E8%BF%98%E6%89%93%E5%88%B053%E5%88%86%E9%92%9F",
-      "hot_value": 282630
+      "title": "解说逐局回看BLG夺冠之路",
+      "link": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E9%80%90%E5%B1%80%E5%9B%9E%E7%9C%8BBLG%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF",
+      "hot_value": 282711
+    },
+    {
+      "title": "3分钟看懂APEC与你我的关系",
+      "link": "https://search.bilibili.com/all?keyword=3%E5%88%86%E9%92%9F%E7%9C%8B%E6%87%82APEC%E4%B8%8E%E4%BD%A0%E6%88%91%E7%9A%84%E5%85%B3%E7%B3%BB",
+      "hot_value": 282695
+    },
+    {
+      "title": "白小纯青稚各有哪些痛点",
+      "link": "https://search.bilibili.com/all?keyword=%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9A%E5%90%84%E6%9C%89%E5%93%AA%E4%BA%9B%E7%97%9B%E7%82%B9",
+      "hot_value": 282746
+    },
+    {
+      "title": "国足2-2巴林",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B32-2%E5%B7%B4%E6%9E%97",
+      "hot_value": 282743
+    },
+    {
+      "title": "算了嘛警官盛嘉成版",
+      "link": "https://search.bilibili.com/all?keyword=%E7%AE%97%E4%BA%86%E5%98%9B%E8%AD%A6%E5%AE%98%E7%9B%9B%E5%98%89%E6%88%90%E7%89%88",
+      "hot_value": 282723
     },
     {
       "title": "电影挽救计划为何口碑票房双爆",
@@ -40,14 +65,9 @@
       "hot_value": 282641
     },
     {
-      "title": "新任007为何是帕丁森",
-      "link": "https://search.bilibili.com/all?keyword=%E6%96%B0%E4%BB%BB007%E4%B8%BA%E4%BD%95%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE",
-      "hot_value": 282664
-    },
-    {
-      "title": "鹅城Dangerous",
-      "link": "https://search.bilibili.com/all?keyword=%E9%B9%85%E5%9F%8EDangerous",
-      "hot_value": 282625
+      "title": "别人看骑行我在吴磊小课堂听课",
+      "link": "https://search.bilibili.com/all?keyword=%E5%88%AB%E4%BA%BA%E7%9C%8B%E9%AA%91%E8%A1%8C%E6%88%91%E5%9C%A8%E5%90%B4%E7%A3%8A%E5%B0%8F%E8%AF%BE%E5%A0%82%E5%90%AC%E8%AF%BE",
+      "hot_value": 282661
     },
     {
       "title": "老吃家才能懂的猪刨花拌面",
@@ -55,34 +75,9 @@
       "hot_value": 282680
     },
     {
-      "title": "BLG 此刻故事由我们执笔",
-      "link": "https://search.bilibili.com/all?keyword=BLG%20%E6%AD%A4%E5%88%BB%E6%95%85%E4%BA%8B%E7%94%B1%E6%88%91%E4%BB%AC%E6%89%A7%E7%AC%94",
-      "hot_value": 282618
-    },
-    {
-      "title": "Bin冠军皮肤格温票数反超武器",
-      "link": "https://search.bilibili.com/all?keyword=Bin%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E6%A0%BC%E6%B8%A9%E7%A5%A8%E6%95%B0%E5%8F%8D%E8%B6%85%E6%AD%A6%E5%99%A8",
-      "hot_value": 282654
-    },
-    {
-      "title": "GEN官宣Canyon与Kiin离队",
-      "link": "https://search.bilibili.com/all?keyword=GEN%E5%AE%98%E5%AE%A3Canyon%E4%B8%8EKiin%E7%A6%BB%E9%98%9F",
-      "hot_value": 282637
-    },
-    {
-      "title": "后会友期真人秀剧本边界在哪",
-      "link": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%9C%9F%E4%BA%BA%E7%A7%80%E5%89%A7%E6%9C%AC%E8%BE%B9%E7%95%8C%E5%9C%A8%E5%93%AA",
-      "hot_value": 282658
-    },
-    {
-      "title": "LOL退役冠军签约经纪公司",
-      "link": "https://search.bilibili.com/all?keyword=LOL%E9%80%80%E5%BD%B9%E5%86%A0%E5%86%9B%E7%AD%BE%E7%BA%A6%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8",
-      "hot_value": 282672
-    },
-    {
-      "title": "后会友期单人间争议",
-      "link": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%8D%95%E4%BA%BA%E9%97%B4%E4%BA%89%E8%AE%AE",
-      "hot_value": 282691
+      "title": "天下足球回顾C罗国家队生涯",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83%E5%9B%9E%E9%A1%BEC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
+      "hot_value": 282589
     },
     {
       "title": "非凡之爱演绎经典漫画父与子",
@@ -90,29 +85,9 @@
       "hot_value": 282493
     },
     {
-      "title": "李飞飞正式加入AMD",
-      "link": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E9%A3%9E%E9%A3%9E%E6%AD%A3%E5%BC%8F%E5%8A%A0%E5%85%A5AMD",
-      "hot_value": 282638
-    },
-    {
-      "title": "食贫道闯关东吃饭故事上新",
-      "link": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E9%97%AF%E5%85%B3%E4%B8%9C%E5%90%83%E9%A5%AD%E6%95%85%E4%BA%8B%E4%B8%8A%E6%96%B0",
-      "hot_value": 282598
-    },
-    {
-      "title": "天下足球回顾C罗国家队生涯",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83%E5%9B%9E%E9%A1%BEC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
-      "hot_value": 282589
-    },
-    {
-      "title": "Xun 篮球练习时长一小时",
-      "link": "https://search.bilibili.com/all?keyword=Xun%20%E7%AF%AE%E7%90%83%E7%BB%83%E4%B9%A0%E6%97%B6%E9%95%BF%E4%B8%80%E5%B0%8F%E6%97%B6",
-      "hot_value": 282649
-    },
-    {
-      "title": "BLG决赛语音 我们是冠军",
-      "link": "https://search.bilibili.com/all?keyword=BLG%E5%86%B3%E8%B5%9B%E8%AF%AD%E9%9F%B3%20%E6%88%91%E4%BB%AC%E6%98%AF%E5%86%A0%E5%86%9B",
-      "hot_value": 282667
+      "title": "后会友期 谁在按剧本演戏",
+      "link": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%20%E8%B0%81%E5%9C%A8%E6%8C%89%E5%89%A7%E6%9C%AC%E6%BC%94%E6%88%8F",
+      "hot_value": 282701
     },
     {
       "title": "根本没有这样的长尾夹",
@@ -120,34 +95,59 @@
       "hot_value": 282513
     },
     {
-      "title": "考研区年更UP主大牙考研上线了",
-      "link": "https://search.bilibili.com/all?keyword=%E8%80%83%E7%A0%94%E5%8C%BA%E5%B9%B4%E6%9B%B4UP%E4%B8%BB%E5%A4%A7%E7%89%99%E8%80%83%E7%A0%94%E4%B8%8A%E7%BA%BF%E4%BA%86",
-      "hot_value": 282587
+      "title": "Bin冠军皮肤格温票数反超武器",
+      "link": "https://search.bilibili.com/all?keyword=Bin%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E6%A0%BC%E6%B8%A9%E7%A5%A8%E6%95%B0%E5%8F%8D%E8%B6%85%E6%AD%A6%E5%99%A8",
+      "hot_value": 282654
     },
     {
-      "title": "杨瀚森连送3次助攻",
-      "link": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E8%BF%9E%E9%80%813%E6%AC%A1%E5%8A%A9%E6%94%BB",
-      "hot_value": 282657
+      "title": "第一视角看Bin冠军格温有多强",
+      "link": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E7%9C%8BBin%E5%86%A0%E5%86%9B%E6%A0%BC%E6%B8%A9%E6%9C%89%E5%A4%9A%E5%BC%BA",
+      "hot_value": 282683
     },
     {
-      "title": "别人看骑行我在吴磊小课堂听课",
-      "link": "https://search.bilibili.com/all?keyword=%E5%88%AB%E4%BA%BA%E7%9C%8B%E9%AA%91%E8%A1%8C%E6%88%91%E5%9C%A8%E5%90%B4%E7%A3%8A%E5%B0%8F%E8%AF%BE%E5%A0%82%E5%90%AC%E8%AF%BE",
-      "hot_value": 282661
+      "title": "中国玩家破纪录速通泰拉瑞亚",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%8E%A9%E5%AE%B6%E7%A0%B4%E7%BA%AA%E5%BD%95%E9%80%9F%E9%80%9A%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A",
+      "hot_value": 282729
     },
     {
-      "title": "第一视角看Bin格温",
-      "link": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E7%9C%8BBin%E6%A0%BC%E6%B8%A9",
-      "hot_value": 282626
+      "title": "小鹿探秘GTA6罪恶之都取景地",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E9%B9%BF%E6%8E%A2%E7%A7%98GTA6%E7%BD%AA%E6%81%B6%E4%B9%8B%E9%83%BD%E5%8F%96%E6%99%AF%E5%9C%B0",
+      "hot_value": 282566
     },
     {
-      "title": "Zeus关注T1官号确认回归",
-      "link": "https://search.bilibili.com/all?keyword=Zeus%E5%85%B3%E6%B3%A8T1%E5%AE%98%E5%8F%B7%E7%A1%AE%E8%AE%A4%E5%9B%9E%E5%BD%92",
-      "hot_value": 282669
+      "title": "40款2026新游大锐评",
+      "link": "https://search.bilibili.com/all?keyword=40%E6%AC%BE2026%E6%96%B0%E6%B8%B8%E5%A4%A7%E9%94%90%E8%AF%84",
+      "hot_value": 282491
     },
     {
-      "title": "火影手游永夜扉间技能全爆料",
-      "link": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B8%E6%B0%B8%E5%A4%9C%E6%89%89%E9%97%B4%E6%8A%80%E8%83%BD%E5%85%A8%E7%88%86%E6%96%99",
-      "hot_value": 282572
+      "title": "塔克拉玛干沙漠惊现巨型千年胡杨",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E6%83%8A%E7%8E%B0%E5%B7%A8%E5%9E%8B%E5%8D%83%E5%B9%B4%E8%83%A1%E6%9D%A8",
+      "hot_value": 282659
+    },
+    {
+      "title": "Xun回应GEN四人离队",
+      "link": "https://search.bilibili.com/all?keyword=Xun%E5%9B%9E%E5%BA%94GEN%E5%9B%9B%E4%BA%BA%E7%A6%BB%E9%98%9F",
+      "hot_value": 282724
+    },
+    {
+      "title": "新任007为何是帕丁森",
+      "link": "https://search.bilibili.com/all?keyword=%E6%96%B0%E4%BB%BB007%E4%B8%BA%E4%BD%95%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE",
+      "hot_value": 282664
+    },
+    {
+      "title": "复联全家福vs灭霸全家福",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E8%81%94%E5%85%A8%E5%AE%B6%E7%A6%8Fvs%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8F",
+      "hot_value": 282545
+    },
+    {
+      "title": "万字复盘KPL年总决赛",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%A4%8D%E7%9B%98KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B",
+      "hot_value": 282710
+    },
+    {
+      "title": "高燃BLG一穿四夺冠短片",
+      "link": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E7%9F%AD%E7%89%87",
+      "hot_value": 282619
     },
     {
       "title": "黄龄恭喜BLG夺冠",
