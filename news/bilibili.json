@@ -2,7 +2,7 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-19T01:28:49+08:00",
+  "updated_at": "2026-11-19T07:32:22+08:00",
   "data": [
     {
       "title": "习近平和彭丽媛为来宾举行欢迎宴会",
@@ -35,19 +35,9 @@
       "hot_value": 282919
     },
     {
-      "title": "DeepSeek宣布搜索抓取免费",
-      "link": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%90%9C%E7%B4%A2%E6%8A%93%E5%8F%96%E5%85%8D%E8%B4%B9",
-      "hot_value": 282892
-    },
-    {
       "title": "花5位数体验世界第2的酒店",
       "link": "https://search.bilibili.com/all?keyword=%E8%8A%B15%E4%BD%8D%E6%95%B0%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E7%AC%AC2%E7%9A%84%E9%85%92%E5%BA%97",
       "hot_value": 282911
-    },
-    {
-      "title": "全国代表烤串夯拉排行",
-      "link": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E7%83%A4%E4%B8%B2%E5%A4%AF%E6%8B%89%E6%8E%92%E8%A1%8C",
-      "hot_value": 282872
     },
     {
       "title": "寒潮深入南下",
@@ -55,14 +45,29 @@
       "hot_value": 282936
     },
     {
+      "title": "全国代表烤串夯拉排行",
+      "link": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E7%83%A4%E4%B8%B2%E5%A4%AF%E6%8B%89%E6%8E%92%E8%A1%8C",
+      "hot_value": 282872
+    },
+    {
+      "title": "DeepSeek宣布搜索抓取免费",
+      "link": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%90%9C%E7%B4%A2%E6%8A%93%E5%8F%96%E5%85%8D%E8%B4%B9",
+      "hot_value": 282892
+    },
+    {
       "title": "英雄联盟电影级CG混剪",
       "link": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E7%94%B5%E5%BD%B1%E7%BA%A7CG%E6%B7%B7%E5%89%AA",
       "hot_value": 282900
     },
     {
-      "title": "3A游戏行业会崩溃吗",
-      "link": "https://search.bilibili.com/all?keyword=3A%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A%E4%BC%9A%E5%B4%A9%E6%BA%83%E5%90%97",
-      "hot_value": 282719
+      "title": "黄金矿工派对狂欢实机演示",
+      "link": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E6%B4%BE%E5%AF%B9%E7%8B%82%E6%AC%A2%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+      "hot_value": 282802
+    },
+    {
+      "title": "哈利波特与死亡火器",
+      "link": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B8%8E%E6%AD%BB%E4%BA%A1%E7%81%AB%E5%99%A8",
+      "hot_value": 282811
     },
     {
       "title": "地表最强数值怪竟然是大象",
@@ -75,34 +80,29 @@
       "hot_value": 282825
     },
     {
-      "title": "非凡之爱蜘蛛侠真人版",
-      "link": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9C%9F%E4%BA%BA%E7%89%88",
-      "hot_value": 282732
-    },
-    {
-      "title": "GTA6实机演示",
-      "link": "https://search.bilibili.com/all?keyword=GTA6%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
-      "hot_value": 282929
-    },
-    {
-      "title": "哈利波特与死亡火器",
-      "link": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B8%8E%E6%AD%BB%E4%BA%A1%E7%81%AB%E5%99%A8",
-      "hot_value": 282811
-    },
-    {
-      "title": "黄金矿工派对狂欢实机演示",
-      "link": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E6%B4%BE%E5%AF%B9%E7%8B%82%E6%AC%A2%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
-      "hot_value": 282802
-    },
-    {
       "title": "GEN不敌BLG后要拆队重组吗",
       "link": "https://search.bilibili.com/all?keyword=GEN%E4%B8%8D%E6%95%8CBLG%E5%90%8E%E8%A6%81%E6%8B%86%E9%98%9F%E9%87%8D%E7%BB%84%E5%90%97",
       "hot_value": 282797
     },
     {
+      "title": "3A游戏行业会崩溃吗",
+      "link": "https://search.bilibili.com/all?keyword=3A%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A%E4%BC%9A%E5%B4%A9%E6%BA%83%E5%90%97",
+      "hot_value": 282719
+    },
+    {
+      "title": "非凡之爱蜘蛛侠真人版",
+      "link": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9C%9F%E4%BA%BA%E7%89%88",
+      "hot_value": 282732
+    },
+    {
       "title": "GTA5有何魅力13年卖了2.3亿份",
       "link": "https://search.bilibili.com/all?keyword=GTA5%E6%9C%89%E4%BD%95%E9%AD%85%E5%8A%9B13%E5%B9%B4%E5%8D%96%E4%BA%862.3%E4%BA%BF%E4%BB%BD",
       "hot_value": 282799
+    },
+    {
+      "title": "假如上学是修仙",
+      "link": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E4%B8%8A%E5%AD%A6%E6%98%AF%E4%BF%AE%E4%BB%99",
+      "hot_value": 282899
     },
     {
       "title": "IGN测评GTA6满分",
@@ -120,19 +120,14 @@
       "hot_value": 282774
     },
     {
-      "title": "假如上学是修仙",
-      "link": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E4%B8%8A%E5%AD%A6%E6%98%AF%E4%BF%AE%E4%BB%99",
-      "hot_value": 282899
+      "title": "深圳APEC的首张全家福",
+      "link": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3APEC%E7%9A%84%E9%A6%96%E5%BC%A0%E5%85%A8%E5%AE%B6%E7%A6%8F",
+      "hot_value": 282939
     },
     {
-      "title": "老吃家才能懂的猪刨花拌面",
-      "link": "https://search.bilibili.com/all?keyword=%E8%80%81%E5%90%83%E5%AE%B6%E6%89%8D%E8%83%BD%E6%87%82%E7%9A%84%E7%8C%AA%E5%88%A8%E8%8A%B1%E6%8B%8C%E9%9D%A2",
-      "hot_value": 282680
-    },
-    {
-      "title": "短剧是中国影视的文化输出吗",
-      "link": "https://search.bilibili.com/all?keyword=%E7%9F%AD%E5%89%A7%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E7%9A%84%E6%96%87%E5%8C%96%E8%BE%93%E5%87%BA%E5%90%97",
-      "hot_value": 282814
+      "title": "如何避免太空垃圾变成宇宙暗器",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%A4%AA%E7%A9%BA%E5%9E%83%E5%9C%BE%E5%8F%98%E6%88%90%E5%AE%87%E5%AE%99%E6%9A%97%E5%99%A8",
+      "hot_value": 282745
     },
     {
       "title": "无剧透GTA6评测",
@@ -140,19 +135,24 @@
       "hot_value": 282886
     },
     {
+      "title": "短剧是中国影视的文化输出吗",
+      "link": "https://search.bilibili.com/all?keyword=%E7%9F%AD%E5%89%A7%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E7%9A%84%E6%96%87%E5%8C%96%E8%BE%93%E5%87%BA%E5%90%97",
+      "hot_value": 282814
+    },
+    {
       "title": "BLG如何一穿四LCK夺冠",
       "link": "https://search.bilibili.com/all?keyword=BLG%E5%A6%82%E4%BD%95%E4%B8%80%E7%A9%BF%E5%9B%9BLCK%E5%A4%BA%E5%86%A0",
       "hot_value": 282823
     },
     {
-      "title": "后会友期 谁在按剧本演戏",
-      "link": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%20%E8%B0%81%E5%9C%A8%E6%8C%89%E5%89%A7%E6%9C%AC%E6%BC%94%E6%88%8F",
-      "hot_value": 282701
+      "title": "GTA6实机演示",
+      "link": "https://search.bilibili.com/all?keyword=GTA6%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+      "hot_value": 282929
     },
     {
-      "title": "鸣潮新联邦角色首曝PV",
-      "link": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%96%B0%E8%81%94%E9%82%A6%E8%A7%92%E8%89%B2%E9%A6%96%E6%9B%9DPV",
-      "hot_value": 282791
+      "title": "BLG夺冠后Bin哭了",
+      "link": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%90%8EBin%E5%93%AD%E4%BA%86",
+      "hot_value": 282706
     }
   ]
 }
