@@ -2,82 +2,62 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-18T16:24:17+08:00",
+  "updated_at": "2026-11-19T01:28:49+08:00",
   "data": [
     {
-      "title": "习近平会见俄罗斯总统普京",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC",
-      "hot_value": 282800
+      "title": "习近平和彭丽媛为来宾举行欢迎宴会",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E4%B8%BA%E6%9D%A5%E5%AE%BE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A",
+      "hot_value": 282923
     },
     {
-      "title": "十五五规划是面向全球工商界的合作邀约",
-      "link": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E6%98%AF%E9%9D%A2%E5%90%91%E5%85%A8%E7%90%83%E5%B7%A5%E5%95%86%E7%95%8C%E7%9A%84%E5%90%88%E4%BD%9C%E9%82%80%E7%BA%A6",
-      "hot_value": 282806
+      "title": "习近平迎接美国总统特朗普",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%8E%E6%8E%A5%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE",
+      "hot_value": 282893
     },
     {
-      "title": "习近平会见韩国总统李在明",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E",
-      "hot_value": 282810
+      "title": "在APEC读懂一湾锦绣通亚太",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9C%A8APEC%E8%AF%BB%E6%87%82%E4%B8%80%E6%B9%BE%E9%94%A6%E7%BB%A3%E9%80%9A%E4%BA%9A%E5%A4%AA",
+      "hot_value": 282902
     },
     {
-      "title": "国创发布会",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%88%9B%E5%8F%91%E5%B8%83%E4%BC%9A",
-      "hot_value": 282776
+      "title": "美国总统特朗普抵达深圳",
+      "link": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
+      "hot_value": 282859
     },
     {
-      "title": "BLG如何一穿四LCK夺冠",
-      "link": "https://search.bilibili.com/all?keyword=BLG%E5%A6%82%E4%BD%95%E4%B8%80%E7%A9%BF%E5%9B%9BLCK%E5%A4%BA%E5%86%A0",
-      "hot_value": 282823
+      "title": "zmjjkk离队EDG",
+      "link": "https://search.bilibili.com/all?keyword=zmjjkk%E7%A6%BB%E9%98%9FEDG",
+      "hot_value": 282912
     },
     {
-      "title": "鸣潮新联邦角色首曝PV",
-      "link": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%96%B0%E8%81%94%E9%82%A6%E8%A7%92%E8%89%B2%E9%A6%96%E6%9B%9DPV",
-      "hot_value": 282791
+      "title": "精神小伙版非凡之爱",
+      "link": "https://search.bilibili.com/all?keyword=%E7%B2%BE%E7%A5%9E%E5%B0%8F%E4%BC%99%E7%89%88%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1",
+      "hot_value": 282919
     },
     {
-      "title": "湖人加时战胜黄蜂",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B9%96%E4%BA%BA%E5%8A%A0%E6%97%B6%E6%88%98%E8%83%9C%E9%BB%84%E8%9C%82",
-      "hot_value": 282821
+      "title": "DeepSeek宣布搜索抓取免费",
+      "link": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%90%9C%E7%B4%A2%E6%8A%93%E5%8F%96%E5%85%8D%E8%B4%B9",
+      "hot_value": 282892
     },
     {
-      "title": "短剧是中国影视的文化输出吗",
-      "link": "https://search.bilibili.com/all?keyword=%E7%9F%AD%E5%89%A7%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E7%9A%84%E6%96%87%E5%8C%96%E8%BE%93%E5%87%BA%E5%90%97",
-      "hot_value": 282814
+      "title": "花5位数体验世界第2的酒店",
+      "link": "https://search.bilibili.com/all?keyword=%E8%8A%B15%E4%BD%8D%E6%95%B0%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E7%AC%AC2%E7%9A%84%E9%85%92%E5%BA%97",
+      "hot_value": 282911
     },
     {
-      "title": "OpenAI新模型遭差评海啸",
-      "link": "https://search.bilibili.com/all?keyword=OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8B%E9%81%AD%E5%B7%AE%E8%AF%84%E6%B5%B7%E5%95%B8",
-      "hot_value": 282781
+      "title": "全国代表烤串夯拉排行",
+      "link": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E7%83%A4%E4%B8%B2%E5%A4%AF%E6%8B%89%E6%8E%92%E8%A1%8C",
+      "hot_value": 282872
     },
     {
-      "title": "用网课的方式打开后会友期",
-      "link": "https://search.bilibili.com/all?keyword=%E7%94%A8%E7%BD%91%E8%AF%BE%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F",
-      "hot_value": 282818
+      "title": "寒潮深入南下",
+      "link": "https://search.bilibili.com/all?keyword=%E5%AF%92%E6%BD%AE%E6%B7%B1%E5%85%A5%E5%8D%97%E4%B8%8B",
+      "hot_value": 282936
     },
     {
-      "title": "CS2新音乐盒试听",
-      "link": "https://search.bilibili.com/all?keyword=CS2%E6%96%B0%E9%9F%B3%E4%B9%90%E7%9B%92%E8%AF%95%E5%90%AC",
-      "hot_value": 282825
-    },
-    {
-      "title": "BLG Xun直播",
-      "link": "https://search.bilibili.com/all?keyword=BLG%20Xun%E7%9B%B4%E6%92%AD",
-      "hot_value": 282647
-    },
-    {
-      "title": "2万一张的S16门票体验如何",
-      "link": "https://search.bilibili.com/all?keyword=2%E4%B8%87%E4%B8%80%E5%BC%A0%E7%9A%84S16%E9%97%A8%E7%A5%A8%E4%BD%93%E9%AA%8C%E5%A6%82%E4%BD%95",
-      "hot_value": 282774
-    },
-    {
-      "title": "TGA2026全提名名单公布",
-      "link": "https://search.bilibili.com/all?keyword=TGA2026%E5%85%A8%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83",
-      "hot_value": 282754
-    },
-    {
-      "title": "哈利波特与死亡火器",
-      "link": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B8%8E%E6%AD%BB%E4%BA%A1%E7%81%AB%E5%99%A8",
-      "hot_value": 282811
+      "title": "英雄联盟电影级CG混剪",
+      "link": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E7%94%B5%E5%BD%B1%E7%BA%A7CG%E6%B7%B7%E5%89%AA",
+      "hot_value": 282900
     },
     {
       "title": "3A游戏行业会崩溃吗",
@@ -85,49 +65,14 @@
       "hot_value": 282719
     },
     {
-      "title": "GTA6萌新入坑指南",
-      "link": "https://search.bilibili.com/all?keyword=GTA6%E8%90%8C%E6%96%B0%E5%85%A5%E5%9D%91%E6%8C%87%E5%8D%97",
-      "hot_value": 282828
+      "title": "地表最强数值怪竟然是大象",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E6%95%B0%E5%80%BC%E6%80%AA%E7%AB%9F%E7%84%B6%E6%98%AF%E5%A4%A7%E8%B1%A1",
+      "hot_value": 282871
     },
     {
-      "title": "后会友期 谁在按剧本演戏",
-      "link": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%20%E8%B0%81%E5%9C%A8%E6%8C%89%E5%89%A7%E6%9C%AC%E6%BC%94%E6%88%8F",
-      "hot_value": 282701
-    },
-    {
-      "title": "丹麦2-3挪威 哈兰德绝杀",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B8%B9%E9%BA%A62-3%E6%8C%AA%E5%A8%81%20%E5%93%88%E5%85%B0%E5%BE%B7%E7%BB%9D%E6%9D%80",
-      "hot_value": 282764
-    },
-    {
-      "title": "黄金矿工派对狂欢实机演示",
-      "link": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E6%B4%BE%E5%AF%B9%E7%8B%82%E6%AC%A2%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
-      "hot_value": 282802
-    },
-    {
-      "title": "电影挽救计划为何口碑票房双爆",
-      "link": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E6%8C%BD%E6%95%91%E8%AE%A1%E5%88%92%E4%B8%BA%E4%BD%95%E5%8F%A3%E7%A2%91%E7%A5%A8%E6%88%BF%E5%8F%8C%E7%88%86",
-      "hot_value": 282641
-    },
-    {
-      "title": "欧国联 威尔士2-3葡萄牙",
-      "link": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E5%9B%BD%E8%81%94%20%E5%A8%81%E5%B0%94%E5%A3%AB2-3%E8%91%A1%E8%90%84%E7%89%99",
-      "hot_value": 282759
-    },
-    {
-      "title": "天津相声社葫芦里卖的什么药",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E6%B4%A5%E7%9B%B8%E5%A3%B0%E7%A4%BE%E8%91%AB%E8%8A%A6%E9%87%8C%E5%8D%96%E7%9A%84%E4%BB%80%E4%B9%88%E8%8D%AF",
-      "hot_value": 282822
-    },
-    {
-      "title": "韩网单曲 Chovy的根号4",
-      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%BD%91%E5%8D%95%E6%9B%B2%20Chovy%E7%9A%84%E6%A0%B9%E5%8F%B74",
-      "hot_value": 282613
-    },
-    {
-      "title": "如何避免太空垃圾变成宇宙暗器",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%A4%AA%E7%A9%BA%E5%9E%83%E5%9C%BE%E5%8F%98%E6%88%90%E5%AE%87%E5%AE%99%E6%9A%97%E5%99%A8",
-      "hot_value": 282745
+      "title": "CS2新音乐盒试听",
+      "link": "https://search.bilibili.com/all?keyword=CS2%E6%96%B0%E9%9F%B3%E4%B9%90%E7%9B%92%E8%AF%95%E5%90%AC",
+      "hot_value": 282825
     },
     {
       "title": "非凡之爱蜘蛛侠真人版",
@@ -135,24 +80,79 @@
       "hot_value": 282732
     },
     {
+      "title": "GTA6实机演示",
+      "link": "https://search.bilibili.com/all?keyword=GTA6%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+      "hot_value": 282929
+    },
+    {
+      "title": "哈利波特与死亡火器",
+      "link": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B8%8E%E6%AD%BB%E4%BA%A1%E7%81%AB%E5%99%A8",
+      "hot_value": 282811
+    },
+    {
+      "title": "黄金矿工派对狂欢实机演示",
+      "link": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E6%B4%BE%E5%AF%B9%E7%8B%82%E6%AC%A2%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+      "hot_value": 282802
+    },
+    {
       "title": "GEN不敌BLG后要拆队重组吗",
       "link": "https://search.bilibili.com/all?keyword=GEN%E4%B8%8D%E6%95%8CBLG%E5%90%8E%E8%A6%81%E6%8B%86%E9%98%9F%E9%87%8D%E7%BB%84%E5%90%97",
       "hot_value": 282797
     },
     {
-      "title": "洛天依 譬如我",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E8%AD%AC%E5%A6%82%E6%88%91",
-      "hot_value": 282737
+      "title": "GTA5有何魅力13年卖了2.3亿份",
+      "link": "https://search.bilibili.com/all?keyword=GTA5%E6%9C%89%E4%BD%95%E9%AD%85%E5%8A%9B13%E5%B9%B4%E5%8D%96%E4%BA%862.3%E4%BA%BF%E4%BB%BD",
+      "hot_value": 282799
     },
     {
-      "title": "王兴兴谈机器人大模型突破点",
-      "link": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AA%81%E7%A0%B4%E7%82%B9",
-      "hot_value": 282738
+      "title": "IGN测评GTA6满分",
+      "link": "https://search.bilibili.com/all?keyword=IGN%E6%B5%8B%E8%AF%84GTA6%E6%BB%A1%E5%88%86",
+      "hot_value": 282910
     },
     {
-      "title": "GTA6获TGA八项提名",
-      "link": "https://search.bilibili.com/all?keyword=GTA6%E8%8E%B7TGA%E5%85%AB%E9%A1%B9%E6%8F%90%E5%90%8D",
-      "hot_value": 282756
+      "title": "Viper发起冠军皮肤投票",
+      "link": "https://search.bilibili.com/all?keyword=Viper%E5%8F%91%E8%B5%B7%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E6%8A%95%E7%A5%A8",
+      "hot_value": 282842
+    },
+    {
+      "title": "2万一张的S16门票体验如何",
+      "link": "https://search.bilibili.com/all?keyword=2%E4%B8%87%E4%B8%80%E5%BC%A0%E7%9A%84S16%E9%97%A8%E7%A5%A8%E4%BD%93%E9%AA%8C%E5%A6%82%E4%BD%95",
+      "hot_value": 282774
+    },
+    {
+      "title": "假如上学是修仙",
+      "link": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E4%B8%8A%E5%AD%A6%E6%98%AF%E4%BF%AE%E4%BB%99",
+      "hot_value": 282899
+    },
+    {
+      "title": "老吃家才能懂的猪刨花拌面",
+      "link": "https://search.bilibili.com/all?keyword=%E8%80%81%E5%90%83%E5%AE%B6%E6%89%8D%E8%83%BD%E6%87%82%E7%9A%84%E7%8C%AA%E5%88%A8%E8%8A%B1%E6%8B%8C%E9%9D%A2",
+      "hot_value": 282680
+    },
+    {
+      "title": "短剧是中国影视的文化输出吗",
+      "link": "https://search.bilibili.com/all?keyword=%E7%9F%AD%E5%89%A7%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E7%9A%84%E6%96%87%E5%8C%96%E8%BE%93%E5%87%BA%E5%90%97",
+      "hot_value": 282814
+    },
+    {
+      "title": "无剧透GTA6评测",
+      "link": "https://search.bilibili.com/all?keyword=%E6%97%A0%E5%89%A7%E9%80%8FGTA6%E8%AF%84%E6%B5%8B",
+      "hot_value": 282886
+    },
+    {
+      "title": "BLG如何一穿四LCK夺冠",
+      "link": "https://search.bilibili.com/all?keyword=BLG%E5%A6%82%E4%BD%95%E4%B8%80%E7%A9%BF%E5%9B%9BLCK%E5%A4%BA%E5%86%A0",
+      "hot_value": 282823
+    },
+    {
+      "title": "后会友期 谁在按剧本演戏",
+      "link": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%20%E8%B0%81%E5%9C%A8%E6%8C%89%E5%89%A7%E6%9C%AC%E6%BC%94%E6%88%8F",
+      "hot_value": 282701
+    },
+    {
+      "title": "鸣潮新联邦角色首曝PV",
+      "link": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%96%B0%E8%81%94%E9%82%A6%E8%A7%92%E8%89%B2%E9%A6%96%E6%9B%9DPV",
+      "hot_value": 282791
     }
   ]
 }
