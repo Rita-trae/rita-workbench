@@ -2,67 +2,62 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-19T07:32:22+08:00",
+  "updated_at": "2026-11-19T12:33:22+08:00",
   "data": [
     {
-      "title": "习近平和彭丽媛为来宾举行欢迎宴会",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E4%B8%BA%E6%9D%A5%E5%AE%BE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A",
-      "hot_value": 282923
+      "title": "亚太大家庭的成员同在一条船上",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E5%A4%AA%E5%A4%A7%E5%AE%B6%E5%BA%AD%E7%9A%84%E6%88%90%E5%91%98%E5%90%8C%E5%9C%A8%E4%B8%80%E6%9D%A1%E8%88%B9%E4%B8%8A",
+      "hot_value": 282978
     },
     {
-      "title": "习近平迎接美国总统特朗普",
-      "link": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%8E%E6%8E%A5%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE",
-      "hot_value": 282893
+      "title": "中俄美元首同框",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86",
+      "hot_value": 282966
     },
     {
-      "title": "在APEC读懂一湾锦绣通亚太",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9C%A8APEC%E8%AF%BB%E6%87%82%E4%B8%80%E6%B9%BE%E9%94%A6%E7%BB%A3%E9%80%9A%E4%BA%9A%E5%A4%AA",
-      "hot_value": 282902
+      "title": "普京抵达APEC领导人非正式会议现场",
+      "link": "https://search.bilibili.com/all?keyword=%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BEAPEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E7%8E%B0%E5%9C%BA",
+      "hot_value": 282976
     },
     {
-      "title": "美国总统特朗普抵达深圳",
-      "link": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
-      "hot_value": 282859
+      "title": "APEC欢迎晚宴",
+      "link": "https://search.bilibili.com/all?keyword=APEC%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4",
+      "hot_value": 282956
     },
     {
-      "title": "zmjjkk离队EDG",
-      "link": "https://search.bilibili.com/all?keyword=zmjjkk%E7%A6%BB%E9%98%9FEDG",
-      "hot_value": 282912
+      "title": "特朗普抵达APEC领导人非正式会议现场",
+      "link": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BEAPEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E7%8E%B0%E5%9C%BA",
+      "hot_value": 282974
     },
     {
-      "title": "精神小伙版非凡之爱",
-      "link": "https://search.bilibili.com/all?keyword=%E7%B2%BE%E7%A5%9E%E5%B0%8F%E4%BC%99%E7%89%88%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1",
-      "hot_value": 282919
+      "title": "我国成功发射实践二十四号卫星",
+      "link": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%AE%9E%E8%B7%B5%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8D%AB%E6%98%9F",
+      "hot_value": 282960
     },
     {
-      "title": "花5位数体验世界第2的酒店",
-      "link": "https://search.bilibili.com/all?keyword=%E8%8A%B15%E4%BD%8D%E6%95%B0%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E7%AC%AC2%E7%9A%84%E9%85%92%E5%BA%97",
-      "hot_value": 282911
+      "title": "普京特朗普欢迎晚宴互动握手",
+      "link": "https://search.bilibili.com/all?keyword=%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4%E4%BA%92%E5%8A%A8%E6%8F%A1%E6%89%8B",
+      "hot_value": 282971
     },
     {
-      "title": "寒潮深入南下",
-      "link": "https://search.bilibili.com/all?keyword=%E5%AF%92%E6%BD%AE%E6%B7%B1%E5%85%A5%E5%8D%97%E4%B8%8B",
-      "hot_value": 282936
+      "title": "闪存价格两周下跌20%",
+      "link": "https://search.bilibili.com/all?keyword=%E9%97%AA%E5%AD%98%E4%BB%B7%E6%A0%BC%E4%B8%A4%E5%91%A8%E4%B8%8B%E8%B7%8C20%25",
+      "hot_value": 282947
     },
     {
-      "title": "全国代表烤串夯拉排行",
-      "link": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E7%83%A4%E4%B8%B2%E5%A4%AF%E6%8B%89%E6%8E%92%E8%A1%8C",
-      "hot_value": 282872
+      "title": "把Win10装进哔哩哔哩",
+      "link": "https://search.bilibili.com/all?keyword=%E6%8A%8AWin10%E8%A3%85%E8%BF%9B%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9",
+      "hot_value": 282967
     },
     {
-      "title": "DeepSeek宣布搜索抓取免费",
-      "link": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%90%9C%E7%B4%A2%E6%8A%93%E5%8F%96%E5%85%8D%E8%B4%B9",
-      "hot_value": 282892
+      "title": "云南人早上6点起来吃烧烤",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97%E4%BA%BA%E6%97%A9%E4%B8%8A6%E7%82%B9%E8%B5%B7%E6%9D%A5%E5%90%83%E7%83%A7%E7%83%A4",
+      "hot_value": 282979
     },
     {
-      "title": "英雄联盟电影级CG混剪",
-      "link": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E7%94%B5%E5%BD%B1%E7%BA%A7CG%E6%B7%B7%E5%89%AA",
-      "hot_value": 282900
-    },
-    {
-      "title": "黄金矿工派对狂欢实机演示",
-      "link": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E6%B4%BE%E5%AF%B9%E7%8B%82%E6%AC%A2%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
-      "hot_value": 282802
+      "title": "地表最强数值怪竟然是大象",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E6%95%B0%E5%80%BC%E6%80%AA%E7%AB%9F%E7%84%B6%E6%98%AF%E5%A4%A7%E8%B1%A1",
+      "hot_value": 282871
     },
     {
       "title": "哈利波特与死亡火器",
@@ -70,9 +65,19 @@
       "hot_value": 282811
     },
     {
-      "title": "地表最强数值怪竟然是大象",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E6%95%B0%E5%80%BC%E6%80%AA%E7%AB%9F%E7%84%B6%E6%98%AF%E5%A4%A7%E8%B1%A1",
-      "hot_value": 282871
+      "title": "黄金矿工派对狂欢实机演示",
+      "link": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E6%B4%BE%E5%AF%B9%E7%8B%82%E6%AC%A2%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+      "hot_value": 282802
+    },
+    {
+      "title": "如何避免太空垃圾变成宇宙暗器",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%A4%AA%E7%A9%BA%E5%9E%83%E5%9C%BE%E5%8F%98%E6%88%90%E5%AE%87%E5%AE%99%E6%9A%97%E5%99%A8",
+      "hot_value": 282745
+    },
+    {
+      "title": "寒潮深入南下",
+      "link": "https://search.bilibili.com/all?keyword=%E5%AF%92%E6%BD%AE%E6%B7%B1%E5%85%A5%E5%8D%97%E4%B8%8B",
+      "hot_value": 282936
     },
     {
       "title": "CS2新音乐盒试听",
@@ -85,29 +90,24 @@
       "hot_value": 282797
     },
     {
-      "title": "3A游戏行业会崩溃吗",
-      "link": "https://search.bilibili.com/all?keyword=3A%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A%E4%BC%9A%E5%B4%A9%E6%BA%83%E5%90%97",
-      "hot_value": 282719
+      "title": "TGA2026全提名名单公布",
+      "link": "https://search.bilibili.com/all?keyword=TGA2026%E5%85%A8%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83",
+      "hot_value": 282754
     },
     {
-      "title": "非凡之爱蜘蛛侠真人版",
-      "link": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9C%9F%E4%BA%BA%E7%89%88",
-      "hot_value": 282732
+      "title": "攻克千禧难题的GPT6.2发布有何突破",
+      "link": "https://search.bilibili.com/all?keyword=%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E9%9A%BE%E9%A2%98%E7%9A%84GPT6.2%E5%8F%91%E5%B8%83%E6%9C%89%E4%BD%95%E7%AA%81%E7%A0%B4",
+      "hot_value": 282949
     },
     {
-      "title": "GTA5有何魅力13年卖了2.3亿份",
-      "link": "https://search.bilibili.com/all?keyword=GTA5%E6%9C%89%E4%BD%95%E9%AD%85%E5%8A%9B13%E5%B9%B4%E5%8D%96%E4%BA%862.3%E4%BA%BF%E4%BB%BD",
-      "hot_value": 282799
+      "title": "深圳APEC的首张全家福",
+      "link": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3APEC%E7%9A%84%E9%A6%96%E5%BC%A0%E5%85%A8%E5%AE%B6%E7%A6%8F",
+      "hot_value": 282939
     },
     {
-      "title": "假如上学是修仙",
-      "link": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E4%B8%8A%E5%AD%A6%E6%98%AF%E4%BF%AE%E4%BB%99",
-      "hot_value": 282899
-    },
-    {
-      "title": "IGN测评GTA6满分",
-      "link": "https://search.bilibili.com/all?keyword=IGN%E6%B5%8B%E8%AF%84GTA6%E6%BB%A1%E5%88%86",
-      "hot_value": 282910
+      "title": "GTA6",
+      "link": "https://search.bilibili.com/all?keyword=GTA6",
+      "hot_value": 282983
     },
     {
       "title": "Viper发起冠军皮肤投票",
@@ -120,24 +120,19 @@
       "hot_value": 282774
     },
     {
-      "title": "深圳APEC的首张全家福",
-      "link": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3APEC%E7%9A%84%E9%A6%96%E5%BC%A0%E5%85%A8%E5%AE%B6%E7%A6%8F",
-      "hot_value": 282939
+      "title": "IGN测评GTA6满分",
+      "link": "https://search.bilibili.com/all?keyword=IGN%E6%B5%8B%E8%AF%84GTA6%E6%BB%A1%E5%88%86",
+      "hot_value": 282910
     },
     {
-      "title": "如何避免太空垃圾变成宇宙暗器",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%A4%AA%E7%A9%BA%E5%9E%83%E5%9C%BE%E5%8F%98%E6%88%90%E5%AE%87%E5%AE%99%E6%9A%97%E5%99%A8",
-      "hot_value": 282745
+      "title": "花5位数体验世界第2的酒店",
+      "link": "https://search.bilibili.com/all?keyword=%E8%8A%B15%E4%BD%8D%E6%95%B0%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E7%AC%AC2%E7%9A%84%E9%85%92%E5%BA%97",
+      "hot_value": 282911
     },
     {
-      "title": "无剧透GTA6评测",
-      "link": "https://search.bilibili.com/all?keyword=%E6%97%A0%E5%89%A7%E9%80%8FGTA6%E8%AF%84%E6%B5%8B",
-      "hot_value": 282886
-    },
-    {
-      "title": "短剧是中国影视的文化输出吗",
-      "link": "https://search.bilibili.com/all?keyword=%E7%9F%AD%E5%89%A7%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E7%9A%84%E6%96%87%E5%8C%96%E8%BE%93%E5%87%BA%E5%90%97",
-      "hot_value": 282814
+      "title": "鸣潮新联邦角色首曝PV",
+      "link": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%96%B0%E8%81%94%E9%82%A6%E8%A7%92%E8%89%B2%E9%A6%96%E6%9B%9DPV",
+      "hot_value": 282791
     },
     {
       "title": "BLG如何一穿四LCK夺冠",
@@ -145,14 +140,19 @@
       "hot_value": 282823
     },
     {
-      "title": "GTA6实机演示",
-      "link": "https://search.bilibili.com/all?keyword=GTA6%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
-      "hot_value": 282929
+      "title": "zmjjkk离队EDG",
+      "link": "https://search.bilibili.com/all?keyword=zmjjkk%E7%A6%BB%E9%98%9FEDG",
+      "hot_value": 282912
     },
     {
-      "title": "BLG夺冠后Bin哭了",
-      "link": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%90%8EBin%E5%93%AD%E4%BA%86",
-      "hot_value": 282706
+      "title": "无剧透GTA6评测",
+      "link": "https://search.bilibili.com/all?keyword=%E6%97%A0%E5%89%A7%E9%80%8FGTA6%E8%AF%84%E6%B5%8B",
+      "hot_value": 282886
+    },
+    {
+      "title": "BLG夺冠之路为何如此热血",
+      "link": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E7%83%AD%E8%A1%80",
+      "hot_value": 282909
     }
   ]
 }
