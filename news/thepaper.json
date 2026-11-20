@@ -2,41 +2,11 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-11-20T11:23:23+08:00",
+  "updated_at": "2026-11-20T20:04:06+08:00",
   "data": [
-    {
-      "title": "详讯丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34509808",
-      "hot_value": 0
-    },
     {
       "title": "详讯丨习近平主持中俄美元首会晤",
       "link": "https://www.thepaper.cn/newsDetail_forward_34513086",
-      "hot_value": 0
-    },
-    {
-      "title": "中俄美元首和平宣言",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34512539",
-      "hot_value": 0
-    },
-    {
-      "title": "详讯丨习近平会见美国总统特朗普",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34511524",
-      "hot_value": 0
-    },
-    {
-      "title": "APEC现场｜深圳市民街头偶遇多国政要：逛超市、尝车厘子、练八段锦……",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34509387",
-      "hot_value": 0
-    },
-    {
-      "title": "中南大学通报湘雅二医院、湘雅医院AI论文争议：存在学术不端，多人被处理​​​​",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34509594",
-      "hot_value": 0
-    },
-    {
-      "title": "马上评｜“老人拆墙让路”事件的三重舆论启示",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34509394",
       "hot_value": 0
     },
     {
@@ -45,23 +15,38 @@
       "hot_value": 0
     },
     {
+      "title": "经纬度｜锚定品质化消费需求，培育银发经济新增长点",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34517959",
+      "hot_value": 0
+    },
+    {
       "title": "从“双头虾”到一万张鸟类贴纸，“AI泔水”正在污染知识",
       "link": "https://www.thepaper.cn/newsDetail_forward_34511494",
       "hot_value": 0
     },
     {
-      "title": "视频丨马斯克深圳发声：我是中国的超级粉丝",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34510015",
+      "title": "环球时报快评：高市是时候收回“台湾有事就是日本有事”错误言论了",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34518683",
       "hot_value": 0
     },
     {
-      "title": "马上评｜15元起步，扫共享单车不该是开盲盒",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34510107",
+      "title": "专访全球甲烷中心CEO、智利前环境部长马塞洛：期待中国甲烷减排经验惠及全球南方",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34506159",
       "hot_value": 0
     },
     {
       "title": "《谷雨》：一部主创阵容很强的作品，为何没能换来认可？",
       "link": "https://www.thepaper.cn/newsDetail_forward_34514219",
+      "hot_value": 0
+    },
+    {
+      "title": "长鑫科技回购上限拟提至50亿元，最高40亿元股份注销减少注册资本",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34512927",
+      "hot_value": 0
+    },
+    {
+      "title": "中俄美元首深圳首聚：台前四点宣言与幕后外交细节｜907编辑部",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34515368",
       "hot_value": 0
     },
     {
@@ -85,13 +70,13 @@
       "hot_value": 0
     },
     {
-      "title": "和合共生｜APEC“全家福”来了，2分钟揭秘红蓝围巾背后故事",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34510341",
+      "title": "中国担任2026年亚太经合组织东道主成果清单",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34514532",
       "hot_value": 0
     },
     {
-      "title": "中国担任2026年亚太经合组织东道主成果清单",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34514532",
+      "title": "大外交｜中俄美元首会晤“载入史册”，专家：为新型大国关系提供明确路径",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34516762",
       "hot_value": 0
     },
     {
@@ -100,8 +85,23 @@
       "hot_value": 0
     },
     {
-      "title": "中俄美元首深圳首聚：台前四点宣言与幕后外交细节｜907编辑部",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34515368",
+      "title": "APEC现场｜特朗普启程返美，王毅外长机场送别，二人长时间交谈",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34513225",
+      "hot_value": 0
+    },
+    {
+      "title": "APEC中国时间｜超出计划的访问，特朗普在深圳的27小时",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34518388",
+      "hot_value": 0
+    },
+    {
+      "title": "澎湃读报丨聚焦APEC及中俄美元首历史性会晤，主要媒体版面速览",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34516582",
+      "hot_value": 0
+    },
+    {
+      "title": "美国6天连环宕机，关键系统为何在AI时代“一改就崩”？",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34512926",
       "hot_value": 0
     }
   ]
