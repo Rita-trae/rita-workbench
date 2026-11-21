@@ -2,7 +2,7 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-21T04:26:57+08:00",
+  "updated_at": "2026-11-21T09:41:51+08:00",
   "data": [
     {
       "title": "中俄美元首历史性会晤为何在中国",
@@ -10,24 +10,24 @@
       "hot_value": 283310
     },
     {
+      "title": "AI证明黎曼猜想通过形式化验证",
+      "link": "https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E9%80%9A%E8%BF%87%E5%BD%A2%E5%BC%8F%E5%8C%96%E9%AA%8C%E8%AF%81",
+      "hot_value": 283329
+    },
+    {
       "title": "UP主解读AI声称证明黎曼猜想",
       "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E5%A3%B0%E7%A7%B0%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3",
       "hot_value": 283326
     },
     {
-      "title": "回看Bin这一年有多梦幻",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E7%9C%8BBin%E8%BF%99%E4%B8%80%E5%B9%B4%E6%9C%89%E5%A4%9A%E6%A2%A6%E5%B9%BB",
-      "hot_value": 283325
+      "title": "GTA6里NPC的生活有多真实",
+      "link": "https://search.bilibili.com/all?keyword=GTA6%E9%87%8CNPC%E7%9A%84%E7%94%9F%E6%B4%BB%E6%9C%89%E5%A4%9A%E7%9C%9F%E5%AE%9E",
+      "hot_value": 283336
     },
     {
-      "title": "AI攻破黎曼猜想声明细节",
-      "link": "https://search.bilibili.com/all?keyword=AI%E6%94%BB%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%A3%B0%E6%98%8E%E7%BB%86%E8%8A%82",
-      "hot_value": 283323
-    },
-    {
-      "title": "DK官宣Doran和Kanavi加入",
-      "link": "https://search.bilibili.com/all?keyword=DK%E5%AE%98%E5%AE%A3Doran%E5%92%8CKanavi%E5%8A%A0%E5%85%A5",
-      "hot_value": 283309
+      "title": "中国垃圾为什么成抢手货了",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%9E%83%E5%9C%BE%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%90%E6%8A%A2%E6%89%8B%E8%B4%A7%E4%BA%86",
+      "hot_value": 283331
     },
     {
       "title": "任贤齐入驻B站",
@@ -35,14 +35,9 @@
       "hot_value": 283298
     },
     {
-      "title": "数学家称用AI证明了黎曼猜想",
-      "link": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%A7%B0%E7%94%A8AI%E8%AF%81%E6%98%8E%E4%BA%86%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3",
-      "hot_value": 283317
-    },
-    {
-      "title": "爱沙尼亚为何关闭与俄罗斯的口岸",
-      "link": "https://search.bilibili.com/all?keyword=%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%E4%B8%BA%E4%BD%95%E5%85%B3%E9%97%AD%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E5%8F%A3%E5%B2%B8",
-      "hot_value": 283171
+      "title": "粤港澳迎11月罕见湿冷天气",
+      "link": "https://search.bilibili.com/all?keyword=%E7%B2%A4%E6%B8%AF%E6%BE%B3%E8%BF%8E11%E6%9C%88%E7%BD%95%E8%A7%81%E6%B9%BF%E5%86%B7%E5%A4%A9%E6%B0%94",
+      "hot_value": 283316
     },
     {
       "title": "明年闪存供应或增超25%",
@@ -50,29 +45,9 @@
       "hot_value": 283318
     },
     {
-      "title": "AI御三家模型屎山代码论剑",
-      "link": "https://search.bilibili.com/all?keyword=AI%E5%BE%A1%E4%B8%89%E5%AE%B6%E6%A8%A1%E5%9E%8B%E5%B1%8E%E5%B1%B1%E4%BB%A3%E7%A0%81%E8%AE%BA%E5%89%91",
-      "hot_value": 283250
-    },
-    {
-      "title": "罗小黑",
-      "link": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%B0%8F%E9%BB%91",
-      "hot_value": 283162
-    },
-    {
-      "title": "把Win10装进哔哩哔哩",
-      "link": "https://search.bilibili.com/all?keyword=%E6%8A%8AWin10%E8%A3%85%E8%BF%9B%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9",
-      "hot_value": 282967
-    },
-    {
-      "title": "大肥鱼翻唱烂奇迹",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E5%94%B1%E7%83%82%E5%A5%87%E8%BF%B9",
-      "hot_value": 283099
-    },
-    {
-      "title": "揭开禁区哀牢山的秘密",
-      "link": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E5%BC%80%E7%A6%81%E5%8C%BA%E5%93%80%E7%89%A2%E5%B1%B1%E7%9A%84%E7%A7%98%E5%AF%86",
-      "hot_value": 283181
+      "title": "AI攻破黎曼猜想声明细节",
+      "link": "https://search.bilibili.com/all?keyword=AI%E6%94%BB%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%A3%B0%E6%98%8E%E7%BB%86%E8%8A%82",
+      "hot_value": 283323
     },
     {
       "title": "守护解放西传承季开播",
@@ -80,14 +55,9 @@
       "hot_value": 283291
     },
     {
-      "title": "听陈楚生狂流被点燃了",
-      "link": "https://search.bilibili.com/all?keyword=%E5%90%AC%E9%99%88%E6%A5%9A%E7%94%9F%E7%8B%82%E6%B5%81%E8%A2%AB%E7%82%B9%E7%87%83%E4%BA%86",
-      "hot_value": 283258
-    },
-    {
-      "title": "食贫道何以当归2先导片",
-      "link": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E4%BD%95%E4%BB%A5%E5%BD%93%E5%BD%922%E5%85%88%E5%AF%BC%E7%89%87",
-      "hot_value": 283294
+      "title": "罗小黑",
+      "link": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%B0%8F%E9%BB%91",
+      "hot_value": 283162
     },
     {
       "title": "回看BLG夺冠有何伏笔",
@@ -95,19 +65,54 @@
       "hot_value": 283324
     },
     {
+      "title": "揭开禁区哀牢山的秘密",
+      "link": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E5%BC%80%E7%A6%81%E5%8C%BA%E5%93%80%E7%89%A2%E5%B1%B1%E7%9A%84%E7%A7%98%E5%AF%86",
+      "hot_value": 283181
+    },
+    {
+      "title": "U17国少0-5西班牙",
+      "link": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E5%B0%910-5%E8%A5%BF%E7%8F%AD%E7%89%99",
+      "hot_value": 283327
+    },
+    {
+      "title": "食贫道何以当归2先导片",
+      "link": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E4%BD%95%E4%BB%A5%E5%BD%93%E5%BD%922%E5%85%88%E5%AF%BC%E7%89%87",
+      "hot_value": 283294
+    },
+    {
+      "title": "西班牙主帅称赞中国3名U17球员",
+      "link": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%BB%E5%B8%85%E7%A7%B0%E8%B5%9E%E4%B8%AD%E5%9B%BD3%E5%90%8DU17%E7%90%83%E5%91%98",
+      "hot_value": 283332
+    },
+    {
       "title": "我用AI做了个嘉豪模拟器",
       "link": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E5%98%89%E8%B1%AA%E6%A8%A1%E6%8B%9F%E5%99%A8",
       "hot_value": 283191
     },
     {
-      "title": "GTA6是史一游吗",
-      "link": "https://search.bilibili.com/all?keyword=GTA6%E6%98%AF%E5%8F%B2%E4%B8%80%E6%B8%B8%E5%90%97",
-      "hot_value": 283199
+      "title": "塔克法尔能成为76人的文班吗",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A1%94%E5%85%8B%E6%B3%95%E5%B0%94%E8%83%BD%E6%88%90%E4%B8%BA76%E4%BA%BA%E7%9A%84%E6%96%87%E7%8F%AD%E5%90%97",
+      "hot_value": 283319
     },
     {
-      "title": "巴西一部落走出雨林要食物",
-      "link": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF%E4%B8%80%E9%83%A8%E8%90%BD%E8%B5%B0%E5%87%BA%E9%9B%A8%E6%9E%97%E8%A6%81%E9%A3%9F%E7%89%A9",
-      "hot_value": 283276
+      "title": "我们天下第一好S16版",
+      "link": "https://search.bilibili.com/all?keyword=%E6%88%91%E4%BB%AC%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E5%A5%BDS16%E7%89%88",
+      "hot_value": 283205
+    },
+    {
+      "title": "数学家称用AI证明了黎曼猜想",
+      "link": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%A7%B0%E7%94%A8AI%E8%AF%81%E6%98%8E%E4%BA%86%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3",
+      "hot_value": 283317
+    },
+    {
+      "title": "被刘耀文LoveLoveLove拿捏",
+      "link": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E5%88%98%E8%80%80%E6%96%87LoveLoveLove%E6%8B%BF%E6%8D%8F",
+      "hot_value": 283282
+    },
+    {
+      "title": "爱沙尼亚为何关闭与俄罗斯的口岸",
+      "link": "https://search.bilibili.com/all?keyword=%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%E4%B8%BA%E4%BD%95%E5%85%B3%E9%97%AD%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E5%8F%A3%E5%B2%B8",
+      "hot_value": 283171
     },
     {
       "title": "玩GTA6认识的非凡恶人们",
@@ -120,14 +125,19 @@
       "hot_value": 283028
     },
     {
-      "title": "我们天下第一好S16版",
-      "link": "https://search.bilibili.com/all?keyword=%E6%88%91%E4%BB%AC%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E5%A5%BDS16%E7%89%88",
-      "hot_value": 283205
+      "title": "回看Bin这一年有多梦幻",
+      "link": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E7%9C%8BBin%E8%BF%99%E4%B8%80%E5%B9%B4%E6%9C%89%E5%A4%9A%E6%A2%A6%E5%B9%BB",
+      "hot_value": 283325
     },
     {
-      "title": "GTA6实况",
-      "link": "https://search.bilibili.com/all?keyword=GTA6%E5%AE%9E%E5%86%B5",
-      "hot_value": 283109
+      "title": "巴西一部落走出雨林要食物",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF%E4%B8%80%E9%83%A8%E8%90%BD%E8%B5%B0%E5%87%BA%E9%9B%A8%E6%9E%97%E8%A6%81%E9%A3%9F%E7%89%A9",
+      "hot_value": 283276
+    },
+    {
+      "title": "把Win10装进哔哩哔哩",
+      "link": "https://search.bilibili.com/all?keyword=%E6%8A%8AWin10%E8%A3%85%E8%BF%9B%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9",
+      "hot_value": 282967
     },
     {
       "title": "RTX Spark迷你工作站性能实测",
@@ -135,24 +145,14 @@
       "hot_value": 283314
     },
     {
-      "title": "粤港澳迎11月罕见湿冷天气",
-      "link": "https://search.bilibili.com/all?keyword=%E7%B2%A4%E6%B8%AF%E6%BE%B3%E8%BF%8E11%E6%9C%88%E7%BD%95%E8%A7%81%E6%B9%BF%E5%86%B7%E5%A4%A9%E6%B0%94",
-      "hot_value": 283316
+      "title": "特朗普现场打趣普京",
+      "link": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%B0%E5%9C%BA%E6%89%93%E8%B6%A3%E6%99%AE%E4%BA%AC",
+      "hot_value": 283072
     },
     {
-      "title": "塔克法尔能成为76人的文班吗",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A1%94%E5%85%8B%E6%B3%95%E5%B0%94%E8%83%BD%E6%88%90%E4%B8%BA76%E4%BA%BA%E7%9A%84%E6%96%87%E7%8F%AD%E5%90%97",
-      "hot_value": 283319
-    },
-    {
-      "title": "小Lin说拆解GTA背后的千亿豪赌",
-      "link": "https://search.bilibili.com/all?keyword=%E5%B0%8FLin%E8%AF%B4%E6%8B%86%E8%A7%A3GTA%E8%83%8C%E5%90%8E%E7%9A%84%E5%8D%83%E4%BA%BF%E8%B1%AA%E8%B5%8C",
-      "hot_value": 283063
-    },
-    {
-      "title": "弗雷尔卓德民谣是什么梗",
-      "link": "https://search.bilibili.com/all?keyword=%E5%BC%97%E9%9B%B7%E5%B0%94%E5%8D%93%E5%BE%B7%E6%B0%91%E8%B0%A3%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
-      "hot_value": 283263
+      "title": "挑战看完22分钟的黄金矿工",
+      "link": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%9C%8B%E5%AE%8C22%E5%88%86%E9%92%9F%E7%9A%84%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5",
+      "hot_value": 283277
     }
   ]
 }
