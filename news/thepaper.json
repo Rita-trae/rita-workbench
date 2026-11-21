@@ -2,7 +2,7 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-11-22T00:42:41+08:00",
+  "updated_at": "2026-11-22T05:55:57+08:00",
   "data": [
     {
       "title": "倒计时两天！《奔流》第三季从哈德逊河回到苏州河畔",
@@ -17,6 +17,11 @@
     {
       "title": "“AI检出率”致作者陷自证困局：论文改到“学生作文水平”才达标，却没了学术性",
       "link": "https://www.thepaper.cn/newsDetail_forward_34521136",
+      "hot_value": 0
+    },
+    {
+      "title": "长安大学回应14日面试13日出结果：学校人事处处长等人被问责",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34530115",
       "hot_value": 0
     },
     {
@@ -45,11 +50,6 @@
       "hot_value": 0
     },
     {
-      "title": "长安大学回应14日面试13日出结果：学校人事处处长等人被问责",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34530115",
-      "hot_value": 0
-    },
-    {
       "title": "马上评｜星二代扎堆出道，观众在担心什么？",
       "link": "https://www.thepaper.cn/newsDetail_forward_34518684",
       "hot_value": 0
@@ -75,16 +75,6 @@
       "hot_value": 0
     },
     {
-      "title": "众声｜放下“两难处境”的话术，破题高峰时段共享单车停车难",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34527878",
-      "hot_value": 0
-    },
-    {
-      "title": "内塔尼亚胡真的悬了？拆解以色列70年无解的族群与制度死结｜907编辑部",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34522147",
-      "hot_value": 0
-    },
-    {
       "title": "国内多家品牌宣布：下调金饰克价",
       "link": "https://www.thepaper.cn/newsDetail_forward_34529710",
       "hot_value": 0
@@ -100,8 +90,18 @@
       "hot_value": 0
     },
     {
-      "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34525301",
+      "title": "众声｜放下“两难处境”的话术，破题高峰时段共享单车停车难",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34527878",
+      "hot_value": 0
+    },
+    {
+      "title": "内塔尼亚胡真的悬了？拆解以色列70年无解的族群与制度死结｜907编辑部",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34522147",
+      "hot_value": 0
+    },
+    {
+      "title": "生物类似药集采迎进展：11月24号开始信息申报，涉及7个品种15个规格",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34529994",
       "hot_value": 0
     }
   ]
