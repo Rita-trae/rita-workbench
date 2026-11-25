@@ -2,7 +2,7 @@
   "platform": "thepaper",
   "name": "澎湃",
   "emoji": "📰",
-  "updated_at": "2026-11-25T05:33:06+08:00",
+  "updated_at": "2026-11-25T12:37:16+08:00",
   "data": [
     {
       "title": "陈吉宁涉嫌严重违纪违法正接受中央纪委国家监委审查调查",
@@ -12,71 +12,6 @@
     {
       "title": "经纬度｜“纯过日子”绝不等于“低欲望”",
       "link": "https://www.thepaper.cn/newsDetail_forward_34544945",
-      "hot_value": 0
-    },
-    {
-      "title": "大学应有的模样｜三十年过去，大学生活为何变了",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34539199",
-      "hot_value": 0
-    },
-    {
-      "title": "117起典型案例中的“虚假住院骗保”：违规与违法的边界在哪",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34450989",
-      "hot_value": 0
-    },
-    {
-      "title": "英伟达市值暴增近万亿美元！黄仁勋如何上演王者归来，他会成为更好的CEO吗？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34544383",
-      "hot_value": 0
-    },
-    {
-      "title": "中国载人航天工程首位外籍航天员，主要承担任务有这些",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34544928",
-      "hot_value": 0
-    },
-    {
-      "title": "受贿数额特别巨大！陕西省委原常委、西安市委原书记方红卫被提起公诉",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34545128",
-      "hot_value": 0
-    },
-    {
-      "title": "连线｜停电、断暖、房租涨……第五个战时寒冬，乌克兰人如何“适应”生活？",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34539997",
-      "hot_value": 0
-    },
-    {
-      "title": "英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34544155",
-      "hot_value": 0
-    },
-    {
-      "title": "品牌汉堡商标遭“山寨”，侵权方被判赔500万元",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34546340",
-      "hot_value": 0
-    },
-    {
-      "title": "泸州花坛藏尸案被告人陈某芬提起上诉，被害人儿子：打算卖房还外债等待最终结果，考虑带货维持基本生活",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34545774",
-      "hot_value": 0
-    },
-    {
-      "title": "实探深圳水贝①｜工作日人头攒动，有顾客趁低价来选购黄金，有顾客因刚需购入",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34540414",
-      "hot_value": 0
-    },
-    {
-      "title": "宁波一女子在“游步道”散步时被公路自行车撞致脑出血，被认定“未靠路边”担次责",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34541107",
-      "hot_value": 0
-    },
-    {
-      "title": "石家庄一男子卖课被控传销：“打传办”曾认定非诈骗型传销，法院已四次开庭",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34537878",
-      "hot_value": 0
-    },
-    {
-      "title": "一路丰碑｜读懂长征胜利的力量",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34458957",
       "hot_value": 0
     },
     {
@@ -90,18 +25,83 @@
       "hot_value": 0
     },
     {
+      "title": "贵州从江对损害野生鸟类资源等问题开展调查，5名犯罪嫌疑人被抓",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34550330",
+      "hot_value": 0
+    },
+    {
+      "title": "品牌汉堡商标遭“山寨”，侵权方被判赔500万元",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34546340",
+      "hot_value": 0
+    },
+    {
+      "title": "直播丨神舟二十四号载人飞船发射取得圆满成功",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34545247",
+      "hot_value": 0
+    },
+    {
+      "title": "大学应有的模样｜当过程不再被视为通向结果的意义之路",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34539120",
+      "hot_value": 0
+    },
+    {
+      "title": "媒体：洗脚盆上车？车企创新别跑偏",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34550322",
+      "hot_value": 0
+    },
+    {
+      "title": "泸州花坛藏尸案被告人陈某芬提起上诉，被害人儿子：打算卖房还外债等待最终结果，考虑带货维持基本生活",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34545774",
+      "hot_value": 0
+    },
+    {
+      "title": "美国基础设施接连故障：全国停飞、银行邮件宕机，民众囤货备急",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34546237",
+      "hot_value": 0
+    },
+    {
+      "title": "媒体评34米人行横道绿灯仅12秒：夺命信号灯拷问公共治理善意",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34546195",
+      "hot_value": 0
+    },
+    {
+      "title": "博主视频露出故宫同款“名画”后被封禁？故宫回应无该藏品，平台透露封禁因“性化着装”非“炫富” ",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34547681",
+      "hot_value": 0
+    },
+    {
+      "title": "钱一栋｜AI步步紧逼，价值判断是人类最后的护城河吗？",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34529993",
+      "hot_value": 0
+    },
+    {
       "title": "一水连世界，共话城市未来",
       "link": "https://www.thepaper.cn/newsDetail_forward_34549129",
       "hot_value": 0
     },
     {
-      "title": "神二十四乘组汤洪波、武毅、穆罕默德·齐尚·阿里简历来了",
-      "link": "https://www.thepaper.cn/newsDetail_forward_34545361",
+      "title": "王毅同英国外交大臣米利班德通电话",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34550196",
+      "hot_value": 0
+    },
+    {
+      "title": "俄军舰在利比亚遭乌无人艇袭击，战火外溢对俄乌冲突有何影响？",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34549314",
+      "hot_value": 0
+    },
+    {
+      "title": "亚洲数学联盟成立，丘成桐任主席",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34551655",
       "hot_value": 0
     },
     {
       "title": "田秉毅任国家羽毛球队主教练",
       "link": "https://www.thepaper.cn/newsDetail_forward_34549598",
+      "hot_value": 0
+    },
+    {
+      "title": "中方对黄仁勋重回英伟达有何评论？外交部回应",
+      "link": "https://www.thepaper.cn/newsDetail_forward_34546549",
       "hot_value": 0
     }
   ]
