@@ -2,22 +2,62 @@
   "platform": "bilibili",
   "name": "B站",
   "emoji": "📺",
-  "updated_at": "2026-11-26T07:34:56+08:00",
+  "updated_at": "2026-11-26T13:29:26+08:00",
   "data": [
     {
-      "title": "神舟二十四号发射成功",
-      "link": "https://search.bilibili.com/all?keyword=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F",
-      "hot_value": 283939
+      "title": "神舟二十四号飞船发射全记录",
+      "link": "https://search.bilibili.com/all?keyword=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E9%A3%9E%E8%88%B9%E5%8F%91%E5%B0%84%E5%85%A8%E8%AE%B0%E5%BD%95",
+      "hot_value": 284085
     },
     {
-      "title": "我国将出现至少两轮大范围升温",
-      "link": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E5%B0%86%E5%87%BA%E7%8E%B0%E8%87%B3%E5%B0%91%E4%B8%A4%E8%BD%AE%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%8D%87%E6%B8%A9",
-      "hot_value": 284051
+      "title": "蓝色星原公测版本PV",
+      "link": "https://search.bilibili.com/all?keyword=%E8%93%9D%E8%89%B2%E6%98%9F%E5%8E%9F%E5%85%AC%E6%B5%8B%E7%89%88%E6%9C%ACPV",
+      "hot_value": 283977
     },
     {
-      "title": "爱情公寓导演韦正来B站了",
-      "link": "https://search.bilibili.com/all?keyword=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E5%AF%BC%E6%BC%94%E9%9F%A6%E6%AD%A3%E6%9D%A5B%E7%AB%99%E4%BA%86",
-      "hot_value": 284050
+      "title": "AI证实黎曼猜想数学博士集体眩晕",
+      "link": "https://search.bilibili.com/all?keyword=AI%E8%AF%81%E5%AE%9E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E6%95%B0%E5%AD%A6%E5%8D%9A%E5%A3%AB%E9%9B%86%E4%BD%93%E7%9C%A9%E6%99%95",
+      "hot_value": 284103
+    },
+    {
+      "title": "Zeus称BLG夺冠看得很过瘾",
+      "link": "https://search.bilibili.com/all?keyword=Zeus%E7%A7%B0BLG%E5%A4%BA%E5%86%A0%E7%9C%8B%E5%BE%97%E5%BE%88%E8%BF%87%E7%98%BE",
+      "hot_value": 284086
+    },
+    {
+      "title": "人生至少有一串烧烤属于云南",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%94%9F%E8%87%B3%E5%B0%91%E6%9C%89%E4%B8%80%E4%B8%B2%E7%83%A7%E7%83%A4%E5%B1%9E%E4%BA%8E%E4%BA%91%E5%8D%97",
+      "hot_value": 284096
+    },
+    {
+      "title": "AI证明黎曼猜想代码大幅简化",
+      "link": "https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%B9%85%E7%AE%80%E5%8C%96",
+      "hot_value": 284090
+    },
+    {
+      "title": "詹姆斯创NBA最老三双记录",
+      "link": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%88%9BNBA%E6%9C%80%E8%80%81%E4%B8%89%E5%8F%8C%E8%AE%B0%E5%BD%95",
+      "hot_value": 284082
+    },
+    {
+      "title": "央视专访巨人之旅冠军赵家驹",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E4%B8%93%E8%AE%BF%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E5%86%A0%E5%86%9B%E8%B5%B5%E5%AE%B6%E9%A9%B9",
+      "hot_value": 284093
+    },
+    {
+      "title": "从零做出你的第一个AI项目",
+      "link": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E9%9B%B6%E5%81%9A%E5%87%BA%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AAAI%E9%A1%B9%E7%9B%AE",
+      "hot_value": 284098
+    },
+    {
+      "title": "拜仁1-2里尔遭赛季首败",
+      "link": "https://search.bilibili.com/all?keyword=%E6%8B%9C%E4%BB%811-2%E9%87%8C%E5%B0%94%E9%81%AD%E8%B5%9B%E5%AD%A3%E9%A6%96%E8%B4%A5",
+      "hot_value": 284071
+    },
+    {
+      "title": "魔女养成计划电影版",
+      "link": "https://search.bilibili.com/all?keyword=%E9%AD%94%E5%A5%B3%E5%85%BB%E6%88%90%E8%AE%A1%E5%88%92%E7%94%B5%E5%BD%B1%E7%89%88",
+      "hot_value": 284102
     },
     {
       "title": "中国空间站 从住标间到三室一厅",
@@ -25,89 +65,24 @@
       "hot_value": 284012
     },
     {
-      "title": "RTX5070跌幅有多猛",
-      "link": "https://search.bilibili.com/all?keyword=RTX5070%E8%B7%8C%E5%B9%85%E6%9C%89%E5%A4%9A%E7%8C%9B",
-      "hot_value": 284060
+      "title": "巴基斯坦航天员用中文致辞",
+      "link": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E7%94%A8%E4%B8%AD%E6%96%87%E8%87%B4%E8%BE%9E",
+      "hot_value": 283994
     },
     {
-      "title": "新加坡Major s1mple三连败出局",
-      "link": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8A%A0%E5%9D%A1Major%20s1mple%E4%B8%89%E8%BF%9E%E8%B4%A5%E5%87%BA%E5%B1%80",
-      "hot_value": 284056
+      "title": "爱情公寓导演韦正来B站了",
+      "link": "https://search.bilibili.com/all?keyword=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E5%AF%BC%E6%BC%94%E9%9F%A6%E6%AD%A3%E6%9D%A5B%E7%AB%99%E4%BA%86",
+      "hot_value": 284050
     },
     {
-      "title": "谷歌挂出6篇AI生成数学论文",
-      "link": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%8C%82%E5%87%BA6%E7%AF%87AI%E7%94%9F%E6%88%90%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87",
-      "hot_value": 284061
+      "title": "中国空间站内部有何玄机",
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%86%85%E9%83%A8%E6%9C%89%E4%BD%95%E7%8E%84%E6%9C%BA",
+      "hot_value": 284072
     },
     {
-      "title": "NBA国王队新秀阿卡夫实力如何",
-      "link": "https://search.bilibili.com/all?keyword=NBA%E5%9B%BD%E7%8E%8B%E9%98%9F%E6%96%B0%E7%A7%80%E9%98%BF%E5%8D%A1%E5%A4%AB%E5%AE%9E%E5%8A%9B%E5%A6%82%E4%BD%95",
-      "hot_value": 284054
-    },
-    {
-      "title": "GLM5.4到底有多能打",
-      "link": "https://search.bilibili.com/all?keyword=GLM5.4%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%83%BD%E6%89%93",
-      "hot_value": 284055
-    },
-    {
-      "title": "BLG赛前宣传片是怎么拍的",
-      "link": "https://search.bilibili.com/all?keyword=BLG%E8%B5%9B%E5%89%8D%E5%AE%A3%E4%BC%A0%E7%89%87%E6%98%AF%E6%80%8E%E4%B9%88%E6%8B%8D%E7%9A%84",
-      "hot_value": 284031
-    },
-    {
-      "title": "T1官宣Zeus回归",
-      "link": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Zeus%E5%9B%9E%E5%BD%92",
-      "hot_value": 284018
-    },
-    {
-      "title": "管泽元对话BLG深扒夺冠幕后",
-      "link": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%AF%B9%E8%AF%9DBLG%E6%B7%B1%E6%89%92%E5%A4%BA%E5%86%A0%E5%B9%95%E5%90%8E",
-      "hot_value": 283971
-    },
-    {
-      "title": "蓝色星原全五星角色攻略",
-      "link": "https://search.bilibili.com/all?keyword=%E8%93%9D%E8%89%B2%E6%98%9F%E5%8E%9F%E5%85%A8%E4%BA%94%E6%98%9F%E8%A7%92%E8%89%B2%E6%94%BB%E7%95%A5",
-      "hot_value": 284016
-    },
-    {
-      "title": "盘点Zeus在HLE的高光名场面",
-      "link": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9Zeus%E5%9C%A8HLE%E7%9A%84%E9%AB%98%E5%85%89%E5%90%8D%E5%9C%BA%E9%9D%A2",
-      "hot_value": 284019
-    },
-    {
-      "title": "因缘精灵CRPG玩法测评",
-      "link": "https://search.bilibili.com/all?keyword=%E5%9B%A0%E7%BC%98%E7%B2%BE%E7%81%B5CRPG%E7%8E%A9%E6%B3%95%E6%B5%8B%E8%AF%84",
-      "hot_value": 283964
-    },
-    {
-      "title": "黄仁勋回归能否拯救美国AI泡沫",
-      "link": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%E8%83%BD%E5%90%A6%E6%8B%AF%E6%95%91%E7%BE%8E%E5%9B%BDAI%E6%B3%A1%E6%B2%AB",
-      "hot_value": 284049
-    },
-    {
-      "title": "考古任贤齐的天王之路",
-      "link": "https://search.bilibili.com/all?keyword=%E8%80%83%E5%8F%A4%E4%BB%BB%E8%B4%A4%E9%BD%90%E7%9A%84%E5%A4%A9%E7%8E%8B%E4%B9%8B%E8%B7%AF",
-      "hot_value": 283957
-    },
-    {
-      "title": "蓝色星原涂山小玉PV",
-      "link": "https://search.bilibili.com/all?keyword=%E8%93%9D%E8%89%B2%E6%98%9F%E5%8E%9F%E6%B6%82%E5%B1%B1%E5%B0%8F%E7%8E%89PV",
-      "hot_value": 283801
-    },
-    {
-      "title": "盘点GTA6里60个隐藏细节",
-      "link": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9GTA6%E9%87%8C60%E4%B8%AA%E9%9A%90%E8%97%8F%E7%BB%86%E8%8A%82",
-      "hot_value": 283933
-    },
-    {
-      "title": "手机影像全机型大横评",
-      "link": "https://search.bilibili.com/all?keyword=%E6%89%8B%E6%9C%BA%E5%BD%B1%E5%83%8F%E5%85%A8%E6%9C%BA%E5%9E%8B%E5%A4%A7%E6%A8%AA%E8%AF%84",
-      "hot_value": 283992
-    },
-    {
-      "title": "大肥鱼挑战AI类魂BOSS",
-      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%91%E6%88%98AI%E7%B1%BB%E9%AD%82BOSS",
-      "hot_value": 284003
+      "title": "我国将出现至少两轮大范围升温",
+      "link": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E5%B0%86%E5%87%BA%E7%8E%B0%E8%87%B3%E5%B0%91%E4%B8%A4%E8%BD%AE%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%8D%87%E6%B8%A9",
+      "hot_value": 284051
     },
     {
       "title": "为什么捕鸟屡禁不止",
@@ -115,14 +90,44 @@
       "hot_value": 284058
     },
     {
-      "title": "火影手游11周年创作大赏",
-      "link": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B811%E5%91%A8%E5%B9%B4%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%8F",
-      "hot_value": 284057
-    },
-    {
       "title": "美国两州起诉SpaceX",
       "link": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%B7%9E%E8%B5%B7%E8%AF%89SpaceX",
       "hot_value": 283951
+    },
+    {
+      "title": "欧冠葡萄牙体育2-2曼联",
+      "link": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E5%86%A0%E8%91%A1%E8%90%84%E7%89%99%E4%BD%93%E8%82%B22-2%E6%9B%BC%E8%81%94",
+      "hot_value": 284075
+    },
+    {
+      "title": "复联5会照搬漫画团灭结局吗",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E8%81%945%E4%BC%9A%E7%85%A7%E6%90%AC%E6%BC%AB%E7%94%BB%E5%9B%A2%E7%81%AD%E7%BB%93%E5%B1%80%E5%90%97",
+      "hot_value": 283859
+    },
+    {
+      "title": "76人战胜热火 詹姆斯三双",
+      "link": "https://search.bilibili.com/all?keyword=76%E4%BA%BA%E6%88%98%E8%83%9C%E7%83%AD%E7%81%AB%20%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%89%E5%8F%8C",
+      "hot_value": 284077
+    },
+    {
+      "title": "FIFA官网撰文介绍赵松源",
+      "link": "https://search.bilibili.com/all?keyword=FIFA%E5%AE%98%E7%BD%91%E6%92%B0%E6%96%87%E4%BB%8B%E7%BB%8D%E8%B5%B5%E6%9D%BE%E6%BA%90",
+      "hot_value": 284067
+    },
+    {
+      "title": "黄仁勋回归能否拯救美国AI泡沫",
+      "link": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%E8%83%BD%E5%90%A6%E6%8B%AF%E6%95%91%E7%BE%8E%E5%9B%BDAI%E6%B3%A1%E6%B2%AB",
+      "hot_value": 284049
+    },
+    {
+      "title": "手机影像全机型大横评",
+      "link": "https://search.bilibili.com/all?keyword=%E6%89%8B%E6%9C%BA%E5%BD%B1%E5%83%8F%E5%85%A8%E6%9C%BA%E5%9E%8B%E5%A4%A7%E6%A8%AA%E8%AF%84",
+      "hot_value": 283992
+    },
+    {
+      "title": "新加坡Major s1mple三连败出局",
+      "link": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8A%A0%E5%9D%A1Major%20s1mple%E4%B8%89%E8%BF%9E%E8%B4%A5%E5%87%BA%E5%B1%80",
+      "hot_value": 284056
     },
     {
       "title": "乡村教师UP主初代学生限时回归",
@@ -130,29 +135,24 @@
       "hot_value": 283987
     },
     {
-      "title": "GTA6的游戏自由度有多高",
-      "link": "https://search.bilibili.com/all?keyword=GTA6%E7%9A%84%E6%B8%B8%E6%88%8F%E8%87%AA%E7%94%B1%E5%BA%A6%E6%9C%89%E5%A4%9A%E9%AB%98",
-      "hot_value": 283808
+      "title": "盘点Zeus在HLE的高光名场面",
+      "link": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9Zeus%E5%9C%A8HLE%E7%9A%84%E9%AB%98%E5%85%89%E5%90%8D%E5%9C%BA%E9%9D%A2",
+      "hot_value": 284019
     },
     {
-      "title": "魔方动作新游狩首曝实机",
-      "link": "https://search.bilibili.com/all?keyword=%E9%AD%94%E6%96%B9%E5%8A%A8%E4%BD%9C%E6%96%B0%E6%B8%B8%E7%8B%A9%E9%A6%96%E6%9B%9D%E5%AE%9E%E6%9C%BA",
-      "hot_value": 283961
+      "title": "Anthropic跌破发行价",
+      "link": "https://search.bilibili.com/all?keyword=Anthropic%E8%B7%8C%E7%A0%B4%E5%8F%91%E8%A1%8C%E4%BB%B7",
+      "hot_value": 283974
     },
     {
-      "title": "TES选手新赛季何去何从",
-      "link": "https://search.bilibili.com/all?keyword=TES%E9%80%89%E6%89%8B%E6%96%B0%E8%B5%9B%E5%AD%A3%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
-      "hot_value": 283993
+      "title": "大肥鱼挑战AI类魂BOSS",
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%91%E6%88%98AI%E7%B1%BB%E9%AD%82BOSS",
+      "hot_value": 284003
     },
     {
-      "title": "黄金矿工全国前十巅峰对决",
-      "link": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E5%85%A8%E5%9B%BD%E5%89%8D%E5%8D%81%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3",
-      "hot_value": 283803
-    },
-    {
-      "title": "火影玩家的神临时刻",
-      "link": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%A5%9E%E4%B8%B4%E6%97%B6%E5%88%BB",
-      "hot_value": 284002
+      "title": "盘点GTA6里60个隐藏细节",
+      "link": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9GTA6%E9%87%8C60%E4%B8%AA%E9%9A%90%E8%97%8F%E7%BB%86%E8%8A%82",
+      "hot_value": 283933
     }
   ]
 }
